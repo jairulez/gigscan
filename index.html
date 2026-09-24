@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gig Scan - Jay</title>
+<style>
+body{margin:0;font-family:-apple-system,Segoe UI,Roboto,sans-serif;background:#0f1115;color:#e6e6e6}
+header{padding:20px 16px 8px;max-width:900px;margin:auto}h1{margin:0;font-size:24px}.sub{color:#9aa0a6;font-size:13px;margin-top:4px}
+.stats{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.stat{background:#1a1d24;border-radius:10px;padding:8px 12px;font-size:13px}.stat b{font-size:18px;display:block}
+main{max-width:900px;margin:auto;padding:0 16px 40px}.day{margin-top:22px}.day h2{font-size:17px;border-bottom:1px solid #2a2e37;padding-bottom:6px}
+.note{border-radius:8px;padding:9px 12px;margin:8px 0;font-size:13px}.warn{background:#3a2a0c;border-left:4px solid #f5a623}.info{background:#12263a;border-left:4px solid #4a90e2}
+.card{background:#1a1d24;border-radius:12px;padding:12px 14px;margin:10px 0}.top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.card a{color:#8ab4f8;font-weight:600;text-decoration:none;font-size:15px}.plat{font-size:11px;background:#2a2e37;border-radius:6px;padding:2px 7px;margin-right:6px;color:#cfd3da}
+.meta{font-size:13px;color:#b8bcc4;margin-top:6px;line-height:1.5}.pill{font-size:11px;font-weight:700;border-radius:20px;padding:3px 9px;white-space:nowrap;text-transform:uppercase}
+.spotted{background:#2a2e37;color:#cfd3da}.pending{background:#4a3b00;color:#ffd54f}.sent{background:#0d3b66;color:#90caf9}.won{background:#1b4d2b;color:#81c784}.dead{background:#4a1c1c;color:#ef9a9a}
+.snote{font-size:12px;color:#9aa0a6;margin-top:4px}details{font-size:13px;color:#9aa0a6;margin-top:6px}li{margin:3px 0}
+</style></head><body>
+<header><h1>Gig Scan</h1><div class="sub" id="upd"></div><div class="stats" id="stats"></div></header>
+<main id="days"></main>
+<script>
+const L={spotted:"Spotted",pending:"Bid pending Jay",sent:"Bid sent",won:"Won",dead:"Dead"};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{
+ document.getElementById("upd").textContent="Updated "+d.updated+" · daily scan at 8 AM IST";
+ const all=d.days.flatMap(x=>x.picks),c=s=>all.filter(p=>p.status==s).length;
+ document.getElementById("stats").innerHTML=[["Picks",all.length],["Pending",c("pending")],["Sent",c("sent")],["Won",c("won")],["Dead",c("dead")]].map(([k,v])=>`<div class="stat"><b>${v}</b>${k}</div>`).join("");
+ document.getElementById("days").innerHTML=d.days.map(day=>`<section class="day"><h2>${esc(day.date)}</h2>
+ ${(day.notes||[]).map(n=>`<div class="note ${n.type}">${esc(n.text)}</div>`).join("")}
+ ${day.picks.length?day.picks.map(p=>`<div class="card"><div class="top"><div><span class="plat">${esc(p.platform)}</span><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a></div><span class="pill ${p.status}">${L[p.status]||esc(p.status)}</span></div>
+ <div class="meta">💰 ${esc(p.budget)} &nbsp;·&nbsp; 🧾 ${esc(p.bids)} bids &nbsp;·&nbsp; 👤 ${esc(p.client)}</div>${p.status_note?`<div class="snote">${esc(p.status_note)}</div>`:""}</div>`).join(""):`<div class="note info">Nothing worth it today.</div>`}
+ <details><summary>Boards and filtered-out gigs</summary><p>${esc(day.boards)}</p><ul>${(day.rejects||[]).map(r=>`<li>${esc(r)}</li>`).join("")}</ul></details></section>`).join("");
+});
+</script></body></html>
