@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 08:45 IST",
+  "updated": "2026-09-24 08:50 IST",
   "days": [
     {
       "date": "2026-09-24",
@@ -9,7 +9,7 @@
       ],
       "boards": "Upwork (throttled), Freelancer, PeoplePerHour, Guru, Truelancer, r/forhire, r/slavelabour. Contra: needs login, skipped.",
       "picks": [
-        {"platform": "Guru", "title": "Excel Spreadsheet Very Light Formula", "url": "https://www.guru.com/jobs/excel-spreadsheet-very-light-formula/2120432", "budget": "Fixed (not shown). Our bid: $25", "bids": "68 quotes", "client": "US client, $8,664 spent, 100% paid", "status": "dead", "status_note": "Jay approved a $25 bid, but the client removed the job (HTTP 410) before we could submit."},
+        {"platform": "Guru", "title": "Excel Spreadsheet Very Light Formula", "url": "https://www.guru.com/jobs/excel-spreadsheet-very-light-formula/2120432", "budget": "Fixed (not shown). Our bid: $25", "bids": "68", "client": "US client, $8,664 spent, 100% paid", "status": "dead", "status_note": "Jay approved a $25 bid, but the client removed the job (HTTP 410) before we could submit."},
         {"platform": "Freelancer", "title": "Python + AI Script for Stock Summary (BSE/NSE)", "url": "https://www.freelancer.com/projects/ai-integration/Python-Script-for-Stock-Summary", "budget": "₹1,500-12,500 fixed (avg bid ~₹8,100)", "bids": "51", "client": "Payment verification not visible", "status": "spotted", "status_note": "$20 deposit gate applies"},
         {"platform": "Freelancer", "title": "Excel Timesheet & Payroll Tool", "url": "https://www.freelancer.com/projects/data-analysis/Excel-Timesheet-Payroll-Tool", "budget": "₹12,500-37,500 fixed (avg bid ~₹20,000)", "bids": "32", "client": "Payment verification not visible", "status": "spotted", "status_note": "$20 deposit gate applies"}
       ],
