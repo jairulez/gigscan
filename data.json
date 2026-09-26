@@ -1,6 +1,29 @@
 {
-  "updated": "2026-09-25 08:14 IST",
+  "updated": "2026-09-26 08:14 IST",
   "days": [
+    {
+      "date": "2026-09-26",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No fresh listing met the clear-scope, viable-budget, bot-executable and zero-upfront test today. No bid or client contact."
+        },
+        {
+          "type": "warn",
+          "text": "Upwork search redirected to login after Cloudflare; no job results or account eligibility verified. Hubstaff Talent profile is visible to Everyone, but application eligibility was not verified in-product."
+        }
+      ],
+      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer API. Upwork one search attempt redirected to login; Contra skipped (login).",
+      "picks": [],
+      "rejects": [
+        "Guru newest: galvanizing plant needs stamped electrical plans; Shopify management requires hands-on ad operations and ongoing store ownership, not a bounded bot deliverable.",
+        "Truelancer: five 2,000-word posts plus a research report for ₹600, underpriced; video-call data entry and mobile UX redesign require live human work.",
+        "PeoplePerHour newest: Android signing diagnosis, guest post placement, professional label design or media contacts, not a clear bot-executable fit; platform signup has paid annual-plan gate.",
+        "Hubstaff Talent newest/search matches: ongoing social, SEO, graphic design, operations or specialist roles; no suitable bounded listing, and in-product apply eligibility unverified.",
+        "Reddit fresh: r/forhire and r/slavelabour visible tasks were offers or a request to falsify dates in a PDF; latter rejected as deceptive.",
+        "Freelancer API public fetch did not yield usable job data; $20 deposit gate remains."
+      ]
+    },
     {
       "date": "2026-09-25",
       "notes": [
@@ -22,8 +45,8 @@
           "budget": "£50-£90 fixed (posted £70 / ~$94)",
           "bids": "28",
           "client": "Stonebridge L., UK; payment verification not visible; 0 completed projects",
-          "status": "spotted",
-          "status_note": "Needs 2-3 truthful examples of personally built landing pages and a platform recommendation before any proposal. No proposal sent."
+          "status": "dead",
+          "status_note": "Route dropped: PeoplePerHour freelancer signup is gated by a paid annual plan in the live product. No proposal sent. Listing may remain live, but it is not an actionable zero-upfront route for Jay."
         }
       ],
       "rejects": [
