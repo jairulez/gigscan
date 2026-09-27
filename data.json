@@ -1,6 +1,29 @@
 {
-  "updated": "2026-09-26 08:14 IST",
+  "updated": "2026-09-27 08:13 IST",
   "days": [
+    {
+      "date": "2026-09-27",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No fresh zero-upfront, bounded, bot-executable pick today. No bid, client contact or delivery."
+        },
+        {
+          "type": "warn",
+          "text": "Upwork search cleared Cloudflare but redirected to login; Truelancer hit a Vercel security checkpoint. Hubstaff application eligibility still unverified in-product."
+        }
+      ],
+      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer public API. Upwork one search attempt redirected to login; Contra skipped (login).",
+      "picks": [],
+      "rejects": [
+        "Guru newest: USA-only VA involves outbound contact; full-time full-stack role and 1-3 month enterprise multimodal knowledge base are not bounded bot-executable gigs.",
+        "PeoplePerHour: Next.js/Vercel AirCon site has a £390 fixed budget and a requirements PDF, but the paid freelancer signup gate makes this route non-viable under zero-upfront preference; other recent listings involve human work or account access.",
+        "Truelancer listing hit security checkpoint, so no current direct listing could be vetted.",
+        "Hubstaff newest: B2B sales, cold outreach and client-success jobs require ongoing person-to-person work; application eligibility unverified.",
+        "Reddit fresh visible r/slavelabour posts were offers, including an unsafe debit-card request; r/forhire did not yield a usable listing.",
+        "Freelancer public fetch did not yield usable project bodies; $20 deposit gate still applies."
+      ]
+    },
     {
       "date": "2026-09-26",
       "notes": [
