@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-04 08:12 IST",
+  "updated": "2026-10-05 08:12 IST",
   "days": [
+    {
+      "date": "2026-10-05",
+      "notes": [
+        {
+          "type": "info",
+          "text": "One research shortlist lead: Word formatting for a finished business book. No bid or client contact. Exact price and timeline need source files and target-layout review."
+        },
+        {
+          "type": "warn",
+          "text": "Guru application eligibility not verified. Upwork single search redirected to login; Truelancer live listing checkpointed. Payment verification unknown where not visible."
+        }
+      ],
+      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
+      "picks": [
+        {
+          "platform": "Guru",
+          "title": "Business Book - Interior design",
+          "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
+          "budget": "$1,000-$2,500 fixed; possible $1,000 quote only after file review",
+          "bids": "12",
+          "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
+          "status": "spotted",
+          "status_note": "238-page, 7x11 finished Word manuscript to match a target layout. Editable Word output. Target file not public: price/timeline conditional on sample review. Guru eligibility unverified; no bid sent."
+        }
+      ],
+      "rejects": [
+        "Guru missed-call/Twilio workflow is clear but budget unstated and requires compliance/carrier testing. Photo masking is ongoing 275-400 photos/month without rate; remote AnyDesk task has vague scope and unrealistic headline.",
+        "PeoplePerHour small image and research tasks remain behind dropped paid freelancer signup route.",
+        "Hubstaff latest jobs are ongoing operations, equity-track marketing partnership or fundraising, not bounded execution work.",
+        "Reddit investment research is long-term 2-4 hours/day with base rate undefined; other fresh visible posts are seller offers.",
+        "Freelancer sampled jobs are ongoing, specialist, underpriced or not exceptional enough for $20 deposit gate. Truelancer live scope unverified past checkpoint.",
+        "Earlier pet-food research listing remains open; statuses preserved."
+      ]
+    },
     {
       "date": "2026-10-04",
       "notes": [
