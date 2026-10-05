@@ -6,7 +6,7 @@
       "notes": [
         {
           "type": "info",
-          "text": "One research shortlist lead: Word formatting for a finished business book. No bid or client contact. Exact price and timeline need source files and target-layout review."
+          "text": "One Word-formatting lead. Exact $1,000 proposal approved, but not sent: required Guru account verification blocks bidding. No client contact."
         },
         {
           "type": "warn",
@@ -19,11 +19,11 @@
           "platform": "Guru",
           "title": "Business Book - Interior design",
           "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
-          "budget": "$1,000-$2,500 fixed; possible $1,000 quote only after file review",
-          "bids": "12",
+          "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
+          "bids": "13",
           "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
-          "status": "spotted",
-          "status_note": "238-page, 7x11 finished Word manuscript to match a target layout. Editable Word output. Target file not public: price/timeline conditional on sample review. Guru eligibility unverified; no bid sent."
+          "status": "pending",
+          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: logged-in quote route blocked by required phone verification and personal information. Target layout still needed before work begins."
         }
       ],
       "rejects": [
@@ -386,4 +386,4 @@
       ]
     }
   ]
-}
+        }
