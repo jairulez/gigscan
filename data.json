@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-05 08:16 IST",
+  "updated": "2026-10-06 08:14 IST",
   "days": [
+    {
+      "date": "2026-10-06",
+      "notes": [
+        {
+          "type": "info",
+          "text": "Nothing worth it today. No strong, accessible, bounded gig passed the budget and bot-execution filters. No bids or client contacts."
+        },
+        {
+          "type": "warn",
+          "text": "Upwork single search and both Reddit feeds redirected to login. Truelancer public listings were readable today. Guru book-formatting lead remains pending; account-verification completion not checked. Payment verification unknown where not visible."
+        }
+      ],
+      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
+      "picks": [],
+      "rejects": [
+        "Guru Claude/AnythingLLM pipeline: requires two or three relevant deployed-work links and ongoing senior ownership; no verified matching portfolio. Ceramics site: thousands of molds, multiple photos and cut sheets for $250-500 without bounded import scope (187 quotes).",
+        "Guru other new jobs require PCB/architecture expertise, BUET affiliation, ongoing marketing, or insufficiently defined low-budget research.",
+        "Truelancer $300 AI video factory: end-to-end generation and GPU workflow support, no bounded acceptance criteria; new client, $0 spend. GeneratePress task is $10; other new work is physical/specialist/video or vague.",
+        "PeoplePerHour two financial-service landing pages are scoped, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. Other recent jobs require specialist work or live support.",
+        "Hubstaff fresh roles are full-time payroll, GHL, customer service, or ongoing short-form video editing, not bounded automated deliverables.",
+        "Freelancer latest 60-project sample had no exceptional lead worth the $20 deposit gate. Ad-view automation, account recovery and forensics jobs excluded. Other jobs are underpriced, heavily contested, physical or specialist.",
+        "Reddit fresh feeds could not be screened after login redirects. Earlier Guru book and pet-food research listings remain open; bid counts refreshed, pet-food rate label corrected."
+      ]
+    },
     {
       "date": "2026-10-05",
       "notes": [
@@ -20,10 +44,10 @@
           "title": "Business Book - Interior design",
           "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
           "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
-          "bids": "13",
+          "bids": "54",
           "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
           "status": "pending",
-          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: logged-in quote route blocked by required phone verification and personal information. Target layout still needed before work begins."
+          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: logged-in quote route blocked by required phone verification and personal information. Target layout still needed before work begins. Rechecked Oct 6: open, 54 quotes, Hired (0). Account-verification completion not checked today."
         }
       ],
       "rejects": [
@@ -371,11 +395,11 @@
           "platform": "Freelancer",
           "title": "Small Animal Food Buyer Insights",
           "url": "https://www.freelancer.com/projects/data-analysis/Small-Animal-Food-Buyer-Insights",
-          "budget": "$25-50 fixed",
-          "bids": "32",
+          "budget": "$25-50/hour (live listing; earlier fixed label corrected)",
+          "bids": "64",
           "client": "Tanzania, new account",
           "status": "spotted",
-          "status_note": "Not bid: Freelancer $20 deposit"
+          "status_note": "Not bid: $20 deposit gate applies. Rechecked Oct 6: open, ends in about 9 hours."
         }
       ],
       "rejects": [
