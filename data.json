@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-06 08:14 IST",
+  "updated": "2026-10-07 08:12 IST",
   "days": [
+    {
+      "date": "2026-10-07",
+      "notes": [
+        {
+          "type": "info",
+          "text": "Nothing worth it today. No strong, accessible, bounded gig passed the scope, budget and proven-fit filters. No bids or client contacts."
+        },
+        {
+          "type": "warn",
+          "text": "Upwork single search and both Reddit feeds redirected to login. Payment verification unknown where not visible. Guru book lead remains pending; account-verification completion not checked today."
+        }
+      ],
+      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
+      "picks": [],
+      "rejects": [
+        "Guru fresh jobs: nearshore debt call centers, long-term B2B sales, physical brand shoot, specialist documentary photo retouching or broad marketing, not bounded automation work.",
+        "Truelancer Nifty analyzer: INR10,000 for live-feed, UI and news-pipeline upgrades; requires broker/options expertise and a similar repo not verified for Jay. Just247Pipes agents: $800, ongoing custom pipelines and two or three platform-specific examples not verified.",
+        "Truelancer Odoo POS: $200 but installation, configuration and customization have no defined shop requirements. Website consultation is $10 with no visible brief. Other jobs need human outreach, specialist engineering, legal work or ongoing video editing.",
+        "PeoplePerHour calculator-page and PDF-design work are visible, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan.",
+        "Hubstaff newest roles: commission sales, customer success, LLC management/interviews, US-only senior advisory or full-time legal assistant, not bounded automated work.",
+        "Freelancer 60-project sample: no exceptional pick worth the $20 deposit gate. Frontend build leaves screen count/design scope unverified; Claude Code VPS setup requires Windows server demonstration and tool-specific experience not verified for Jay. Other roles are physical, specialist, ongoing or underpriced.",
+        "Reddit fresh feeds require login and were not screened. Guru book remains open with 65 quotes; earlier pet-food research is now closed and marked DEAD."
+      ]
+    },
     {
       "date": "2026-10-06",
       "notes": [
@@ -44,10 +68,10 @@
           "title": "Business Book - Interior design",
           "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
           "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
-          "bids": "54",
+          "bids": "65",
           "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
           "status": "pending",
-          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: logged-in quote route blocked by required phone verification and personal information. Target layout still needed before work begins. Rechecked Oct 6: open, 54 quotes, Hired (0). Account-verification completion not checked today."
+          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: quote route required phone verification and personal information. Target layout needed before work begins. Rechecked Oct 7: open, 65 quotes, Hired (0). Account-verification completion not checked today."
         }
       ],
       "rejects": [
@@ -398,8 +422,8 @@
           "budget": "$25-50/hour (live listing; earlier fixed label corrected)",
           "bids": "64",
           "client": "Tanzania, new account",
-          "status": "spotted",
-          "status_note": "Not bid: $20 deposit gate applies. Rechecked Oct 6: open, ends in about 9 hours."
+          "status": "dead",
+          "status_note": "Rechecked October 7: listing closed. No proposal sent; $20 deposit gate applied."
         }
       ],
       "rejects": [
