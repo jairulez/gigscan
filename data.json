@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-08 08:12 IST",
+  "updated": "2026-10-08 08:37 IST",
   "days": [
     {
       "date": "2026-10-08",
       "notes": [
         {
           "type": "info",
-          "text": "One small Shopify-template lead for 2-5 products. Suggested $150 fixed quote sent for review only. No bids or client contacts."
+          "text": "One Shopify-template lead for 2-5 products. Exact $150 proposal approved, but not sent: Guru login image-grid CAPTCHA blocks submission. No client contact."
         },
         {
           "type": "warn",
-          "text": "Guru eligibility not rechecked after Oct 5 phone/personal-information gate. Upwork single search and both Reddit feeds redirected to login. Payment verification unknown where not visible."
+          "text": "Guru quote attempt stopped at login CAPTCHA. Earlier phone/personal-information requirements not reached today. Upwork single search and Reddit feeds redirected to login. Payment verification unknown where not visible."
         }
       ],
       "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
@@ -19,11 +19,11 @@
           "platform": "Guru",
           "title": "Shopify web design using a template",
           "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
-          "budget": "Under $250; suggested quote $150 fixed (not approved)",
+          "budget": "$150 fixed quote approved; client budget under $250",
           "bids": "103",
           "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
-          "status": "spotted",
-          "status_note": "Simple template store for 2-5 products. Draft sent for review; no proposal submitted. Guru eligibility not rechecked after Oct 5 verification block. Quote deadline Oct 9; turnaround requires store/assets review."
+          "status": "pending",
+          "status_note": "Jay approved exact $150 proposal Oct 8. Not submitted: Send a Quote route opened Guru login with an image-grid CAPTCHA. Stopped without entering credentials or answering challenge. Phone/personal-information gate not reached today. Quote deadline Oct 9; turnaround requires store/assets review."
         }
       ],
       "rejects": [
