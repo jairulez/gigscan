@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-08 10:14 IST",
+  "updated": "2026-10-08 10:20 IST",
   "days": [
     {
       "date": "2026-10-08",
       "notes": [
         {
           "type": "info",
-          "text": "One Shopify-template lead. $150 formal quote and five-day delivery approved, not submitted: session expired and login CAPTCHA blocks continuation. No client contact."
+          "text": "Shopify-template quote submitted by Jay after the CAPTCHA loop. Approved $150 fixed and five-day delivery. Live job shows Edit Quote; no duplicate submission."
         },
         {
           "type": "warn",
-          "text": "Guru mandatory setup now permits quoting. Session expired during quote preparation; manual sign-in/CAPTCHA completion needed. No bid sent or spending. Payment verification unknown."
+          "text": "Guru mandatory setup permits quoting. Client replies watched through email notifications; payment verification unknown. No other bids sent."
         }
       ],
       "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
@@ -20,10 +20,10 @@
           "title": "Shopify web design using a template",
           "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
           "budget": "$150 fixed quote and 5-day delivery approved; client budget under $250",
-          "bids": "104",
+          "bids": "105",
           "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
-          "status": "pending",
-          "status_note": "Jay approved exact $150 proposal and 5-day formal quote Oct 8. Not submitted: phone/personal setup now permits quoting, but held session expired during formal quote preparation and login shows image-grid CAPTCHA. Stopped without credentials/challenge interaction. Intended milestone due Oct 13, 2026; no quote sent, contact or spending."
+          "status": "sent",
+          "status_note": "Submitted by Jay Oct 8 at 10:18 IST after manual sign-in. Live Quotes readback confirms $150 Fixed Price, single milestone due Oct 13, 2026, and exact approved scope. Nine free bids remain. Email notifications watched for client response; no duplicate automated submission or spending."
         }
       ],
       "rejects": [
