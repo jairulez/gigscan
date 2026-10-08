@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-08 08:37 IST",
+  "updated": "2026-10-08 08:49 IST",
   "days": [
     {
       "date": "2026-10-08",
       "notes": [
         {
           "type": "info",
-          "text": "One Shopify-template lead for 2-5 products. Exact $150 proposal approved, but not sent: Guru login image-grid CAPTCHA blocks submission. No client contact."
+          "text": "One Shopify-template lead for 2-5 products. Exact $150 proposal approved, not sent: Guru mandatory phone verification and Personal Information block bidding. No client contact."
         },
         {
           "type": "warn",
-          "text": "Guru quote attempt stopped at login CAPTCHA. Earlier phone/personal-information requirements not reached today. Upwork single search and Reddit feeds redirected to login. Payment verification unknown where not visible."
+          "text": "Guru login and email device check completed. Account still requires phone verification and Personal Information; 10 free bids available. Payment verification unknown where not visible."
         }
       ],
       "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
@@ -23,7 +23,7 @@
           "bids": "103",
           "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
           "status": "pending",
-          "status_note": "Jay approved exact $150 proposal Oct 8. Not submitted: Send a Quote route opened Guru login with an image-grid CAPTCHA. Stopped without entering credentials or answering challenge. Phone/personal-information gate not reached today. Quote deadline Oct 9; turnaround requires store/assets review."
+          "status_note": "Jay approved exact $150 proposal Oct 8. Not submitted: login and email device verification completed, but quote action disabled; required phone verification and Personal Information remain. 10 free bids available, zero used. No phone code, profile changes or spending. Quote deadline Oct 9; turnaround requires store/assets review."
         }
       ],
       "rejects": [
