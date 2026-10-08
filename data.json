@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 10:20 IST",
+  "updated": "2026-10-08 10:27 IST",
   "days": [
     {
       "date": "2026-10-08",
@@ -11,6 +11,10 @@
         {
           "type": "warn",
           "text": "Guru mandatory setup permits quoting. Client replies watched through email notifications; payment verification unknown. No other bids sent."
+        },
+        {
+          "type": "info",
+          "text": "Extra 10:26 sweep: no additional quoteable strong fit. Nine bids preserved. Small web/template jobs are ID/earnings/membership-gated; unlocked alternatives have vague scope, weak signals or old contradictory budgets. No new bids."
         }
       ],
       "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
@@ -33,7 +37,8 @@
         "PeoplePerHour Google Workspace QR/manual system is well described, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. iOS release needs physical Apple testing and published-app history.",
         "Hubstaff fresh listings are full-time sales engineer, graphic designer, Magento developer and motion graphics roles, not bounded bot-executable deliverables.",
         "Freelancer 60-project sample had no exceptional lead worth $20 deposit gate: broad websites, heavily contested CRM/subscription builds, physical work, sales, specialist design or underpriced voice agents. Crypto ad cloaking excluded.",
-        "Reddit fresh feeds require login and were not screened. Existing Guru book remains open with 80 quotes; other past picks remain dead."
+        "Reddit fresh feeds require login and were not screened. Existing Guru book remains open with 80 quotes; other past picks remain dead.",
+        "Extra sweep: Guru website/Shopify/WordPress/landing/template searches checked. Locked text edit, simple Shopify and hero jobs skipped. Older unlocked web listings lack tight scope or reliable budget. Truelancer mostly old/low-budget/full-time; Hubstaff results not exposed."
       ]
     },
     {
