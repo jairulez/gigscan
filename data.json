@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-08 08:49 IST",
+  "updated": "2026-10-08 10:14 IST",
   "days": [
     {
       "date": "2026-10-08",
       "notes": [
         {
           "type": "info",
-          "text": "One Shopify-template lead for 2-5 products. Exact $150 proposal approved, not sent: Guru mandatory phone verification and Personal Information block bidding. No client contact."
+          "text": "One Shopify-template lead. $150 formal quote and five-day delivery approved, not submitted: session expired and login CAPTCHA blocks continuation. No client contact."
         },
         {
           "type": "warn",
-          "text": "Guru login and email device check completed. Account still requires phone verification and Personal Information; 10 free bids available. Payment verification unknown where not visible."
+          "text": "Guru mandatory setup now permits quoting. Session expired during quote preparation; manual sign-in/CAPTCHA completion needed. No bid sent or spending. Payment verification unknown."
         }
       ],
       "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
@@ -19,11 +19,11 @@
           "platform": "Guru",
           "title": "Shopify web design using a template",
           "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
-          "budget": "$150 fixed quote approved; client budget under $250",
-          "bids": "103",
+          "budget": "$150 fixed quote and 5-day delivery approved; client budget under $250",
+          "bids": "104",
           "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
           "status": "pending",
-          "status_note": "Jay approved exact $150 proposal Oct 8. Not submitted: login and email device verification completed, but quote action disabled; required phone verification and Personal Information remain. 10 free bids available, zero used. No phone code, profile changes or spending. Quote deadline Oct 9; turnaround requires store/assets review."
+          "status_note": "Jay approved exact $150 proposal and 5-day formal quote Oct 8. Not submitted: phone/personal setup now permits quoting, but held session expired during formal quote preparation and login shows image-grid CAPTCHA. Stopped without credentials/challenge interaction. Intended milestone due Oct 13, 2026; no quote sent, contact or spending."
         }
       ],
       "rejects": [
