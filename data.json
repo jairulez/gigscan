@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-07 08:12 IST",
+  "updated": "2026-10-08 08:12 IST",
   "days": [
+    {
+      "date": "2026-10-08",
+      "notes": [
+        {
+          "type": "info",
+          "text": "One small Shopify-template lead for 2-5 products. Suggested $150 fixed quote sent for review only. No bids or client contacts."
+        },
+        {
+          "type": "warn",
+          "text": "Guru eligibility not rechecked after Oct 5 phone/personal-information gate. Upwork single search and both Reddit feeds redirected to login. Payment verification unknown where not visible."
+        }
+      ],
+      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
+      "picks": [
+        {
+          "platform": "Guru",
+          "title": "Shopify web design using a template",
+          "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
+          "budget": "Under $250; suggested quote $150 fixed (not approved)",
+          "bids": "103",
+          "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
+          "status": "spotted",
+          "status_note": "Simple template store for 2-5 products. Draft sent for review; no proposal submitted. Guru eligibility not rechecked after Oct 5 verification block. Quote deadline Oct 9; turnaround requires store/assets review."
+        }
+      ],
+      "rejects": [
+        "Guru other fresh jobs: US-only virtual assistant and Firebase migration, full-time developers, architectural plans with no price, physical customer videos or ongoing creative work.",
+        "Truelancer $300 permit-processing SaaS: requires TypeScript/Workers and document-pipeline track record, >=90% extraction recall on hidden data, broad production changes. React dashboard is INR300; market screener and code conversion are $50.",
+        "Truelancer $18 AI data entry requires live video calls, webcam and only the applicant doing the work. Other roles are human outreach, sales, legal/engineering or unspecified scope.",
+        "PeoplePerHour Google Workspace QR/manual system is well described, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. iOS release needs physical Apple testing and published-app history.",
+        "Hubstaff fresh listings are full-time sales engineer, graphic designer, Magento developer and motion graphics roles, not bounded bot-executable deliverables.",
+        "Freelancer 60-project sample had no exceptional lead worth $20 deposit gate: broad websites, heavily contested CRM/subscription builds, physical work, sales, specialist design or underpriced voice agents. Crypto ad cloaking excluded.",
+        "Reddit fresh feeds require login and were not screened. Existing Guru book remains open with 80 quotes; other past picks remain dead."
+      ]
+    },
     {
       "date": "2026-10-07",
       "notes": [
@@ -68,10 +103,10 @@
           "title": "Business Book - Interior design",
           "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
           "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
-          "bids": "65",
+          "bids": "80",
           "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
           "status": "pending",
-          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: quote route required phone verification and personal information. Target layout needed before work begins. Rechecked Oct 7: open, 65 quotes, Hired (0). Account-verification completion not checked today."
+          "status_note": "Jay approved exact $1,000 proposal Oct 5. Not sent: quote route required phone verification and personal information. Target layout needed before work begins. Rechecked Oct 8: open, 80 quotes, Hired (0). Account-verification completion not checked today."
         }
       ],
       "rejects": [
