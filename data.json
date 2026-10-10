@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-09 08:40 IST",
+  "updated": "2026-10-10 08:14 IST",
   "days": [
+    {
+      "date": "2026-10-10",
+      "notes": [
+        {
+          "type": "info",
+          "text": "One bounded website QA/UX audit worth considering. Draft at $300 maximum, 12h at $25/h, 3-day delivery after access. Not sent; exact review required."
+        },
+        {
+          "type": "warn",
+          "text": "Expanded AI/agent searches active. No new AI job passed accessible, bounded, fair-budget filters today. Upwork one search redirected to login; Reddit unavailable. PPH paid-access route remains excluded."
+        },
+        {
+          "type": "warn",
+          "text": "Shopify job now shows Job closed in live All Quotes (151 quotes); stored $150 quote remains. Detail page still shows prior sent state/Hired (0), so no win or rejection inferred. Nine bids remain."
+        }
+      ],
+      "boards": "Guru newest plus AI/automation categories and live account; Truelancer pages 1-2 plus details; PPH newest plus AI details; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters only. Contra skipped.",
+      "picks": [
+        {
+          "platform": "Guru",
+          "title": "Website Testing, UX/UI Audit & Usability",
+          "url": "https://www.guru.com/work/detail/2121274",
+          "budget": "Client $250-$500 fixed; proposed $300 cap (12h at $25/h), 3 days after access/test code",
+          "bids": "21",
+          "client": "Alex W, Netherlands; 2 jobs posted, $0 spent, 0 paid, no feedback; payment verification unknown",
+          "status": "spotted",
+          "status_note": "Draft only, not submitted. Live apply route reaches terms selection without ID lock. Full PDF brief inspected: Awinst Connect eSIM site, country filter, data calculator, responsive UI and checkout, annotated PDF/Docs report. Estimated scope 12h; test checkout only with supplied full-discount code and verified $0 total, no purchase authority. Current bid fee/review terms must be checked before submission."
+        }
+      ],
+      "rejects": [
+        "PPH AI Agent Developer $15/hr is fresh but ongoing, asks 3+ years and real examples; paid onboarding route outside zero-upfront plan. AWS AgentCore job 3 days old and requires shipped AgentCore experience.",
+        "Freelancer WhatsApp auto-send $30-$250 (72 bids) requires zero-fee promise plus live session; AI website-management agent $30-$250 (167 bids) broad laptop/server/staging/rollback setup; local operator AUD10k-20k (281 bids) broad phased build and overlapping brief. None exceptional enough for $20 deposit gate.",
+        "Truelancer audit reference platform has conflicting $200 header/$300 description, one-week full build and $0/new client; Jamaat portal $750 listing / INR75000 detail has undefined ongoing module scope. Shopify $10, resume $5, DevOps $7/h with Chinese+English requirement fail budget/fit.",
+        "Guru ESP32/vehicle display requires physical hardware; website rebuild unspecified price/scope, money-exchange app regulated/broad; sales and senior account manager human work."
+      ]
+    },
     {
       "date": "2026-10-09",
       "notes": [
@@ -45,10 +81,10 @@
           "title": "Shopify web design using a template",
           "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
           "budget": "$150 fixed quote and 5-day delivery approved; client budget under $250",
-          "bids": "133",
+          "bids": "151",
           "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
-          "status": "sent",
-          "status_note": "Submitted by Jay Oct 8 at 10:18 IST after manual sign-in. Live Quotes readback confirms $150 Fixed Price, single milestone due Oct 13, 2026, and exact approved scope. Nine free bids remain. Email notifications watched for client response; no duplicate automated submission or spending. Rechecked Oct 9: quote still sent, 133 quotes, Hired (0); no relevant Guru notification found in connected inbox."
+          "status": "dead",
+          "status_note": "Submitted by Jay Oct 8 at 10:18 IST after manual sign-in. Live Quotes readback confirms $150 Fixed Price, single milestone due Oct 13, 2026, and exact approved scope. Nine free bids remain. Email notifications watched for client response; no duplicate automated submission or spending. Rechecked Oct 9: quote still sent, 133 quotes, Hired (0); no relevant Guru notification found in connected inbox. Oct 10: still quote sent Oct 8, 151 quotes, Hired (0). Oct 10 All Quotes explicitly shows Job closed (visually verified); detail page still showed sent and Hired (0). No award/rejection or client reply inferred."
         }
       ],
       "rejects": [
@@ -129,10 +165,10 @@
           "title": "Business Book - Interior design",
           "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
           "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
-          "bids": "86",
+          "bids": "90",
           "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
           "status": "pending",
-          "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified."
+          "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified. Oct 10: open, 90 quotes, Hired (0); revised approval still needed."
         }
       ],
       "rejects": [
@@ -495,4 +531,4 @@
       ]
     }
   ]
-}
+    }
