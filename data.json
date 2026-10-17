@@ -1,659 +1,680 @@
 {
-  "updated": "2026-10-16 08:12 IST",
-  "days": [
+ "updated": "2026-10-17 08:20 IST",
+ "days": [
+  {
+   "date": "2026-10-17",
+   "notes": [
     {
-      "date": "2026-10-16",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. AI/automation search included. No fresh accessible bounded job passed fit/budget filters; no bids/client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Audit open136 quotes/Hired0, terms held. Book current state unverified. Upwork not retried after prior challenge, Reddit unavailable, PPH paid-access excluded."
-        }
-      ],
-      "boards": "Guru newest/live Shopify-POS, AI/automation categories; Truelancer pages1-2/live Excel-Word filtering; PPH newest/search; Freelancer99 active API jobs and AI workflow detail. Reddit sources attempted, Contra skipped, Upwork no new clearance.",
-      "picks": [],
-      "rejects": [
-        "Truelancer662120 Excel/Word data filtering ₹18000/80proposals: no file/record count, selection rules or deadline; new client0paid. Native hardware roles and $50 dropshipping store excluded.",
-        "Guru2121378 Shopify inventory/sales/POS integration no named POS/budget, gated; full-time dev and general manager human roles excluded.",
-        "PPH costing-estimation workbook $101 could fit but paid-access route excluded; LinkedIn/Apollo scraping and account recovery rejected.",
-        "Freelancer40770375 n8n £20-250/180bids vague workflow; AI workflow $250-750/46bids no named tasks.40770449 PDF-to-Excel app ~₹5000 expectation unseen source/template; data entry unspecified volume. None exceptional given $20 deposit gate."
-      ]
+     "type": "info",
+     "text": "Nothing worth it today. AI/automation search included. No fresh accessible bounded job passed fit/budget filters; no bids/client contact."
     },
     {
-      "date": "2026-10-15",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. AI/automation searches included; no fresh accessible bounded job passed fit/budget filters. No bids or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Audit open130 quotes/Hired0, terms held. Book current state unverified. Upwork not retried after prior challenge; Reddit unavailable; PPH paid-access excluded."
-        }
-      ],
-      "boards": "Guru newest/live NAS detail and AI/automation categories; Truelancer pages1-2/live two details; PPH newest/search; Freelancer99 active API projects. Reddit sources attempted; Contra skipped; Upwork no clearance after wall.",
-      "picks": [],
-      "rejects": [
-        "Guru2121366 configurable NAS store: unspecified budget, unanswered compatibility/catalog/accounting scope, Why can't I apply gate. MSP ongoing human/system administration; Ivory Coast QA geo restriction.",
-        "Truelancer662067 $100 long-term AI startup role unbounded;661949 ₹2000 bug/pipeline task no actual bugs/scripts/acceptance criteria. $5 custom ecommerce and paid Google reviews rejected.",
-        "PPH scoped PostgreSQL14functions/18bindings production install blocked by paid-access route;8page editable desktop/mobile illustrated football design broad, pregnancy book UK-only.",
-        "Freelancer40768452 £750-1500 AI assistant broad scheduling/email/quotes/leads/chatbot188bids.40768643 Word-only chapter formatting unseen template46bids not exceptional given $20 deposit. Azure RCA CAD10-30 underpriced, QuickBooks native desktop experience/access unverified."
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. AI/automation search included. No fresh accessible bounded job passed budget/fit filters; no bids/client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Guru Laravel/AI audit is live ID/earnings/membership-gated. Existing UX audit112 quotes open, terms held; book state unverified. Upwork not retried after prior wall, Reddit unavailable, PPH paid-access excluded."
-        }
-      ],
-      "boards": "Guru newest/AI/automation/live detail; Truelancer pages1-2/live SOP detail after checkpoint cleared; PPH newest/search; Freelancer100 API; Reddit attempted; Hubstaff filters only; Contra skipped.",
-      "picks": [],
-      "rejects": [
-        "Guru2121355 Laravel/AI audit $500-$1k 5-10h/5business days good scoped lead but live ID/$1000earnings/paid-membership gate; no spend or quote. Guru2121356 indexing needs diagnosis/source URL, unspecified fix.",
-        "Truelancer661801 SOP Word-to-ION MES ~$102 lacks schema/API/batch/tests; no justified fixed quote. Freelancer40766690 win32com pilot INR12500-37500 names bridge only, native Windows/Excel testing unverified.",
-        "PPH WhatsApp Cloud API/Make/Claude legal bot requires proven integration counts, paid-access route; WordPress99updates maintenance/AI bot settings broad risk. Freelancer Shopify7pages281bids, photography store152bids fail exceptional deposit-gate bar."
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No fresh accessible, bounded job passed fit/budget filters; AI/automation searches included. No bids or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Audit open 94 quotes, terms decision still pending. Book current status unverified: detail redirects to dashboard, public fetch not found; retaining pending rather than guessing closure. Upwork not retried after prior bot wall; Reddit login/source unavailable. PPH paid-access excluded."
-        }
-      ],
-      "boards": "Guru newest + AI/automation/live details; Truelancer pages1-2 + Windows/web details; PPH newest/search; Freelancer100 active API; Reddit attempted; Hubstaff filters only. Contra skipped.",
-      "picks": [],
-      "rejects": [
-        "Guru multiple-client websites/apps 2121323 $1k-$2.5k ongoing unspecified scope, 92 quotes/1 hired, live gate; legal trademark, Moscow archive, sales and project manager need human specialist work.",
-        "Truelancer Windows app 661674 requires native MS Access database and six Word template outputs, unverified Windows target testing; full stack webpage 661707 INR15000 undefined backend/functions. AI pipelines on list 6 days old; intelligent learning platform $10 broad.",
-        "Freelancer WordPress paragraph 40764636 194 bids, PDF tables40764485 138 bids, handwritten Word/Excel40764625 unspecified batch; not exceptional enough for $20 deposit gate. WhatsApp lead-gen excluded.",
-        "PPH fresh website/logo/illustration/legal/coordination work either paid-access route, unproven art style or human specialist work. Search AI results older/expired/ongoing, no independently fresh accessible bounded lead."
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. Expanded AI/automation search included; no fresh accessible, bounded job passed budget/fit filters. No bids or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Audit terms and book scope decisions still pending. Upwork single search hit a challenge and stopped; Reddit 403. PPH paid-access route excluded. React Three Fiber candidate attachment could not be verified."
-        }
-      ],
-      "boards": "Guru newest + AI/automation/live detail; Truelancer pages 1-2 + R3F live detail; PPH newest/search; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters only. Contra skipped.",
-      "picks": [],
-      "rejects": [
-        "Truelancer Agentic AI Expert production setup $1/hr, WhatsApp bot Freelancer $15-$25 fail realistic budget; document automation enterprise SaaS $250-$750 is broad and crowded.",
-        "Truelancer R3F 661606 INR50000 / $505 list, 11 proposals, new client $0 paid: modular 3D scope not enumerated; ZIP linked but download returned HTML, so exact tasks/assets unverified and cannot price.",
-        "Guru 2121295 animation $250-$500 needs massive animations, custom characters/icons/SVG integration, no asset count, plus Why cannot apply gate. iOS QA needs physical iOS-device proof; media buyer/manager/audio annotation roles human/ongoing.",
-        "Freelancer PDF-to-spreadsheet 40762823 $250-$750 lacks batch size/schema/acceptance detail, 45 bids; not exceptional enough for $20 deposit gate. PPH simple HTML/template jobs remain outside paid-access route."
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No fresh job passed accessible, clear-scope, fair-budget and bot-execution filters; expanded AI/automation searches included. No bids or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Audit proposal approved but not sent: placeholder-vs-formal terms choice pending. Book scope revision pending. Upwork single search redirected to login; Reddit inaccessible. PPH paid-access route excluded."
-        }
-      ],
-      "boards": "Guru newest + AI/automation categories/live detail; Truelancer pages 1-2 and live detail after checkpoint cleared; PPH newest/AI detail; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters no results. Contra skipped.",
-      "picks": [],
-      "rejects": [
-        "Guru WordPress theme 2121289 actually requires complete custom print/embroidery ecommerce and admin, touch canvas, payments, roles and optional Arabic for $500-$1k; new client $0 paid. Website Builder 2121292 requests four ecommerce stores, one 21000+ products, no priced scope. Startup three roles $4-$5/hr fails budget.",
-        "Truelancer AI-first agency partner $10; advertising/payment software 661513 $909 has no defined functions or acceptance criteria and $0/1 posted client. Copywriter/longterm content unbounded, loans/referrals/lead-generation excluded, physical files unavailable.",
-        "PPH fresh one-page website $66 and booking fix $54 cannot bypass paid-access constraint; AI lead returned same old/cached 6h listing, not independently fresh. n8n-to-LangChain job expired 9 months ago, Guru full-funnel 18 days old.",
-        "Freelancer interactive PDF needs unlimited added rows/images and actual iPad testing, 94 bids; not exceptional enough for $20 deposit gate. WordPress hardening/security broad, human translator calls excluded."
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "notes": [
-        {
-          "type": "info",
-          "text": "One bounded website QA/UX audit worth considering. Draft at $300 maximum, 12h at $25/h, 3-day delivery after access. Not sent; exact review required."
-        },
-        {
-          "type": "warn",
-          "text": "Expanded AI/agent searches active. No new AI job passed accessible, bounded, fair-budget filters today. Upwork one search redirected to login; Reddit unavailable. PPH paid-access route remains excluded."
-        },
-        {
-          "type": "warn",
-          "text": "Shopify job now shows Job closed in live All Quotes (151 quotes); stored $150 quote remains. Detail page still shows prior sent state/Hired (0), so no win or rejection inferred. Nine bids remain."
-        }
-      ],
-      "boards": "Guru newest plus AI/automation categories and live account; Truelancer pages 1-2 plus details; PPH newest plus AI details; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters only. Contra skipped.",
-      "picks": [
-        {
-          "platform": "Guru",
-          "title": "Website Testing, UX/UI Audit & Usability",
-          "url": "https://www.guru.com/work/detail/2121274",
-          "budget": "Client $250-$500 fixed; proposed $300 cap (12h at $25/h), 3 days after access/test code",
-          "bids": "136",
-          "client": "Alex W, Netherlands; 2 jobs posted, $0 spent, 0 paid, no feedback; payment verification unknown",
-          "status": "pending",
-          "status_note": "Jay approved exact $25/hr, 12h estimate, $300 cap, 3 days after access text Oct 10. NOT sent: formal hourly form requires Hrs/Wk and absolute billing end date, not total cap; placeholder-vs-formal decision remains with Jay. No bid consumed. Oct 11 open, 66 quotes, Hired (0), no sent marker. Optional sharing/premium/auto-accept were OFF in abandoned unsent form. Fresh final fee/terms and duplicate check needed before submitting. Oct 12: open, 72 quotes, Hired (0), no sent marker; terms choice unchanged. Oct13: open, 94 quotes, Hired (0), no sent marker; terms choice held. Oct14: open112 quotes/Hired0/no sent marker; terms choice held. Oct15: open130 quotes/Hired0/no sent marker, terms choice held. Oct16: open136 quotes/Hired0/no sent marker; terms held."
-        }
-      ],
-      "rejects": [
-        "PPH AI Agent Developer $15/hr is fresh but ongoing, asks 3+ years and real examples; paid onboarding route outside zero-upfront plan. AWS AgentCore job 3 days old and requires shipped AgentCore experience.",
-        "Freelancer WhatsApp auto-send $30-$250 (72 bids) requires zero-fee promise plus live session; AI website-management agent $30-$250 (167 bids) broad laptop/server/staging/rollback setup; local operator AUD10k-20k (281 bids) broad phased build and overlapping brief. None exceptional enough for $20 deposit gate.",
-        "Truelancer audit reference platform has conflicting $200 header/$300 description, one-week full build and $0/new client; Jamaat portal $750 listing / INR75000 detail has undefined ongoing module scope. Shopify $10, resume $5, DevOps $7/h with Chinese+English requirement fail budget/fit.",
-        "Guru ESP32/vehicle display requires physical hardware; website rebuild unspecified price/scope, money-exchange app regulated/broad; sales and senior account manager human work."
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No new accessible, bounded gig passed budget, proven-fit and zero-upfront filters. No bids or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Guru journal-formatting job is ID/earnings/membership-gated in the live account; verification approval not yet reflected in quote eligibility. Upwork single search redirected to login; Reddit blocked/timed out. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, Truelancer pages 1-2, PeoplePerHour, Hubstaff public search, Freelancer public API. Upwork login redirect; Reddit unavailable; Contra skipped.",
-      "picks": [],
-      "rejects": [
-        "Guru new 72-78-page KDP journal requires editable Canva master and full wrap cover; clear scope but live quote action locked by ID/earnings/membership gate.",
-        "Truelancer $10 WordPress booking/subscription template, $30 for 30 logos, full-time assistant/sales and physical market data roles fail scope/budget/bot execution. Video/editorial work requires a proven style/portfolio; EdTech full stack plus Android for $200 is broad.",
-        "PeoplePerHour Shopify job requires prior Shopify examples and unpublished details; paid signup route remains outside zero-upfront plan. Other jobs need physical face/voice, human-only artwork or ongoing service.",
-        "Freelancer PDFs dozens at $15-25 and complex Excel Power Automate at INR600-1500 are not exceptional enough for the $20 deposit gate. Hubstaff fetch exposed filters but no usable job results."
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Shopify-template quote submitted by Jay after the CAPTCHA loop. Approved $150 fixed and five-day delivery. Live job shows Edit Quote; no duplicate submission."
-        },
-        {
-          "type": "warn",
-          "text": "Guru mandatory setup permits quoting. Client replies watched through email notifications; payment verification unknown. No other bids sent."
-        },
-        {
-          "type": "info",
-          "text": "Extra 10:26 sweep: no additional quoteable strong fit. Nine bids preserved. Small web/template jobs are ID/earnings/membership-gated; unlocked alternatives have vague scope, weak signals or old contradictory budgets. No new bids."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
-      "picks": [
-        {
-          "platform": "Guru",
-          "title": "Shopify web design using a template",
-          "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
-          "budget": "$150 fixed quote and 5-day delivery approved; client budget under $250",
-          "bids": "151",
-          "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
-          "status": "dead",
-          "status_note": "Submitted by Jay Oct 8 at 10:18 IST after manual sign-in. Live Quotes readback confirms $150 Fixed Price, single milestone due Oct 13, 2026, and exact approved scope. Nine free bids remain. Email notifications watched for client response; no duplicate automated submission or spending. Rechecked Oct 9: quote still sent, 133 quotes, Hired (0); no relevant Guru notification found in connected inbox. Oct 10: still quote sent Oct 8, 151 quotes, Hired (0). Oct 10 All Quotes explicitly shows Job closed (visually verified); detail page still showed sent and Hired (0). No award/rejection or client reply inferred."
-        }
-      ],
-      "rejects": [
-        "Guru other fresh jobs: US-only virtual assistant and Firebase migration, full-time developers, architectural plans with no price, physical customer videos or ongoing creative work.",
-        "Truelancer $300 permit-processing SaaS: requires TypeScript/Workers and document-pipeline track record, >=90% extraction recall on hidden data, broad production changes. React dashboard is INR300; market screener and code conversion are $50.",
-        "Truelancer $18 AI data entry requires live video calls, webcam and only the applicant doing the work. Other roles are human outreach, sales, legal/engineering or unspecified scope.",
-        "PeoplePerHour Google Workspace QR/manual system is well described, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. iOS release needs physical Apple testing and published-app history.",
-        "Hubstaff fresh listings are full-time sales engineer, graphic designer, Magento developer and motion graphics roles, not bounded bot-executable deliverables.",
-        "Freelancer 60-project sample had no exceptional lead worth $20 deposit gate: broad websites, heavily contested CRM/subscription builds, physical work, sales, specialist design or underpriced voice agents. Crypto ad cloaking excluded.",
-        "Reddit fresh feeds require login and were not screened. Existing Guru book remains open with 80 quotes; other past picks remain dead.",
-        "Extra sweep: Guru website/Shopify/WordPress/landing/template searches checked. Locked text edit, simple Shopify and hero jobs skipped. Older unlocked web listings lack tight scope or reliable budget. Truelancer mostly old/low-budget/full-time; Hubstaff results not exposed."
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No strong, accessible, bounded gig passed the scope, budget and proven-fit filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search and both Reddit feeds redirected to login. Payment verification unknown where not visible. Guru book lead remains pending; account-verification completion not checked today."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
-      "picks": [],
-      "rejects": [
-        "Guru fresh jobs: nearshore debt call centers, long-term B2B sales, physical brand shoot, specialist documentary photo retouching or broad marketing, not bounded automation work.",
-        "Truelancer Nifty analyzer: INR10,000 for live-feed, UI and news-pipeline upgrades; requires broker/options expertise and a similar repo not verified for Jay. Just247Pipes agents: $800, ongoing custom pipelines and two or three platform-specific examples not verified.",
-        "Truelancer Odoo POS: $200 but installation, configuration and customization have no defined shop requirements. Website consultation is $10 with no visible brief. Other jobs need human outreach, specialist engineering, legal work or ongoing video editing.",
-        "PeoplePerHour calculator-page and PDF-design work are visible, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan.",
-        "Hubstaff newest roles: commission sales, customer success, LLC management/interviews, US-only senior advisory or full-time legal assistant, not bounded automated work.",
-        "Freelancer 60-project sample: no exceptional pick worth the $20 deposit gate. Frontend build leaves screen count/design scope unverified; Claude Code VPS setup requires Windows server demonstration and tool-specific experience not verified for Jay. Other roles are physical, specialist, ongoing or underpriced.",
-        "Reddit fresh feeds require login and were not screened. Guru book remains open with 65 quotes; earlier pet-food research is now closed and marked DEAD."
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No strong, accessible, bounded gig passed the budget and bot-execution filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search and both Reddit feeds redirected to login. Truelancer public listings were readable today. Guru book-formatting lead remains pending; account-verification completion not checked. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
-      "picks": [],
-      "rejects": [
-        "Guru Claude/AnythingLLM pipeline: requires two or three relevant deployed-work links and ongoing senior ownership; no verified matching portfolio. Ceramics site: thousands of molds, multiple photos and cut sheets for $250-500 without bounded import scope (187 quotes).",
-        "Guru other new jobs require PCB/architecture expertise, BUET affiliation, ongoing marketing, or insufficiently defined low-budget research.",
-        "Truelancer $300 AI video factory: end-to-end generation and GPU workflow support, no bounded acceptance criteria; new client, $0 spend. GeneratePress task is $10; other new work is physical/specialist/video or vague.",
-        "PeoplePerHour two financial-service landing pages are scoped, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. Other recent jobs require specialist work or live support.",
-        "Hubstaff fresh roles are full-time payroll, GHL, customer service, or ongoing short-form video editing, not bounded automated deliverables.",
-        "Freelancer latest 60-project sample had no exceptional lead worth the $20 deposit gate. Ad-view automation, account recovery and forensics jobs excluded. Other jobs are underpriced, heavily contested, physical or specialist.",
-        "Reddit fresh feeds could not be screened after login redirects. Earlier Guru book and pet-food research listings remain open; bid counts refreshed, pet-food rate label corrected."
-      ]
-    },
-    {
-      "date": "2026-10-05",
-      "notes": [
-        {
-          "type": "info",
-          "text": "One Word-formatting lead. Exact $1,000 proposal approved, but not sent: required Guru account verification blocks bidding. No client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Guru application eligibility not verified. Upwork single search redirected to login; Truelancer live listing checkpointed. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
-      "picks": [
-        {
-          "platform": "Guru",
-          "title": "Business Book - Interior design",
-          "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
-          "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
-          "bids": "97",
-          "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
-          "status": "pending",
-          "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified. Oct 10: open, 90 quotes, Hired (0); revised approval still needed. Oct 11: open, 95 quotes, Hired (0), revised approval still needed. Oct 12: open, 97 quotes, Hired (0), revised scope approval still needed. Oct13 current status UNVERIFIED: two detail reads redirect to Guru dashboard; public fetch not found. Possible removal/closure not proven. Retaining pending, no submission; count 97 is last verified Oct12, not current. Oct14: detail still redirects dashboard; current state unverified, last count97 Oct12. Oct15: detail redirects dashboard; current status unverified, last count97 Oct12. Oct16: detail redirects dashboard; state unverified, last count97 Oct12."
-        }
-      ],
-      "rejects": [
-        "Guru missed-call/Twilio workflow is clear but budget unstated and requires compliance/carrier testing. Photo masking is ongoing 275-400 photos/month without rate; remote AnyDesk task has vague scope and unrealistic headline.",
-        "PeoplePerHour small image and research tasks remain behind dropped paid freelancer signup route.",
-        "Hubstaff latest jobs are ongoing operations, equity-track marketing partnership or fundraising, not bounded execution work.",
-        "Reddit investment research is long-term 2-4 hours/day with base rate undefined; other fresh visible posts are seller offers.",
-        "Freelancer sampled jobs are ongoing, specialist, underpriced or not exceptional enough for $20 deposit gate. Truelancer live scope unverified past checkpoint.",
-        "Earlier pet-food research listing remains open; statuses preserved."
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope, budget and bot-execution filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search redirected to login; Truelancer live listing checkpointed. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru gift-card design: actual $20 firm total for four press-ready assets and a prior plastic-card portfolio, underpriced. Social media manager is ongoing 3-6 months with no rate; siding estimate needs construction expertise.",
-        "PeoplePerHour small Elementor and PDF tasks remain behind dropped paid freelancer signup route; account recovery and fake testimonial work rejected.",
-        "Reddit $50 logo task explicitly requires 100% human-made designs, incompatible with this bot-executable scan. Other fresh visible posts are seller offers.",
-        "Hubstaff visible latest jobs are dated October 2 and are ongoing sales, support, video or full-time engineering. No new qualifying project. Application eligibility not verified.",
-        "Freelancer sample: broad websites with withheld details, specialist hardware/GIS, ongoing marketing, or heavy competition; no exceptional lead worth $20 deposit gate.",
-        "Truelancer scope could not be verified past live checkpoint. Older pet-food research remains open; no status changes."
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No priced, accessible zero-upfront gig passed all filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search redirected to login; Truelancer live listing checkpointed. Guru PDF-cover task is promising but budget and referenced files are not visible. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru PDF-cover merge: small clear task, but budget, print dimensions and referenced files not visible; not a priced ready-to-bid lead. Client has $3,781 spend and 100% feedback.",
-        "Guru other new work: ongoing video/store management, specialist AutoCAD, or production Laravel/Python lead-generation architecture without a budget.",
-        "PeoplePerHour support training-notes index and landing-page jobs remain behind the dropped paid freelancer signup route.",
-        "Hubstaff latest roles: ongoing sales, video editing, customer-support systems and full-time AI/frontend engineering; application eligibility not verified.",
-        "Reddit visible fresh posts are sellers, except an AI speech task explicitly involving impersonation, rejected. Freelancer sampled work is specialist, physical, ongoing or not exceptional enough for $20 deposit gate.",
-        "Older Excel payroll Freelancer listing is now closed and marked DEAD. Pet-food research remains open."
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope, payment-risk and budget filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search redirected to login. Truelancer live listing returned a security checkpoint. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login redirect; Truelancer checkpoint; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru Power App: live teaching, no stated price, and client explicitly refuses SafePay. Consignment app: broad inventory, barcode, permissions, batch and reporting build with no budget.",
-        "Guru checkout API replacement: under $250, 61 quotes, no client paid-job history, existing-code uncertainty and unverified third-party documentation reference; not a strong first-gig lead.",
-        "PeoplePerHour canned-response index is bounded, but paid freelancer signup route remains dropped. Shopify order connector and booking site also behind that route.",
-        "Hubstaff latest roles are ongoing social media, customer service, call-center or sales work rather than bounded automated deliverables; application eligibility not verified.",
-        "Reddit fresh visible posts are seller offers. Freelancer sampled roles are ongoing, specialist, underpriced or not exceptional enough to justify $20 deposit gate.",
-        "Truelancer scope could not be verified past live security checkpoint. Earlier payroll and pet-food listings still read open; statuses preserved."
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope and budget filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search hit a challenge and was stopped. Truelancer live listings returned a security checkpoint. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork challenge; Truelancer checkpoint; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru: television streaming reseller setup has no budget and requires cross-device IPTV experience; cat-house job requires physical fabrication/shipping; speculative forces device is outside scope.",
-        "PeoplePerHour: the £250 Elementor sales page is well scoped, but the paid freelancer signup route remains dropped. Database harvesting rejected.",
-        "Hubstaff: full-time operations, finance and driver support; $100/hr engineer job is client-facing fractional CTO and stakeholder management, not a bounded build.",
-        "Reddit: commission-only HVAC sales; recurring social scripts/captions asks for independent creativity without heavy AI; job-application task has no verified bounded budget or deliverable.",
-        "Freelancer: sampled jobs require native-language, physical presence, specialist CAD or broad mobile work; entire Zoho backend for $10-20 is unrealistic and not worth the $20 deposit gate.",
-        "Truelancer current listing could not be verified past security checkpoint. Older payroll and pet-food Freelancer listings still read open; statuses preserved."
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "notes": [
-        {
-          "type": "info",
-          "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope and budget filters. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork single search hit a challenge and was stopped. Truelancer live listings returned a security checkpoint. Payment verification unknown where not visible."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, Reddit, Freelancer. Upwork challenge; Truelancer checkpoint; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru: Halloween research includes ongoing Shopify management with no bounded deliverable; full-stack directory has no budget and broad compliance requirements; webmaster is ongoing support with no budget.",
-        "PeoplePerHour: scoped website and research tasks found, but paid freelancer signup route remains dropped; £50/week for 14 videos is underpriced.",
-        "Hubstaff: full-time engineering, sales, specialist SAP and ongoing video editing, not bounded quick-delivery work. Application eligibility not verified.",
-        "Freelancer: sampled recent jobs did not justify the $20 deposit gate; AI-code conversion has 138 bids, maritime platform is unrealistic for $250-750, and SEO asks for a live unpaid sample.",
-        "Truelancer: fetch exposed possible Django and Excel jobs but the live page was checkpointed, so scope and availability could not be verified."
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "notes": [
-        {
-          "type": "info",
-          "text": "No viable new zero-upfront, bounded, bot-executable gig in the accessible listings. No bids or client contacts."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork returned a Cloudflare challenge on the one permitted search. Truelancer returned a Vercel checkpoint. Hubstaff Talent application eligibility remains unverified in-product."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour. Upwork challenged; Truelancer checkpoint; Freelancer $20 deposit gate; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru newest: physical CAD chalet mockup, law-enforcement reporting/records-management specialties, and UHNW researcher (personal data) are outside the bot-executable scope.",
-        "PeoplePerHour bulk SumUp product-image swaps: £6 for up to 200 edits, underpriced and paid freelancer signup gate. Other recent roles need ongoing human expertise.",
-        "Hubstaff newest: graphic design, onsite security, appointment setting and full-time engineering roles, not bounded automated jobs; application eligibility unverified.",
-        "Reddit fresh visible r/slavelabour posts were sellers offers; r/forhire yielded no usable listing.",
-        "Truelancer current listing could not be inspected past security checkpoint; not counted as screened."
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "notes": [
-        {
-          "type": "info",
-          "text": "No viable new zero-upfront, bounded, bot-executable job in the accessible listings. No bids or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork returned a Cloudflare challenge on the one permitted search. Truelancer returned a Vercel checkpoint. Reddit pages timed out. Hubstaff Talent application eligibility was not verified in-product."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Hubstaff Talent. Upwork challenge; Truelancer checkpoint; Reddit unavailable; Freelancer $20 deposit gate; Contra login required.",
-      "picks": [],
-      "rejects": [
-        "Guru website text change: asks to change a financial claim from $4.2B to $6.2B without substantiation; not a safe blind edit.",
-        "Guru CRM import: 40,000 contacts with emails, telephone numbers and addresses; no budget shown and private-data access, so not shortlisted.",
-        "Guru Shopify management: ongoing store and advertising management, not bounded work.",
-        "PeoplePerHour AI image job: 800-1,000 images for £100, unrealistic budget, plus platform paid-signup gate. Other recent jobs need ongoing specialist work.",
-        "Hubstaff GHL assistant: ongoing weekday EST hours, platform expertise and outbound marketing, not bounded automated work; other newest jobs were assistant, sales and social media roles.",
-        "Reddit fresh feeds could not be loaded today; not counted as screened."
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "notes": [
-        {
-          "type": "info",
-          "text": "No fresh zero-upfront, bounded, bot-executable pick today. No bid, client contact or delivery."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork search cleared Cloudflare but redirected to login; Truelancer hit a Vercel security checkpoint. Hubstaff application eligibility still unverified in-product."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer public API. Upwork one search attempt redirected to login; Contra skipped (login).",
-      "picks": [],
-      "rejects": [
-        "Guru newest: USA-only VA involves outbound contact; full-time full-stack role and 1-3 month enterprise multimodal knowledge base are not bounded bot-executable gigs.",
-        "PeoplePerHour: Next.js/Vercel AirCon site has a £390 fixed budget and a requirements PDF, but the paid freelancer signup gate makes this route non-viable under zero-upfront preference; other recent listings involve human work or account access.",
-        "Truelancer listing hit security checkpoint, so no current direct listing could be vetted.",
-        "Hubstaff newest: B2B sales, cold outreach and client-success jobs require ongoing person-to-person work; application eligibility unverified.",
-        "Reddit fresh visible r/slavelabour posts were offers, including an unsafe debit-card request; r/forhire did not yield a usable listing.",
-        "Freelancer public fetch did not yield usable project bodies; $20 deposit gate still applies."
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "notes": [
-        {
-          "type": "info",
-          "text": "No fresh listing met the clear-scope, viable-budget, bot-executable and zero-upfront test today. No bid or client contact."
-        },
-        {
-          "type": "warn",
-          "text": "Upwork search redirected to login after Cloudflare; no job results or account eligibility verified. Hubstaff Talent profile is visible to Everyone, but application eligibility was not verified in-product."
-        }
-      ],
-      "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer API. Upwork one search attempt redirected to login; Contra skipped (login).",
-      "picks": [],
-      "rejects": [
-        "Guru newest: galvanizing plant needs stamped electrical plans; Shopify management requires hands-on ad operations and ongoing store ownership, not a bounded bot deliverable.",
-        "Truelancer: five 2,000-word posts plus a research report for ₹600, underpriced; video-call data entry and mobile UX redesign require live human work.",
-        "PeoplePerHour newest: Android signing diagnosis, guest post placement, professional label design or media contacts, not a clear bot-executable fit; platform signup has paid annual-plan gate.",
-        "Hubstaff Talent newest/search matches: ongoing social, SEO, graphic design, operations or specialist roles; no suitable bounded listing, and in-product apply eligibility unverified.",
-        "Reddit fresh: r/forhire and r/slavelabour visible tasks were offers or a request to falsify dates in a PDF; latter rejected as deceptive.",
-        "Freelancer API public fetch did not yield usable job data; $20 deposit gate remains."
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "notes": [
-        {
-          "type": "warn",
-          "text": "Upwork search throttled again after the challenge cleared; account-health notice remains. No further Upwork attempts."
-        },
-        {
-          "type": "info",
-          "text": "Truelancer hit a security checkpoint; Contra needs login. No bids submitted."
-        }
-      ],
-      "boards": "PeoplePerHour, Guru, r/forhire, r/slavelabour, Freelancer API (exceptional jobs only). Upwork throttled; Truelancer checkpoint; Contra skipped (login).",
-      "picks": [
-        {
-          "platform": "PeoplePerHour",
-          "title": "Build a high converting Demolition landing page for google ads",
-          "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/website-development/build-a-high-converting-demolition-landing-page-for-google-a-4523375",
-          "budget": "£50-£90 fixed (posted £70 / ~$94)",
-          "bids": "28",
-          "client": "Stonebridge L., UK; payment verification not visible; 0 completed projects",
-          "status": "dead",
-          "status_note": "Route dropped: PeoplePerHour freelancer signup is gated by a paid annual plan in the live product. No proposal sent. Listing may remain live, but it is not an actionable zero-upfront route for Jay."
-        }
-      ],
-      "rejects": [
-        "PPH laptop forwarding: physical logistics, not bot-executable; verification concerns",
-        "Guru AI-agent developer: scope vague (multiple future projects, no concrete deliverable)",
-        "Guru marketing automation: asks for business concepts and contract generation, no concrete bot deliverable",
-        "Freelancer WordPress blank page: urgent live-site diagnosis for ₹600-1,500, not exceptional given $20 deposit",
-        "Freelancer HGZY game scraping: app has no public API and asks for a headless emulator plus live predictions for $15-25; high access/maintenance risk",
-        "Freelancer chicken-crossing analytics: 10 Hz pulses alone cannot reliably identify multiple birds and direction/speed as specified",
-        "Reddit fresh jobs: mostly physical testing, senior production AI role, or non-automation work; no clear fit"
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "notes": [
-        {
-          "type": "warn",
-          "text": "Upwork: logged-in search was throttled today, and the account shows an \"account requires attention\" banner plus a PAN/TDS prompt. Open Account Health in the Upwork app and finish the profile (photo, DOB, address, phone)."
-        },
-        {
-          "type": "info",
-          "text": "Guru account created (4jairaj4). Phone verification by WhatsApp/SMS code is still needed before it can bid."
-        }
-      ],
-      "boards": "Upwork (throttled), Freelancer, PeoplePerHour, Guru, Truelancer, r/forhire, r/slavelabour. Contra: needs login, skipped.",
-      "picks": [
-        {
-          "platform": "Guru",
-          "title": "Excel Spreadsheet Very Light Formula",
-          "url": "https://www.guru.com/jobs/excel-spreadsheet-very-light-formula/2120432",
-          "budget": "Fixed (not shown). Our bid: $25",
-          "bids": "68",
-          "client": "US client, $8,664 spent, 100% paid",
-          "status": "dead",
-          "status_note": "Jay approved a $25 bid, but the client removed the job (HTTP 410) before we could submit."
-        },
-        {
-          "platform": "Freelancer",
-          "title": "Python + AI Script for Stock Summary (BSE/NSE)",
-          "url": "https://www.freelancer.com/projects/ai-integration/Python-Script-for-Stock-Summary",
-          "budget": "₹1,500-12,500 fixed (avg bid ~₹8,100)",
-          "bids": "51",
-          "client": "Payment verification not visible",
-          "status": "dead",
-          "status_note": "Rechecked September 30: listing is completed and awarded to another freelancer."
-        },
-        {
-          "platform": "Freelancer",
-          "title": "Excel Timesheet & Payroll Tool",
-          "url": "https://www.freelancer.com/projects/data-analysis/Excel-Timesheet-Payroll-Tool",
-          "budget": "₹12,500-37,500 fixed (avg bid ~₹20,000)",
-          "bids": "32",
-          "client": "Payment verification not visible",
-          "status": "dead",
-          "status_note": "Rechecked October 3: listing closed. No proposal sent."
-        }
-      ],
-      "rejects": [
-        "Guru: HubSpot CRM setup - needs HubSpot certifications and a video demo of past builds",
-        "Truelancer: UK M&A data research - LinkedIn/Apollo contact scraping",
-        "Guru/Truelancer: 'recover Google account' / password-recovery jobs - shady",
-        "Freelancer: ad-impression and traffic bots - break platform rules"
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "notes": [
-        {
-          "type": "info",
-          "text": "First sweep (last 3 days). Upwork blocked without login; Contra and WorknHire empty without login."
-        }
-      ],
-      "boards": "Freelancer, PeoplePerHour, Guru, Truelancer, r/forhire, r/slavelabour.",
-      "picks": [
-        {
-          "platform": "Freelancer",
-          "title": "Logistics Google Sheet Automation",
-          "url": "https://www.freelancer.com/projects/google-sheets/Logistics-Google-Sheet-Automation",
-          "budget": "₹1,500-12,500 fixed",
-          "bids": "21",
-          "client": "Jaipur, member since 2018",
-          "status": "dead",
-          "status_note": "Rechecked September 30: listing is closed. No proposal sent."
-        },
-        {
-          "platform": "Freelancer",
-          "title": "Comparar Tablas Excel Grandes",
-          "url": "https://www.freelancer.com/projects/data-analysis/Comparar-Tablas-Excel-Grandes",
-          "budget": "€30-250 fixed",
-          "bids": "45",
-          "client": "New account",
-          "status": "dead",
-          "status_note": "Rechecked September 30: listing is closed. No proposal sent."
-        },
-        {
-          "platform": "Freelancer",
-          "title": "Google Sheets Cleanup & Automation",
-          "url": "https://www.freelancer.com/projects/google-sheets/Google-Sheets-Cleanup-Automation",
-          "budget": "₹750-1,250/hr",
-          "bids": "29",
-          "client": "New account",
-          "status": "dead",
-          "status_note": "Rechecked September 30: listing is closed. No proposal sent."
-        },
-        {
-          "platform": "Freelancer",
-          "title": "Small Animal Food Buyer Insights",
-          "url": "https://www.freelancer.com/projects/data-analysis/Small-Animal-Food-Buyer-Insights",
-          "budget": "$25-50/hour (live listing; earlier fixed label corrected)",
-          "bids": "64",
-          "client": "Tanzania, new account",
-          "status": "dead",
-          "status_note": "Rechecked October 7: listing closed. No proposal sent; $20 deposit gate applied."
-        }
-      ],
-      "rejects": [
-        "Zillow view-count traffic bot",
-        "1K/day banner-impression bot",
-        "Bulk WhatsApp blasting",
-        "Mass personal-contact databases"
-      ]
+     "type": "warn",
+     "text": "Audit open141 quotes/Hired0, terms held. Book current state unverified. Upwork not retried after Oct12 challenge, Reddit inaccessible, PPH paid-access excluded."
     }
-  ]
+   ],
+   "boards": "Guru listing pages1-2 (all new IDs 2121380-2121400 reviewed) plus live detail checks; Truelancer newest page1; PPH newest page1; Freelancer API 397 active jobs, 396 in last24h. Reddit blocked (old login wall, www network block), Contra skipped, Upwork no new clearance.",
+   "picks": [],
+   "rejects": [
+    "Guru2121389 ecommerce template install via FTP, Under $250, 119 quotes, 1 already hired (hiring more) and apply-restriction flag; remaining new jobs are B2B sales, UK-law, CAD, label design, FB/IG marketing and full-time human roles.",
+    "Truelancer: marketplace iOS+web app $1000/9 proposals vague team build; $306 work-from-home lead-gen targeting housewives/students scheme pattern; $102 native DLL edit crack-adjacent; $51 urgent Node/Next bugfix with 53 proposals.",
+    "PPH: WordPress community site + interactive map $336 fits web but 29 proposals and paid-access route excluded; $9/hr 5-star review planting and $336 roulette wheel job shady; $40 AI naturist test adult-adjacent.",
+    "Freelancer396 last-24h jobs: $250-750 copy-paste PDF-to-Word cluster fits scam pattern; WhatsApp cold-outreach campaigns $30-250 spam-adjacent; SkillRush edtech site Rs12.5-37.5k broad build; WordPress/Shopify/data-entry rest small or vague. None exceptional given $20 deposit gate."
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. AI/automation search included. No fresh accessible bounded job passed fit/budget filters; no bids/client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open136 quotes/Hired0, terms held. Book current state unverified. Upwork not retried after prior challenge, Reddit unavailable, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest/live Shopify-POS, AI/automation categories; Truelancer pages1-2/live Excel-Word filtering; PPH newest/search; Freelancer99 active API jobs and AI workflow detail. Reddit sources attempted, Contra skipped, Upwork no new clearance.",
+   "picks": [],
+   "rejects": [
+    "Truelancer662120 Excel/Word data filtering ₹18000/80proposals: no file/record count, selection rules or deadline; new client0paid. Native hardware roles and $50 dropshipping store excluded.",
+    "Guru2121378 Shopify inventory/sales/POS integration no named POS/budget, gated; full-time dev and general manager human roles excluded.",
+    "PPH costing-estimation workbook $101 could fit but paid-access route excluded; LinkedIn/Apollo scraping and account recovery rejected.",
+    "Freelancer40770375 n8n £20-250/180bids vague workflow; AI workflow $250-750/46bids no named tasks.40770449 PDF-to-Excel app ~₹5000 expectation unseen source/template; data entry unspecified volume. None exceptional given $20 deposit gate."
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. AI/automation searches included; no fresh accessible bounded job passed fit/budget filters. No bids or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open130 quotes/Hired0, terms held. Book current state unverified. Upwork not retried after prior challenge; Reddit unavailable; PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest/live NAS detail and AI/automation categories; Truelancer pages1-2/live two details; PPH newest/search; Freelancer99 active API projects. Reddit sources attempted; Contra skipped; Upwork no clearance after wall.",
+   "picks": [],
+   "rejects": [
+    "Guru2121366 configurable NAS store: unspecified budget, unanswered compatibility/catalog/accounting scope, Why can't I apply gate. MSP ongoing human/system administration; Ivory Coast QA geo restriction.",
+    "Truelancer662067 $100 long-term AI startup role unbounded;661949 ₹2000 bug/pipeline task no actual bugs/scripts/acceptance criteria. $5 custom ecommerce and paid Google reviews rejected.",
+    "PPH scoped PostgreSQL14functions/18bindings production install blocked by paid-access route;8page editable desktop/mobile illustrated football design broad, pregnancy book UK-only.",
+    "Freelancer40768452 £750-1500 AI assistant broad scheduling/email/quotes/leads/chatbot188bids.40768643 Word-only chapter formatting unseen template46bids not exceptional given $20 deposit. Azure RCA CAD10-30 underpriced, QuickBooks native desktop experience/access unverified."
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. AI/automation search included. No fresh accessible bounded job passed budget/fit filters; no bids/client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Guru Laravel/AI audit is live ID/earnings/membership-gated. Existing UX audit112 quotes open, terms held; book state unverified. Upwork not retried after prior wall, Reddit unavailable, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest/AI/automation/live detail; Truelancer pages1-2/live SOP detail after checkpoint cleared; PPH newest/search; Freelancer100 API; Reddit attempted; Hubstaff filters only; Contra skipped.",
+   "picks": [],
+   "rejects": [
+    "Guru2121355 Laravel/AI audit $500-$1k 5-10h/5business days good scoped lead but live ID/$1000earnings/paid-membership gate; no spend or quote. Guru2121356 indexing needs diagnosis/source URL, unspecified fix.",
+    "Truelancer661801 SOP Word-to-ION MES ~$102 lacks schema/API/batch/tests; no justified fixed quote. Freelancer40766690 win32com pilot INR12500-37500 names bridge only, native Windows/Excel testing unverified.",
+    "PPH WhatsApp Cloud API/Make/Claude legal bot requires proven integration counts, paid-access route; WordPress99updates maintenance/AI bot settings broad risk. Freelancer Shopify7pages281bids, photography store152bids fail exceptional deposit-gate bar."
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No fresh accessible, bounded job passed fit/budget filters; AI/automation searches included. No bids or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open 94 quotes, terms decision still pending. Book current status unverified: detail redirects to dashboard, public fetch not found; retaining pending rather than guessing closure. Upwork not retried after prior bot wall; Reddit login/source unavailable. PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest + AI/automation/live details; Truelancer pages1-2 + Windows/web details; PPH newest/search; Freelancer100 active API; Reddit attempted; Hubstaff filters only. Contra skipped.",
+   "picks": [],
+   "rejects": [
+    "Guru multiple-client websites/apps 2121323 $1k-$2.5k ongoing unspecified scope, 92 quotes/1 hired, live gate; legal trademark, Moscow archive, sales and project manager need human specialist work.",
+    "Truelancer Windows app 661674 requires native MS Access database and six Word template outputs, unverified Windows target testing; full stack webpage 661707 INR15000 undefined backend/functions. AI pipelines on list 6 days old; intelligent learning platform $10 broad.",
+    "Freelancer WordPress paragraph 40764636 194 bids, PDF tables40764485 138 bids, handwritten Word/Excel40764625 unspecified batch; not exceptional enough for $20 deposit gate. WhatsApp lead-gen excluded.",
+    "PPH fresh website/logo/illustration/legal/coordination work either paid-access route, unproven art style or human specialist work. Search AI results older/expired/ongoing, no independently fresh accessible bounded lead."
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. Expanded AI/automation search included; no fresh accessible, bounded job passed budget/fit filters. No bids or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit terms and book scope decisions still pending. Upwork single search hit a challenge and stopped; Reddit 403. PPH paid-access route excluded. React Three Fiber candidate attachment could not be verified."
+    }
+   ],
+   "boards": "Guru newest + AI/automation/live detail; Truelancer pages 1-2 + R3F live detail; PPH newest/search; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters only. Contra skipped.",
+   "picks": [],
+   "rejects": [
+    "Truelancer Agentic AI Expert production setup $1/hr, WhatsApp bot Freelancer $15-$25 fail realistic budget; document automation enterprise SaaS $250-$750 is broad and crowded.",
+    "Truelancer R3F 661606 INR50000 / $505 list, 11 proposals, new client $0 paid: modular 3D scope not enumerated; ZIP linked but download returned HTML, so exact tasks/assets unverified and cannot price.",
+    "Guru 2121295 animation $250-$500 needs massive animations, custom characters/icons/SVG integration, no asset count, plus Why cannot apply gate. iOS QA needs physical iOS-device proof; media buyer/manager/audio annotation roles human/ongoing.",
+    "Freelancer PDF-to-spreadsheet 40762823 $250-$750 lacks batch size/schema/acceptance detail, 45 bids; not exceptional enough for $20 deposit gate. PPH simple HTML/template jobs remain outside paid-access route."
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No fresh job passed accessible, clear-scope, fair-budget and bot-execution filters; expanded AI/automation searches included. No bids or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit proposal approved but not sent: placeholder-vs-formal terms choice pending. Book scope revision pending. Upwork single search redirected to login; Reddit inaccessible. PPH paid-access route excluded."
+    }
+   ],
+   "boards": "Guru newest + AI/automation categories/live detail; Truelancer pages 1-2 and live detail after checkpoint cleared; PPH newest/AI detail; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters no results. Contra skipped.",
+   "picks": [],
+   "rejects": [
+    "Guru WordPress theme 2121289 actually requires complete custom print/embroidery ecommerce and admin, touch canvas, payments, roles and optional Arabic for $500-$1k; new client $0 paid. Website Builder 2121292 requests four ecommerce stores, one 21000+ products, no priced scope. Startup three roles $4-$5/hr fails budget.",
+    "Truelancer AI-first agency partner $10; advertising/payment software 661513 $909 has no defined functions or acceptance criteria and $0/1 posted client. Copywriter/longterm content unbounded, loans/referrals/lead-generation excluded, physical files unavailable.",
+    "PPH fresh one-page website $66 and booking fix $54 cannot bypass paid-access constraint; AI lead returned same old/cached 6h listing, not independently fresh. n8n-to-LangChain job expired 9 months ago, Guru full-funnel 18 days old.",
+    "Freelancer interactive PDF needs unlimited added rows/images and actual iPad testing, 94 bids; not exceptional enough for $20 deposit gate. WordPress hardening/security broad, human translator calls excluded."
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "notes": [
+    {
+     "type": "info",
+     "text": "One bounded website QA/UX audit worth considering. Draft at $300 maximum, 12h at $25/h, 3-day delivery after access. Not sent; exact review required."
+    },
+    {
+     "type": "warn",
+     "text": "Expanded AI/agent searches active. No new AI job passed accessible, bounded, fair-budget filters today. Upwork one search redirected to login; Reddit unavailable. PPH paid-access route remains excluded."
+    },
+    {
+     "type": "warn",
+     "text": "Shopify job now shows Job closed in live All Quotes (151 quotes); stored $150 quote remains. Detail page still shows prior sent state/Hired (0), so no win or rejection inferred. Nine bids remain."
+    }
+   ],
+   "boards": "Guru newest plus AI/automation categories and live account; Truelancer pages 1-2 plus details; PPH newest plus AI details; Freelancer 100 active API projects; Reddit attempted; Hubstaff public filters only. Contra skipped.",
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Website Testing, UX/UI Audit & Usability",
+     "url": "https://www.guru.com/work/detail/2121274",
+     "budget": "Client $250-$500 fixed; proposed $300 cap (12h at $25/h), 3 days after access/test code",
+     "bids": "136",
+     "client": "Alex W, Netherlands; 2 jobs posted, $0 spent, 0 paid, no feedback; payment verification unknown",
+     "status": "pending",
+     "status_note": "Jay approved exact $25/hr, 12h estimate, $300 cap, 3 days after access text Oct 10. NOT sent: formal hourly form requires Hrs/Wk and absolute billing end date, not total cap; placeholder-vs-formal decision remains with Jay. No bid consumed. Oct 11 open, 66 quotes, Hired (0), no sent marker. Optional sharing/premium/auto-accept were OFF in abandoned unsent form. Fresh final fee/terms and duplicate check needed before submitting. Oct 12: open, 72 quotes, Hired (0), no sent marker; terms choice unchanged. Oct13: open, 94 quotes, Hired (0), no sent marker; terms choice held. Oct14: open112 quotes/Hired0/no sent marker; terms choice held. Oct15: open130 quotes/Hired0/no sent marker, terms choice held. Oct16: open136 quotes/Hired0/no sent marker; terms held. Oct17: open141 quotes/Hired0/no sent marker; terms held."
+    }
+   ],
+   "rejects": [
+    "PPH AI Agent Developer $15/hr is fresh but ongoing, asks 3+ years and real examples; paid onboarding route outside zero-upfront plan. AWS AgentCore job 3 days old and requires shipped AgentCore experience.",
+    "Freelancer WhatsApp auto-send $30-$250 (72 bids) requires zero-fee promise plus live session; AI website-management agent $30-$250 (167 bids) broad laptop/server/staging/rollback setup; local operator AUD10k-20k (281 bids) broad phased build and overlapping brief. None exceptional enough for $20 deposit gate.",
+    "Truelancer audit reference platform has conflicting $200 header/$300 description, one-week full build and $0/new client; Jamaat portal $750 listing / INR75000 detail has undefined ongoing module scope. Shopify $10, resume $5, DevOps $7/h with Chinese+English requirement fail budget/fit.",
+    "Guru ESP32/vehicle display requires physical hardware; website rebuild unspecified price/scope, money-exchange app regulated/broad; sales and senior account manager human work."
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No new accessible, bounded gig passed budget, proven-fit and zero-upfront filters. No bids or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Guru journal-formatting job is ID/earnings/membership-gated in the live account; verification approval not yet reflected in quote eligibility. Upwork single search redirected to login; Reddit blocked/timed out. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, Truelancer pages 1-2, PeoplePerHour, Hubstaff public search, Freelancer public API. Upwork login redirect; Reddit unavailable; Contra skipped.",
+   "picks": [],
+   "rejects": [
+    "Guru new 72-78-page KDP journal requires editable Canva master and full wrap cover; clear scope but live quote action locked by ID/earnings/membership gate.",
+    "Truelancer $10 WordPress booking/subscription template, $30 for 30 logos, full-time assistant/sales and physical market data roles fail scope/budget/bot execution. Video/editorial work requires a proven style/portfolio; EdTech full stack plus Android for $200 is broad.",
+    "PeoplePerHour Shopify job requires prior Shopify examples and unpublished details; paid signup route remains outside zero-upfront plan. Other jobs need physical face/voice, human-only artwork or ongoing service.",
+    "Freelancer PDFs dozens at $15-25 and complex Excel Power Automate at INR600-1500 are not exceptional enough for the $20 deposit gate. Hubstaff fetch exposed filters but no usable job results."
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Shopify-template quote submitted by Jay after the CAPTCHA loop. Approved $150 fixed and five-day delivery. Live job shows Edit Quote; no duplicate submission."
+    },
+    {
+     "type": "warn",
+     "text": "Guru mandatory setup permits quoting. Client replies watched through email notifications; payment verification unknown. No other bids sent."
+    },
+    {
+     "type": "info",
+     "text": "Extra 10:26 sweep: no additional quoteable strong fit. Nine bids preserved. Small web/template jobs are ID/earnings/membership-gated; unlocked alternatives have vague scope, weak signals or old contradictory budgets. No new bids."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Shopify web design using a template",
+     "url": "https://www.guru.com/jobs/shopify-web-design-using-a-template/2121234&SearchUrl=search.aspx?",
+     "budget": "$150 fixed quote and 5-day delivery approved; client budget under $250",
+     "bids": "151",
+     "client": "Penelope C, US; 1 posted, $0 spent, 0 paid, no feedback; payment verification unknown",
+     "status": "dead",
+     "status_note": "Submitted by Jay Oct 8 at 10:18 IST after manual sign-in. Live Quotes readback confirms $150 Fixed Price, single milestone due Oct 13, 2026, and exact approved scope. Nine free bids remain. Email notifications watched for client response; no duplicate automated submission or spending. Rechecked Oct 9: quote still sent, 133 quotes, Hired (0); no relevant Guru notification found in connected inbox. Oct 10: still quote sent Oct 8, 151 quotes, Hired (0). Oct 10 All Quotes explicitly shows Job closed (visually verified); detail page still showed sent and Hired (0). No award/rejection or client reply inferred."
+    }
+   ],
+   "rejects": [
+    "Guru other fresh jobs: US-only virtual assistant and Firebase migration, full-time developers, architectural plans with no price, physical customer videos or ongoing creative work.",
+    "Truelancer $300 permit-processing SaaS: requires TypeScript/Workers and document-pipeline track record, >=90% extraction recall on hidden data, broad production changes. React dashboard is INR300; market screener and code conversion are $50.",
+    "Truelancer $18 AI data entry requires live video calls, webcam and only the applicant doing the work. Other roles are human outreach, sales, legal/engineering or unspecified scope.",
+    "PeoplePerHour Google Workspace QR/manual system is well described, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. iOS release needs physical Apple testing and published-app history.",
+    "Hubstaff fresh listings are full-time sales engineer, graphic designer, Magento developer and motion graphics roles, not bounded bot-executable deliverables.",
+    "Freelancer 60-project sample had no exceptional lead worth $20 deposit gate: broad websites, heavily contested CRM/subscription builds, physical work, sales, specialist design or underpriced voice agents. Crypto ad cloaking excluded.",
+    "Reddit fresh feeds require login and were not screened. Existing Guru book remains open with 80 quotes; other past picks remain dead.",
+    "Extra sweep: Guru website/Shopify/WordPress/landing/template searches checked. Locked text edit, simple Shopify and hero jobs skipped. Older unlocked web listings lack tight scope or reliable budget. Truelancer mostly old/low-budget/full-time; Hubstaff results not exposed."
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No strong, accessible, bounded gig passed the scope, budget and proven-fit filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search and both Reddit feeds redirected to login. Payment verification unknown where not visible. Guru book lead remains pending; account-verification completion not checked today."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
+   "picks": [],
+   "rejects": [
+    "Guru fresh jobs: nearshore debt call centers, long-term B2B sales, physical brand shoot, specialist documentary photo retouching or broad marketing, not bounded automation work.",
+    "Truelancer Nifty analyzer: INR10,000 for live-feed, UI and news-pipeline upgrades; requires broker/options expertise and a similar repo not verified for Jay. Just247Pipes agents: $800, ongoing custom pipelines and two or three platform-specific examples not verified.",
+    "Truelancer Odoo POS: $200 but installation, configuration and customization have no defined shop requirements. Website consultation is $10 with no visible brief. Other jobs need human outreach, specialist engineering, legal work or ongoing video editing.",
+    "PeoplePerHour calculator-page and PDF-design work are visible, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan.",
+    "Hubstaff newest roles: commission sales, customer success, LLC management/interviews, US-only senior advisory or full-time legal assistant, not bounded automated work.",
+    "Freelancer 60-project sample: no exceptional pick worth the $20 deposit gate. Frontend build leaves screen count/design scope unverified; Claude Code VPS setup requires Windows server demonstration and tool-specific experience not verified for Jay. Other roles are physical, specialist, ongoing or underpriced.",
+    "Reddit fresh feeds require login and were not screened. Guru book remains open with 65 quotes; earlier pet-food research is now closed and marked DEAD."
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No strong, accessible, bounded gig passed the budget and bot-execution filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search and both Reddit feeds redirected to login. Truelancer public listings were readable today. Guru book-formatting lead remains pending; account-verification completion not checked. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, Freelancer public API. Upwork and Reddit login redirects; Contra skipped (login required).",
+   "picks": [],
+   "rejects": [
+    "Guru Claude/AnythingLLM pipeline: requires two or three relevant deployed-work links and ongoing senior ownership; no verified matching portfolio. Ceramics site: thousands of molds, multiple photos and cut sheets for $250-500 without bounded import scope (187 quotes).",
+    "Guru other new jobs require PCB/architecture expertise, BUET affiliation, ongoing marketing, or insufficiently defined low-budget research.",
+    "Truelancer $300 AI video factory: end-to-end generation and GPU workflow support, no bounded acceptance criteria; new client, $0 spend. GeneratePress task is $10; other new work is physical/specialist/video or vague.",
+    "PeoplePerHour two financial-service landing pages are scoped, but the previously dropped paid freelancer signup route remains outside the zero-upfront plan. Other recent jobs require specialist work or live support.",
+    "Hubstaff fresh roles are full-time payroll, GHL, customer service, or ongoing short-form video editing, not bounded automated deliverables.",
+    "Freelancer latest 60-project sample had no exceptional lead worth the $20 deposit gate. Ad-view automation, account recovery and forensics jobs excluded. Other jobs are underpriced, heavily contested, physical or specialist.",
+    "Reddit fresh feeds could not be screened after login redirects. Earlier Guru book and pet-food research listings remain open; bid counts refreshed, pet-food rate label corrected."
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "notes": [
+    {
+     "type": "info",
+     "text": "One Word-formatting lead. Exact $1,000 proposal approved, but not sent: required Guru account verification blocks bidding. No client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Guru application eligibility not verified. Upwork single search redirected to login; Truelancer live listing checkpointed. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Business Book - Interior design",
+     "url": "https://www.guru.com/jobs/business-book-interior-design/2121197&SearchUrl=search.aspx?",
+     "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
+     "bids": "97",
+     "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
+     "status": "pending",
+     "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified. Oct 10: open, 90 quotes, Hired (0); revised approval still needed. Oct 11: open, 95 quotes, Hired (0), revised approval still needed. Oct 12: open, 97 quotes, Hired (0), revised scope approval still needed. Oct13 current status UNVERIFIED: two detail reads redirect to Guru dashboard; public fetch not found. Possible removal/closure not proven. Retaining pending, no submission; count 97 is last verified Oct12, not current. Oct14: detail still redirects dashboard; current state unverified, last count97 Oct12. Oct15: detail redirects dashboard; current status unverified, last count97 Oct12. Oct16: detail redirects dashboard; state unverified, last count97 Oct12. Oct17: detail redirects dashboard; state unverified, last count97 Oct12."
+    }
+   ],
+   "rejects": [
+    "Guru missed-call/Twilio workflow is clear but budget unstated and requires compliance/carrier testing. Photo masking is ongoing 275-400 photos/month without rate; remote AnyDesk task has vague scope and unrealistic headline.",
+    "PeoplePerHour small image and research tasks remain behind dropped paid freelancer signup route.",
+    "Hubstaff latest jobs are ongoing operations, equity-track marketing partnership or fundraising, not bounded execution work.",
+    "Reddit investment research is long-term 2-4 hours/day with base rate undefined; other fresh visible posts are seller offers.",
+    "Freelancer sampled jobs are ongoing, specialist, underpriced or not exceptional enough for $20 deposit gate. Truelancer live scope unverified past checkpoint.",
+    "Earlier pet-food research listing remains open; statuses preserved."
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope, budget and bot-execution filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search redirected to login; Truelancer live listing checkpointed. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru gift-card design: actual $20 firm total for four press-ready assets and a prior plastic-card portfolio, underpriced. Social media manager is ongoing 3-6 months with no rate; siding estimate needs construction expertise.",
+    "PeoplePerHour small Elementor and PDF tasks remain behind dropped paid freelancer signup route; account recovery and fake testimonial work rejected.",
+    "Reddit $50 logo task explicitly requires 100% human-made designs, incompatible with this bot-executable scan. Other fresh visible posts are seller offers.",
+    "Hubstaff visible latest jobs are dated October 2 and are ongoing sales, support, video or full-time engineering. No new qualifying project. Application eligibility not verified.",
+    "Freelancer sample: broad websites with withheld details, specialist hardware/GIS, ongoing marketing, or heavy competition; no exceptional lead worth $20 deposit gate.",
+    "Truelancer scope could not be verified past live checkpoint. Older pet-food research remains open; no status changes."
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No priced, accessible zero-upfront gig passed all filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search redirected to login; Truelancer live listing checkpointed. Guru PDF-cover task is promising but budget and referenced files are not visible. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login; Truelancer checkpoint; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru PDF-cover merge: small clear task, but budget, print dimensions and referenced files not visible; not a priced ready-to-bid lead. Client has $3,781 spend and 100% feedback.",
+    "Guru other new work: ongoing video/store management, specialist AutoCAD, or production Laravel/Python lead-generation architecture without a budget.",
+    "PeoplePerHour support training-notes index and landing-page jobs remain behind the dropped paid freelancer signup route.",
+    "Hubstaff latest roles: ongoing sales, video editing, customer-support systems and full-time AI/frontend engineering; application eligibility not verified.",
+    "Reddit visible fresh posts are sellers, except an AI speech task explicitly involving impersonation, rejected. Freelancer sampled work is specialist, physical, ongoing or not exceptional enough for $20 deposit gate.",
+    "Older Excel payroll Freelancer listing is now closed and marked DEAD. Pet-food research remains open."
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope, payment-risk and budget filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search redirected to login. Truelancer live listing returned a security checkpoint. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork login redirect; Truelancer checkpoint; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru Power App: live teaching, no stated price, and client explicitly refuses SafePay. Consignment app: broad inventory, barcode, permissions, batch and reporting build with no budget.",
+    "Guru checkout API replacement: under $250, 61 quotes, no client paid-job history, existing-code uncertainty and unverified third-party documentation reference; not a strong first-gig lead.",
+    "PeoplePerHour canned-response index is bounded, but paid freelancer signup route remains dropped. Shopify order connector and booking site also behind that route.",
+    "Hubstaff latest roles are ongoing social media, customer service, call-center or sales work rather than bounded automated deliverables; application eligibility not verified.",
+    "Reddit fresh visible posts are seller offers. Freelancer sampled roles are ongoing, specialist, underpriced or not exceptional enough to justify $20 deposit gate.",
+    "Truelancer scope could not be verified past live security checkpoint. Earlier payroll and pet-food listings still read open; statuses preserved."
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope and budget filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search hit a challenge and was stopped. Truelancer live listings returned a security checkpoint. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer. Upwork challenge; Truelancer checkpoint; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru: television streaming reseller setup has no budget and requires cross-device IPTV experience; cat-house job requires physical fabrication/shipping; speculative forces device is outside scope.",
+    "PeoplePerHour: the £250 Elementor sales page is well scoped, but the paid freelancer signup route remains dropped. Database harvesting rejected.",
+    "Hubstaff: full-time operations, finance and driver support; $100/hr engineer job is client-facing fractional CTO and stakeholder management, not a bounded build.",
+    "Reddit: commission-only HVAC sales; recurring social scripts/captions asks for independent creativity without heavy AI; job-application task has no verified bounded budget or deliverable.",
+    "Freelancer: sampled jobs require native-language, physical presence, specialist CAD or broad mobile work; entire Zoho backend for $10-20 is unrealistic and not worth the $20 deposit gate.",
+    "Truelancer current listing could not be verified past security checkpoint. Older payroll and pet-food Freelancer listings still read open; statuses preserved."
+   ]
+  },
+  {
+   "date": "2026-09-30",
+   "notes": [
+    {
+     "type": "info",
+     "text": "Nothing worth it today. No strong, accessible zero-upfront gig passed the scope and budget filters. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork single search hit a challenge and was stopped. Truelancer live listings returned a security checkpoint. Payment verification unknown where not visible."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, Reddit, Freelancer. Upwork challenge; Truelancer checkpoint; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru: Halloween research includes ongoing Shopify management with no bounded deliverable; full-stack directory has no budget and broad compliance requirements; webmaster is ongoing support with no budget.",
+    "PeoplePerHour: scoped website and research tasks found, but paid freelancer signup route remains dropped; £50/week for 14 videos is underpriced.",
+    "Hubstaff: full-time engineering, sales, specialist SAP and ongoing video editing, not bounded quick-delivery work. Application eligibility not verified.",
+    "Freelancer: sampled recent jobs did not justify the $20 deposit gate; AI-code conversion has 138 bids, maritime platform is unrealistic for $250-750, and SEO asks for a live unpaid sample.",
+    "Truelancer: fetch exposed possible Django and Excel jobs but the live page was checkpointed, so scope and availability could not be verified."
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "notes": [
+    {
+     "type": "info",
+     "text": "No viable new zero-upfront, bounded, bot-executable gig in the accessible listings. No bids or client contacts."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork returned a Cloudflare challenge on the one permitted search. Truelancer returned a Vercel checkpoint. Hubstaff Talent application eligibility remains unverified in-product."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent, r/forhire, r/slavelabour. Upwork challenged; Truelancer checkpoint; Freelancer $20 deposit gate; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru newest: physical CAD chalet mockup, law-enforcement reporting/records-management specialties, and UHNW researcher (personal data) are outside the bot-executable scope.",
+    "PeoplePerHour bulk SumUp product-image swaps: £6 for up to 200 edits, underpriced and paid freelancer signup gate. Other recent roles need ongoing human expertise.",
+    "Hubstaff newest: graphic design, onsite security, appointment setting and full-time engineering roles, not bounded automated jobs; application eligibility unverified.",
+    "Reddit fresh visible r/slavelabour posts were sellers offers; r/forhire yielded no usable listing.",
+    "Truelancer current listing could not be inspected past security checkpoint; not counted as screened."
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "notes": [
+    {
+     "type": "info",
+     "text": "No viable new zero-upfront, bounded, bot-executable job in the accessible listings. No bids or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork returned a Cloudflare challenge on the one permitted search. Truelancer returned a Vercel checkpoint. Reddit pages timed out. Hubstaff Talent application eligibility was not verified in-product."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Hubstaff Talent. Upwork challenge; Truelancer checkpoint; Reddit unavailable; Freelancer $20 deposit gate; Contra login required.",
+   "picks": [],
+   "rejects": [
+    "Guru website text change: asks to change a financial claim from $4.2B to $6.2B without substantiation; not a safe blind edit.",
+    "Guru CRM import: 40,000 contacts with emails, telephone numbers and addresses; no budget shown and private-data access, so not shortlisted.",
+    "Guru Shopify management: ongoing store and advertising management, not bounded work.",
+    "PeoplePerHour AI image job: 800-1,000 images for £100, unrealistic budget, plus platform paid-signup gate. Other recent jobs need ongoing specialist work.",
+    "Hubstaff GHL assistant: ongoing weekday EST hours, platform expertise and outbound marketing, not bounded automated work; other newest jobs were assistant, sales and social media roles.",
+    "Reddit fresh feeds could not be loaded today; not counted as screened."
+   ]
+  },
+  {
+   "date": "2026-09-27",
+   "notes": [
+    {
+     "type": "info",
+     "text": "No fresh zero-upfront, bounded, bot-executable pick today. No bid, client contact or delivery."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork search cleared Cloudflare but redirected to login; Truelancer hit a Vercel security checkpoint. Hubstaff application eligibility still unverified in-product."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer public API. Upwork one search attempt redirected to login; Contra skipped (login).",
+   "picks": [],
+   "rejects": [
+    "Guru newest: USA-only VA involves outbound contact; full-time full-stack role and 1-3 month enterprise multimodal knowledge base are not bounded bot-executable gigs.",
+    "PeoplePerHour: Next.js/Vercel AirCon site has a £390 fixed budget and a requirements PDF, but the paid freelancer signup gate makes this route non-viable under zero-upfront preference; other recent listings involve human work or account access.",
+    "Truelancer listing hit security checkpoint, so no current direct listing could be vetted.",
+    "Hubstaff newest: B2B sales, cold outreach and client-success jobs require ongoing person-to-person work; application eligibility unverified.",
+    "Reddit fresh visible r/slavelabour posts were offers, including an unsafe debit-card request; r/forhire did not yield a usable listing.",
+    "Freelancer public fetch did not yield usable project bodies; $20 deposit gate still applies."
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "notes": [
+    {
+     "type": "info",
+     "text": "No fresh listing met the clear-scope, viable-budget, bot-executable and zero-upfront test today. No bid or client contact."
+    },
+    {
+     "type": "warn",
+     "text": "Upwork search redirected to login after Cloudflare; no job results or account eligibility verified. Hubstaff Talent profile is visible to Everyone, but application eligibility was not verified in-product."
+    }
+   ],
+   "boards": "Guru, PeoplePerHour, Truelancer, Hubstaff Talent, r/forhire, r/slavelabour, Freelancer API. Upwork one search attempt redirected to login; Contra skipped (login).",
+   "picks": [],
+   "rejects": [
+    "Guru newest: galvanizing plant needs stamped electrical plans; Shopify management requires hands-on ad operations and ongoing store ownership, not a bounded bot deliverable.",
+    "Truelancer: five 2,000-word posts plus a research report for ₹600, underpriced; video-call data entry and mobile UX redesign require live human work.",
+    "PeoplePerHour newest: Android signing diagnosis, guest post placement, professional label design or media contacts, not a clear bot-executable fit; platform signup has paid annual-plan gate.",
+    "Hubstaff Talent newest/search matches: ongoing social, SEO, graphic design, operations or specialist roles; no suitable bounded listing, and in-product apply eligibility unverified.",
+    "Reddit fresh: r/forhire and r/slavelabour visible tasks were offers or a request to falsify dates in a PDF; latter rejected as deceptive.",
+    "Freelancer API public fetch did not yield usable job data; $20 deposit gate remains."
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "notes": [
+    {
+     "type": "warn",
+     "text": "Upwork search throttled again after the challenge cleared; account-health notice remains. No further Upwork attempts."
+    },
+    {
+     "type": "info",
+     "text": "Truelancer hit a security checkpoint; Contra needs login. No bids submitted."
+    }
+   ],
+   "boards": "PeoplePerHour, Guru, r/forhire, r/slavelabour, Freelancer API (exceptional jobs only). Upwork throttled; Truelancer checkpoint; Contra skipped (login).",
+   "picks": [
+    {
+     "platform": "PeoplePerHour",
+     "title": "Build a high converting Demolition landing page for google ads",
+     "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/website-development/build-a-high-converting-demolition-landing-page-for-google-a-4523375",
+     "budget": "£50-£90 fixed (posted £70 / ~$94)",
+     "bids": "28",
+     "client": "Stonebridge L., UK; payment verification not visible; 0 completed projects",
+     "status": "dead",
+     "status_note": "Route dropped: PeoplePerHour freelancer signup is gated by a paid annual plan in the live product. No proposal sent. Listing may remain live, but it is not an actionable zero-upfront route for Jay."
+    }
+   ],
+   "rejects": [
+    "PPH laptop forwarding: physical logistics, not bot-executable; verification concerns",
+    "Guru AI-agent developer: scope vague (multiple future projects, no concrete deliverable)",
+    "Guru marketing automation: asks for business concepts and contract generation, no concrete bot deliverable",
+    "Freelancer WordPress blank page: urgent live-site diagnosis for ₹600-1,500, not exceptional given $20 deposit",
+    "Freelancer HGZY game scraping: app has no public API and asks for a headless emulator plus live predictions for $15-25; high access/maintenance risk",
+    "Freelancer chicken-crossing analytics: 10 Hz pulses alone cannot reliably identify multiple birds and direction/speed as specified",
+    "Reddit fresh jobs: mostly physical testing, senior production AI role, or non-automation work; no clear fit"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "notes": [
+    {
+     "type": "warn",
+     "text": "Upwork: logged-in search was throttled today, and the account shows an \"account requires attention\" banner plus a PAN/TDS prompt. Open Account Health in the Upwork app and finish the profile (photo, DOB, address, phone)."
+    },
+    {
+     "type": "info",
+     "text": "Guru account created (4jairaj4). Phone verification by WhatsApp/SMS code is still needed before it can bid."
+    }
+   ],
+   "boards": "Upwork (throttled), Freelancer, PeoplePerHour, Guru, Truelancer, r/forhire, r/slavelabour. Contra: needs login, skipped.",
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Excel Spreadsheet Very Light Formula",
+     "url": "https://www.guru.com/jobs/excel-spreadsheet-very-light-formula/2120432",
+     "budget": "Fixed (not shown). Our bid: $25",
+     "bids": "68",
+     "client": "US client, $8,664 spent, 100% paid",
+     "status": "dead",
+     "status_note": "Jay approved a $25 bid, but the client removed the job (HTTP 410) before we could submit."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Python + AI Script for Stock Summary (BSE/NSE)",
+     "url": "https://www.freelancer.com/projects/ai-integration/Python-Script-for-Stock-Summary",
+     "budget": "₹1,500-12,500 fixed (avg bid ~₹8,100)",
+     "bids": "51",
+     "client": "Payment verification not visible",
+     "status": "dead",
+     "status_note": "Rechecked September 30: listing is completed and awarded to another freelancer."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Excel Timesheet & Payroll Tool",
+     "url": "https://www.freelancer.com/projects/data-analysis/Excel-Timesheet-Payroll-Tool",
+     "budget": "₹12,500-37,500 fixed (avg bid ~₹20,000)",
+     "bids": "32",
+     "client": "Payment verification not visible",
+     "status": "dead",
+     "status_note": "Rechecked October 3: listing closed. No proposal sent."
+    }
+   ],
+   "rejects": [
+    "Guru: HubSpot CRM setup - needs HubSpot certifications and a video demo of past builds",
+    "Truelancer: UK M&A data research - LinkedIn/Apollo contact scraping",
+    "Guru/Truelancer: 'recover Google account' / password-recovery jobs - shady",
+    "Freelancer: ad-impression and traffic bots - break platform rules"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "notes": [
+    {
+     "type": "info",
+     "text": "First sweep (last 3 days). Upwork blocked without login; Contra and WorknHire empty without login."
+    }
+   ],
+   "boards": "Freelancer, PeoplePerHour, Guru, Truelancer, r/forhire, r/slavelabour.",
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "Logistics Google Sheet Automation",
+     "url": "https://www.freelancer.com/projects/google-sheets/Logistics-Google-Sheet-Automation",
+     "budget": "₹1,500-12,500 fixed",
+     "bids": "21",
+     "client": "Jaipur, member since 2018",
+     "status": "dead",
+     "status_note": "Rechecked September 30: listing is closed. No proposal sent."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Comparar Tablas Excel Grandes",
+     "url": "https://www.freelancer.com/projects/data-analysis/Comparar-Tablas-Excel-Grandes",
+     "budget": "€30-250 fixed",
+     "bids": "45",
+     "client": "New account",
+     "status": "dead",
+     "status_note": "Rechecked September 30: listing is closed. No proposal sent."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Google Sheets Cleanup & Automation",
+     "url": "https://www.freelancer.com/projects/google-sheets/Google-Sheets-Cleanup-Automation",
+     "budget": "₹750-1,250/hr",
+     "bids": "29",
+     "client": "New account",
+     "status": "dead",
+     "status_note": "Rechecked September 30: listing is closed. No proposal sent."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Small Animal Food Buyer Insights",
+     "url": "https://www.freelancer.com/projects/data-analysis/Small-Animal-Food-Buyer-Insights",
+     "budget": "$25-50/hour (live listing; earlier fixed label corrected)",
+     "bids": "64",
+     "client": "Tanzania, new account",
+     "status": "dead",
+     "status_note": "Rechecked October 7: listing closed. No proposal sent; $20 deposit gate applied."
+    }
+   ],
+   "rejects": [
+    "Zillow view-count traffic bot",
+    "1K/day banner-impression bot",
+    "Bulk WhatsApp blasting",
+    "Mass personal-contact databases"
+   ]
+  }
+ ]
 }
