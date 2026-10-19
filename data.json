@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-18 08:20 IST",
+ "updated": "2026-10-19 08:20 IST",
  "days": [
+  {
+   "date": "2026-10-19",
+   "notes": [
+    {
+     "type": "info",
+     "text": "1 pick: Freelancer website AI chatbot (full-cycle, React+Node widget, LLM backend). $20 deposit gate applies; payment verification unknown. Awaiting Jay's exact yes; no bids/contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open150 quotes/Hired0, terms held. Book current state unverified. Oct18 picks still active, awaiting Jay. Upwork not retried after Oct12 challenge, Reddit inaccessible, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest listing (logged-in browser read; curl Incapsula-walled today) plus live detail checks; Truelancer newest page1; PPH newest page1; Freelancer API 894 active jobs deduped, 662 in last24h. Reddit blocked (login wall), Contra skipped, Upwork no new clearance.",
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "Website Personal Assistant Chatbot -- 2",
+     "url": "https://www.freelancer.com/projects/ai-chatbot/Website-Personal-Assistant-Chatbot",
+     "budget": "Client $250-$750 fixed; proposed $650, live in 5 days from access",
+     "bids": "unknown",
+     "client": "Payment verification unknown; repost (-- 2); spec: OpenAI/Dialogflow/Rasa, React+Node widget, webhook/REST, editable knowledge base, analytics",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 19; awaiting exact text + price approval. Portfolio claims in draft (WhatsApp auto-reply agent, voice-activated assistant) need Jay's verification before any send."
+    }
+   ],
+   "rejects": [
+    "Guru: only one new job in 24h (senior Instagram paid-ads consultant, human marketing); featured video-editor and marketing reposts continue.",
+    "Truelancer: $700 startup content writing vague volume; $10 ORIEL GLOBAL 'AI & web developers network' is a talent-pool recruitment post, not a scoped job; rest design/medical/sales.",
+    "PPH: $2K ecommerce conversion already 65 proposals; Zoho $1.4K now 42 proposals and $1.7K inventory system 42 proposals, all behind the excluded paid-access route; rest voice/UGC/photoshop human work.",
+    "Freelancer: Interactive Brokers options-trading automation $250-750 well-specified but needs IB TWS API experience, not clearly exceptional; CAD3k-5k calculation engines NDA-scoped and open-ended; WhatsApp challan bulk messaging spam-adjacent; CAD3k auditable engines out of profile."
+   ]
+  },
   {
    "date": "2026-10-18",
    "notes": [
@@ -23,7 +55,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; site app010.smartappszone.com; two-stage scope (Stage 2 repairs separately quoted)",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Same work shape as approved Guru audit at 2.5-5x budget."
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Same work shape as approved Guru audit at 2.5-5x budget. Oct19: still active per direct project check; awaiting Jay."
     },
     {
      "platform": "Freelancer",
@@ -33,7 +65,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; acceptance criteria spelled out incl. test/live order through both gateways per store",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Scope: audit + payment simulation + per-store report."
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Scope: audit + payment simulation + per-store report. Oct19: still active per direct project check; awaiting Jay."
     }
    ],
    "rejects": [
@@ -215,7 +247,7 @@
      "bids": "136",
      "client": "Alex W, Netherlands; 2 jobs posted, $0 spent, 0 paid, no feedback; payment verification unknown",
      "status": "pending",
-     "status_note": "Jay approved exact $25/hr, 12h estimate, $300 cap, 3 days after access text Oct 10. NOT sent: formal hourly form requires Hrs/Wk and absolute billing end date, not total cap; placeholder-vs-formal decision remains with Jay. No bid consumed. Oct 11 open, 66 quotes, Hired (0), no sent marker. Optional sharing/premium/auto-accept were OFF in abandoned unsent form. Fresh final fee/terms and duplicate check needed before submitting. Oct 12: open, 72 quotes, Hired (0), no sent marker; terms choice unchanged. Oct13: open, 94 quotes, Hired (0), no sent marker; terms choice held. Oct14: open112 quotes/Hired0/no sent marker; terms choice held. Oct15: open130 quotes/Hired0/no sent marker, terms choice held. Oct16: open136 quotes/Hired0/no sent marker; terms held. Oct17: open141 quotes/Hired0/no sent marker; terms held. Oct18: open147 quotes/Hired0/no sent marker; terms held."
+     "status_note": "Jay approved exact $25/hr, 12h estimate, $300 cap, 3 days after access text Oct 10. NOT sent: formal hourly form requires Hrs/Wk and absolute billing end date, not total cap; placeholder-vs-formal decision remains with Jay. No bid consumed. Oct 11 open, 66 quotes, Hired (0), no sent marker. Optional sharing/premium/auto-accept were OFF in abandoned unsent form. Fresh final fee/terms and duplicate check needed before submitting. Oct 12: open, 72 quotes, Hired (0), no sent marker; terms choice unchanged. Oct13: open, 94 quotes, Hired (0), no sent marker; terms choice held. Oct14: open112 quotes/Hired0/no sent marker; terms choice held. Oct15: open130 quotes/Hired0/no sent marker, terms choice held. Oct16: open136 quotes/Hired0/no sent marker; terms held. Oct17: open141 quotes/Hired0/no sent marker; terms held. Oct18: open147 quotes/Hired0/no sent marker; terms held. Oct19: open150 quotes/Hired0/no sent marker; terms held."
     }
    ],
    "rejects": [
@@ -356,7 +388,7 @@
      "bids": "97",
      "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
      "status": "pending",
-     "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified. Oct 10: open, 90 quotes, Hired (0); revised approval still needed. Oct 11: open, 95 quotes, Hired (0), revised approval still needed. Oct 12: open, 97 quotes, Hired (0), revised scope approval still needed. Oct13 current status UNVERIFIED: two detail reads redirect to Guru dashboard; public fetch not found. Possible removal/closure not proven. Retaining pending, no submission; count 97 is last verified Oct12, not current. Oct14: detail still redirects dashboard; current state unverified, last count97 Oct12. Oct15: detail redirects dashboard; current status unverified, last count97 Oct12. Oct16: detail redirects dashboard; state unverified, last count97 Oct12. Oct17: detail redirects dashboard; state unverified, last count97 Oct12. Oct18: detail redirects dashboard; state unverified, last count97 Oct12."
+     "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified. Oct 10: open, 90 quotes, Hired (0); revised approval still needed. Oct 11: open, 95 quotes, Hired (0), revised approval still needed. Oct 12: open, 97 quotes, Hired (0), revised scope approval still needed. Oct13 current status UNVERIFIED: two detail reads redirect to Guru dashboard; public fetch not found. Possible removal/closure not proven. Retaining pending, no submission; count 97 is last verified Oct12, not current. Oct14: detail still redirects dashboard; current state unverified, last count97 Oct12. Oct15: detail redirects dashboard; current status unverified, last count97 Oct12. Oct16: detail redirects dashboard; state unverified, last count97 Oct12. Oct17: detail redirects dashboard; state unverified, last count97 Oct12. Oct18: detail redirects dashboard; state unverified, last count97 Oct12. Oct19: detail redirects dashboard; state unverified, last count97 Oct12."
     }
    ],
    "rejects": [
