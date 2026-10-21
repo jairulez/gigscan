@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-20 08:20 IST",
+ "updated": "2026-10-21 08:15 IST",
  "days": [
+  {
+   "date": "2026-10-21",
+   "notes": [
+    {
+     "type": "info",
+     "text": "2 picks: Guru 5-page flower shop site $250-$500 (free quote board) and Freelancer RFP Hunter AI sourcing agent phased to $700 ($20 deposit gate). Payment verification unknown on both. Awaiting Jay's exact yes per job; no bids/contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open157 quotes/Hired0, terms held. Book current state unverified. All 4 earlier Freelancer picks still active, awaiting Jay. Upwork not retried after Oct12 challenge, Reddit inaccessible, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest page1 (logged-in browser; curl Incapsula-walled) + live detail reads; Truelancer newest page1; PPH newest page1 (read-only); Freelancer API ~900 active deduped, 791 in last24h. Reddit 403 curl + old.reddit login wall, Contra skipped, Upwork no new clearance.",
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Flowers Delivery Website Needed (5 pages)",
+     "url": "https://www.guru.com/work/detail/2121439",
+     "budget": "Client $250-$500 fixed; proposed $450, 7 days from access + content",
+     "bids": "20 quotes (0 premium), Hired 0, send before Nov 19",
+     "client": "Zain S, Pakistan; payment verification unknown",
+     "status": "spotted",
+     "status_note": "Free-quote board. Draft proposal reported to Jay Oct 21; awaiting exact text + price approval. WordPress/WooCommerce 5-page shop: home w/ categories, flower details w/ add-to-cart + reviews, cart, checkout, contact."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "RFP Hunter - AI-powered procurement sourcing agent",
+     "url": "https://www.freelancer.com/projects/ai-chatbot/Develop-RFP-Hunter-Powered-Procurement",
+     "budget": "Client $250-$750 fixed; proposed $700 Phase 1 (source monitoring + change detection + email/WhatsApp alerts + source directory), phased",
+     "bids": "unknown",
+     "client": "Payment verification unknown; long-term vision national procurement platform",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 21; awaiting exact text + price approval. Gig Scan cited as proof-of-approach (real and verifiable); Jay to confirm all claims before any send."
+    }
+   ],
+   "rejects": [
+    "Freelancer: AI office-automation INR75-150k operates a government portal with OTP/CAPTCHA checkpoints and scope far beyond budget; beginner-IDE usability $250-750 requires posing as a true beginner; rideshare QA $30-250 (3rd repost) needs physical iOS+Android devices; availability-monitor $750-1500 demands anti-bot evasion + slot sniping; Shopify CRO implementation at Rs3000-4000.",
+    "Guru: resale platform builds 2121437/2121436 carry no stated budget against full marketplace scope; rest of newest page is B2B sales, literary translation, invoicing, house plans.",
+    "Truelancer: bulk WhatsApp messaging (spam), NSFW captioning, backlink submission; quant trading, CAD jewelry, data entry off-profile.",
+    "PPH (paid-access, read-only): Excel-to-testing-app already 43 proposals; recruitment-platform budget openly indicative; nothing clean enough to raise the plan question.",
+    "Reddit r/forhire + r/slavelabour: 403 curl, old.reddit login wall."
+   ]
+  },
   {
    "date": "2026-10-20",
    "notes": [
@@ -23,7 +66,7 @@
      "bids": "unknown",
      "client": "Personal Sedan Services, Las Vegas (est. 2000, 50+ vehicles); payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 20; awaiting exact text + price approval. Full wishlist exceeds stated budget, so draft phases the work; Phase 2 priced after discovery. Demo-video claim needs Jay's verification before any send."
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 20; awaiting exact text + price approval. Full wishlist exceeds stated budget, so draft phases the work; Phase 2 priced after discovery. Demo-video claim needs Jay's verification before any send. Oct21: still active per direct project check."
     }
    ],
    "rejects": [
@@ -55,7 +98,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; repost (-- 2); spec: OpenAI/Dialogflow/Rasa, React+Node widget, webhook/REST, editable knowledge base, analytics",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 19; awaiting exact text + price approval. Portfolio claims in draft (WhatsApp auto-reply agent, voice-activated assistant) need Jay's verification before any send. Oct20: still active per direct project check; awaiting Jay."
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 19; awaiting exact text + price approval. Portfolio claims in draft (WhatsApp auto-reply agent, voice-activated assistant) need Jay's verification before any send. Oct20: still active per direct project check; awaiting Jay. Oct21: still active per direct project check."
     }
    ],
    "rejects": [
@@ -87,7 +130,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; site app010.smartappszone.com; two-stage scope (Stage 2 repairs separately quoted)",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Same work shape as approved Guru audit at 2.5-5x budget. Oct19: still active per direct project check; awaiting Jay. Oct20: still active per direct project check; awaiting Jay."
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Same work shape as approved Guru audit at 2.5-5x budget. Oct19: still active per direct project check; awaiting Jay. Oct20: still active per direct project check; awaiting Jay. Oct21: still active per direct project check."
     },
     {
      "platform": "Freelancer",
@@ -97,7 +140,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; acceptance criteria spelled out incl. test/live order through both gateways per store",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Scope: audit + payment simulation + per-store report. Oct19: still active per direct project check; awaiting Jay. Oct20: still active per direct project check; awaiting Jay."
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 18; awaiting exact text + price approval. Scope: audit + payment simulation + per-store report. Oct19: still active per direct project check; awaiting Jay. Oct20: still active per direct project check; awaiting Jay. Oct21: still active per direct project check."
     }
    ],
    "rejects": [
@@ -783,4 +826,4 @@
    ]
   }
  ]
-}
+    }
