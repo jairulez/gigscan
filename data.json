@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-21 08:15 IST",
+ "updated": "2026-10-22 08:15 IST",
  "days": [
+  {
+   "date": "2026-10-22",
+   "notes": [
+    {
+     "type": "info",
+     "text": "2 picks, both Freelancer: technical website performance audit (same shape as the approved Guru audit; proposed $500) and WhatsApp support chatbot (proposed $650). $20 deposit gate applies to both; payment verification unknown. Awaiting Jay's exact yes per job; no bids/contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open159 quotes/Hired0, terms held. Oct21 Guru flowers pick DEAD (client hired; 67 quotes). Book current state unverified. All 5 earlier Freelancer picks still active, awaiting Jay. Upwork not retried after Oct12 challenge, Reddit inaccessible, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest page1 + tracked detail reads (logged-in browser; curl Incapsula-walled); Truelancer newest page1; PPH newest page1 (read-only); Freelancer API ~900 active deduped, 730 in last24h. Reddit 403 curl + old.reddit login wall, Contra skipped, Upwork no new clearance.",
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "Comprehensive Technical Website Audit (speed/performance focus)",
+     "url": "https://www.freelancer.com/projects/seo/Comprehensive-Technical-Website-Audit",
+     "budget": "Client $250-$750 fixed; proposed $500, 3 days from access",
+     "bids": "unknown",
+     "client": "Payment verification unknown; keyword mapping for 150 phrases already done in-house",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 22; awaiting exact text + price approval. Deliverables: data-driven report (PageSpeed/Lighthouse/GTmetrix), prioritized action list w/ gain+effort per fix, exported results/screenshots, walkthrough summary. 'Runs audits on own projects' claim needs Jay's verification before any send."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "WhatsApp Support Chatbot Development (official Business API)",
+     "url": "https://www.freelancer.com/projects/chatbot-development/WhatsApp-Support-Chatbot-Development",
+     "budget": "Client $250-$750 fixed; proposed $650, live in 7 days from API access + FAQ content",
+     "bids": "unknown",
+     "client": "Payment verification unknown; client supplies FAQ knowledge base + tone guidelines",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 22; awaiting exact text + price approval. Scope: approved-API connection, greeting/name/order capture, FAQ flows w/ quick-replies, live-agent escalation w/ history, Google Sheet logging, handover docs. 'Runs own WhatsApp auto-reply agent' claim (parent lead) needs Jay's verification before any send."
+    }
+   ],
+   "rejects": [
+    "Freelancer: AI workflow automation bot $250-750 demands 99% success across calendars+task tools+approvals in a week-long test (acceptance bar too broad for the cap); AI orchestration setup $250-750 is a one-line repost of its own title (no scope); school-automation platform INR37.5-75k is a full multi-tenant build; shipping-report automation has no stated data source; bet-placement API, mass-report automation and ad-watching bots are shady.",
+    "Guru: newest page is Instagram growth, photo colorizing, US-only admin assistant, PCA reports, bookkeeping, finance director, calendar illustrations - all off-profile.",
+    "Truelancer: telecalling, $4 customer service, backlink building (spam-adjacent), sysadmin, PCB mentor, iOS Capacitor port - none fit.",
+    "PPH (paid-access, read-only): multilingual WordPress (WPML) and Laravel Nova migration plausible but behind the plan gate; rest are solicitors, accountants, illustrators, sales roles.",
+    "Reddit r/forhire + r/slavelabour: 403 curl, old.reddit login wall."
+   ]
+  },
   {
    "date": "2026-10-21",
    "notes": [
@@ -22,8 +65,8 @@
      "budget": "Client $250-$500 fixed; proposed $450, 7 days from access + content",
      "bids": "20 quotes (0 premium), Hired 0, send before Nov 19",
      "client": "Zain S, Pakistan; payment verification unknown",
-     "status": "spotted",
-     "status_note": "Free-quote board. Draft proposal reported to Jay Oct 21; awaiting exact text + price approval. WordPress/WooCommerce 5-page shop: home w/ categories, flower details w/ add-to-cart + reviews, cart, checkout, contact."
+     "status": "dead",
+     "status_note": "Oct22: client hired someone (Hired 1, 67 quotes) - dead before Jay's review. Original draft never sent."
     },
     {
      "platform": "Freelancer",
@@ -826,4 +869,4 @@
    ]
   }
  ]
-    }
+}
