@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-23 08:30 IST",
+ "updated": "2026-10-23 08:35 IST",
  "days": [
   {
    "date": "2026-10-23",
    "notes": [
     {
      "type": "info",
-     "text": "1 pick: Freelancer Bill.com new-vendor email automation (clean trigger/action/acceptance spec; proposed $500). $20 deposit gate applies; payment verification unknown. Draft qualified against BILL API docs and reported to main Oct 23 - NOT yet delivered to Jay, not awaiting his approval yet. No bids/contact."
+     "text": "1 pick: Freelancer Bill.com new-vendor email automation (clean trigger/action/acceptance spec; proposed $500). $20 deposit gate applies; payment verification unknown. Lead shared; technical scope under review; no proposal sent."
     },
     {
      "type": "warn",
@@ -23,7 +23,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; provides Bill.com sandbox + API key + recipient list",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft qualified against current BILL developer docs (vendor.created webhook is real; payload carries vendor name, paymentInformation and accountNumber; org-level API key + devKey required; no first-party Power Automate BILL trigger exists, so the build uses BILL's documented webhook + secure API per the client's own brief). Reported to main Oct 23; pending main's delivery of the qualified draft to Jay. NOT yet awaiting Jay's approval."
+     "status_note": "$20 deposit gate applies. Lead shared; technical scope under review; no proposal sent. Technical check against current BILL developer docs: vendor.created webhook is real (sandbox + production) and its payload carries vendor name, payment details and account number; production API key is self-serve for the client org admin; no first-party Power Automate BILL trigger exists, so the build would use BILL's documented webhook + secure API per the client's own brief, with licensing/hosting/permissions to be settled at kickoff."
     }
    ],
    "rejects": [
