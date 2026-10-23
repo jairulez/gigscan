@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-23 08:15 IST",
+ "updated": "2026-10-23 08:30 IST",
  "days": [
   {
    "date": "2026-10-23",
    "notes": [
     {
      "type": "info",
-     "text": "1 pick: Freelancer Bill.com new-vendor email automation in Power Automate (clean trigger/action/acceptance spec; proposed $500). $20 deposit gate applies; payment verification unknown. Awaiting Jay's exact yes; no bids/contact."
+     "text": "1 pick: Freelancer Bill.com new-vendor email automation (clean trigger/action/acceptance spec; proposed $500). $20 deposit gate applies; payment verification unknown. Draft qualified against BILL API docs and reported to main Oct 23 - NOT yet delivered to Jay, not awaiting his approval yet. No bids/contact."
     },
     {
      "type": "warn",
@@ -23,7 +23,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; provides Bill.com sandbox + API key + recipient list",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 23; awaiting exact text + price approval. Scope: new-vendor trigger via official connector/API, branded Outlook email w/ vendor name+payment details+account number, failure logging + alert, sandbox-tested to one email <30s, no-code admin handover. No unverified portfolio claims in draft."
+     "status_note": "$20 deposit gate applies. Draft qualified against current BILL developer docs (vendor.created webhook is real; payload carries vendor name, paymentInformation and accountNumber; org-level API key + devKey required; no first-party Power Automate BILL trigger exists, so the build uses BILL's documented webhook + secure API per the client's own brief). Reported to main Oct 23; pending main's delivery of the qualified draft to Jay. NOT yet awaiting Jay's approval."
     }
    ],
    "rejects": [
