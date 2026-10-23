@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-22 08:15 IST",
+ "updated": "2026-10-23 08:15 IST",
  "days": [
+  {
+   "date": "2026-10-23",
+   "notes": [
+    {
+     "type": "info",
+     "text": "1 pick: Freelancer Bill.com new-vendor email automation in Power Automate (clean trigger/action/acceptance spec; proposed $500). $20 deposit gate applies; payment verification unknown. Awaiting Jay's exact yes; no bids/contact."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open164 quotes/Hired0, terms held. Book current state unverified. All 7 earlier Freelancer picks still active, awaiting Jay. Upwork not retried after Oct12 challenge, Reddit inaccessible, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest page1 + audit detail read (logged-in browser; curl Incapsula-walled); Truelancer newest page1; PPH newest page1 (read-only); Freelancer API ~900 active deduped, 746 in last24h. Reddit 403 curl + old.reddit login wall, Contra skipped, Upwork no new clearance.",
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "Bill.com Vendor Email Automation (Power Automate)",
+     "url": "https://www.freelancer.com/projects/power-automate/Bill-com-Vendor-Email-Automation",
+     "budget": "Client $250-$750 fixed; proposed $500, 3 days from sandbox access + API key",
+     "bids": "unknown",
+     "client": "Payment verification unknown; provides Bill.com sandbox + API key + recipient list",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Draft proposal reported to Jay Oct 23; awaiting exact text + price approval. Scope: new-vendor trigger via official connector/API, branded Outlook email w/ vendor name+payment details+account number, failure logging + alert, sandbox-tested to one email <30s, no-code admin handover. No unverified portfolio claims in draft."
+    }
+   ],
+   "rejects": [
+    "Freelancer: stock-alert bot GBP250-750 explicitly asks for auto-CAPTCHA + multi-profile queue jumping (shady); preschool app QA $250-750 needs iOS+Android physical builds; Termeva UX test pays $25-50 total against a $20 deposit; data-platform audit case study is interview-assessment work; AI voice agent INR150-250k is a vague enterprise wishlist; AWS AI infra role is broad ongoing production access; data automation support states no scope.",
+    "Guru: karaoke tracks, Phoenix ALTA survey, Moldova lawyer, execution dealer, sub-$250 Shopify build already at 78 quotes - none fit.",
+    "Truelancer: video editors, $10 product-listing data entry, sysadmin, $102 CRM/dashboard builds - none fit.",
+    "PPH (paid-access, read-only): Airtable/Softr app from an audited Excel workbook and urgent WP plugin fix plausible but behind the plan gate; Checkatrade auto-accept + scraping jobs are shady.",
+    "Reddit r/forhire + r/slavelabour: 403 curl, old.reddit login wall."
+   ]
+  },
   {
    "date": "2026-10-22",
    "notes": [
