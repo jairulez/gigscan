@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24 08:15 IST",
+ "updated": "2026-10-24 08:35 IST",
  "days": [
   {
    "date": "2026-10-24",
    "notes": [
     {
      "type": "info",
-     "text": "3 picks: Guru Shopify art store built from client's mockup $500-1k (free quote board, exceptionally specced), Freelancer bilingual WhatsApp auto-reply bot (proposed $650) and Freelancer secure document uploads + AI summaries CAD1500-3000 (proposed CAD2200). $20 deposit gate applies to the Freelancer two; payment verification unknown on all. Under review; no proposals sent."
+     "text": "3 picks: Guru Shopify art store built from client's mockup $500-1k (free quote board, exceptionally specced), Freelancer bilingual WhatsApp auto-reply bot and Freelancer secure document uploads + AI summaries CAD1500-3000. $20 deposit gate applies to the Freelancer two; payment verification unknown on all. Under technical/scope review; no proposals sent; no drafts or prices approved."
     },
     {
      "type": "warn",
@@ -23,7 +23,7 @@
      "bids": "26 quotes (1 premium), Hired 0, send before Nov 22",
      "client": "Forme Noire art print brand; domain already purchased; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under review; no proposal sent. Exceptionally specced: mockup ZIP supplied, custom theme, 18+ age gate (art nudity, compliant), Shopify Payments w/ client-owned accounts, shipping/tax config, framing options quoted separately per client request. No unverified portfolio claims in draft."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request."
     },
     {
      "platform": "Freelancer",
@@ -33,7 +33,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; ~60-FAQ knowledge base supplied by client",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under review; no proposal sent. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. 'Runs own WhatsApp auto-reply agent' claim (parent lead) needs Jay's verification before any send."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation."
     },
     {
      "platform": "Freelancer",
@@ -43,7 +43,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; production-ready expectations (tests, audit trail, Docker)",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under review; no proposal sent. Scope: drop-zone widget, encrypted storage + per-user authz, AI summary on upload (OpenAI/Claude or local model), logging/audit, automated tests, Docker handover. No unverified portfolio claims in draft."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: drop-zone widget, encrypted storage + per-user authz, AI summary on upload, logging/audit, automated tests, Docker handover. Open qualifications: absolute isolation wording and the 2-week timeline are ungrounded commitments to soften before any approval."
     }
    ],
    "rejects": [
