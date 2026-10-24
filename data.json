@@ -1,6 +1,59 @@
 {
- "updated": "2026-10-23 08:35 IST",
+ "updated": "2026-10-24 08:15 IST",
  "days": [
+  {
+   "date": "2026-10-24",
+   "notes": [
+    {
+     "type": "info",
+     "text": "3 picks: Guru Shopify art store built from client's mockup $500-1k (free quote board, exceptionally specced), Freelancer bilingual WhatsApp auto-reply bot (proposed $650) and Freelancer secure document uploads + AI summaries CAD1500-3000 (proposed CAD2200). $20 deposit gate applies to the Freelancer two; payment verification unknown on all. Under review; no proposals sent."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open167 quotes/Hired0, terms held. Book current state unverified. All 8 earlier Freelancer picks still active, awaiting Jay. Upwork not retried after Oct12 challenge, Reddit inaccessible, PPH paid-access excluded."
+    }
+   ],
+   "boards": "Guru newest page1 + detail reads (logged-in browser; curl Incapsula-walled); Truelancer newest page1; PPH newest page1 (read-only); Freelancer API ~900 active deduped, 755 in last24h. Reddit 403 curl + old.reddit login wall, Contra skipped, Upwork no new clearance.",
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Build Shopify Art Store from Mockup (Forme Noire)",
+     "url": "https://www.guru.com/work/detail/2121481",
+     "budget": "Client $500-1k fixed; proposed $950 (incl. 4 sample + 20 extra product uploads, handover walkthrough, 30-day bug support), 2 weeks from mockup files + content",
+     "bids": "26 quotes (1 premium), Hired 0, send before Nov 22",
+     "client": "Forme Noire art print brand; domain already purchased; payment verification unknown",
+     "status": "spotted",
+     "status_note": "Free-quote board. Under review; no proposal sent. Exceptionally specced: mockup ZIP supplied, custom theme, 18+ age gate (art nudity, compliant), Shopify Payments w/ client-owned accounts, shipping/tax config, framing options quoted separately per client request. No unverified portfolio claims in draft."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "WhatsApp Auto-Reply Chatbot (English + Spanish)",
+     "url": "https://www.freelancer.com/projects/ai-chatbot/WhatsApp-Auto-Reply-Chatbot-40783246",
+     "budget": "Client $250-$750 fixed; proposed $650, live in 7 days from API access + FAQ list",
+     "bids": "unknown",
+     "client": "Payment verification unknown; ~60-FAQ knowledge base supplied by client",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under review; no proposal sent. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. 'Runs own WhatsApp auto-reply agent' claim (parent lead) needs Jay's verification before any send."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Secure Document Uploads with AI Summaries",
+     "url": "https://www.freelancer.com/projects/api-developmet/Secure-Document-Uploads-with-Summaries",
+     "budget": "Client CAD1,500-3,000 fixed; proposed CAD2,200, 2 weeks from access",
+     "bids": "unknown",
+     "client": "Payment verification unknown; production-ready expectations (tests, audit trail, Docker)",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under review; no proposal sent. Scope: drop-zone widget, encrypted storage + per-user authz, AI summary on upload (OpenAI/Claude or local model), logging/audit, automated tests, Docker handover. No unverified portfolio claims in draft."
+    }
+   ],
+   "rejects": [
+    "Freelancer: BCcGuardDog email-automation MVP $250-750 is well-specced (Make.com + Postmark + LLM + Stripe) but crowded out by today's top-3 cap; availability-monitoring SaaS $750-1500 is the recurring slot-sniping repost now explicitly demanding Cloudflare CAPTCHA/anti-bot expertise (shady); Shopify kids-education migration INR37.5-75k carries LMS-integration unknowns across 3 milestones; Amazon FBA audit and Workday payroll audit are niche-compliance work.",
+    "Guru: video editor, buck regulator schematic, PCI DSS pentest, auction site (no rate, 57 quotes), Texas lease - none fit.",
+    "Truelancer: SAP HRIS $500 niche, $2/hr HTML-to-WP insult rate, Laravel upgrade $10, prediction-market growth marketing, Ludo cash-game ads (gambling).",
+    "PPH (paid-access, read-only): Reuters placement with 'no visible publisher' (shady), guest-post peddling, $118 Shopify site; Kajabi email automation gated.",
+    "Reddit r/forhire + r/slavelabour: 403 curl, old.reddit login wall."
+   ]
+  },
   {
    "date": "2026-10-23",
    "notes": [
