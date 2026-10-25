@@ -1,6 +1,85 @@
 {
- "updated": "2026-10-24 08:35 IST",
+ "updated": "2026-10-25 08:25 IST",
  "days": [
+  {
+   "date": "2026-10-25",
+   "notes": [
+    {
+     "type": "info",
+     "text": "3 picks: Freelancer Odoo/Frappe secure AI ERP assistant INR75k-150k (agentic LLM integration, certified-partner client), Truelancer inclusive matrimony PWA Rs50,000 fixed (free-bidding board), Freelancer AI-agent codebase architecture review $30-250. $20 deposit gate applies to the Freelancer two; payment verification unknown on all. Under technical/scope review; no proposals sent; no drafts or prices approved."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open at 171 quotes/Premium 6/Hired 0, terms held. Book current state unverified. Guru art store pick now at 75 quotes (3 premium), Hired 0. Two earlier Freelancer picks (Website QA 40772678, Shopify audit 40772375) are FROZEN per Oct 25 direct check and marked dead. BCcGuardDog still active but at 435 bids (buried). Upwork not retried after Oct 12 challenge; Reddit readable again on www.reddit.com; PPH read-only."
+    }
+   ],
+   "boards": {
+    "guru": "195 jobs listed; new-in-window: book-publishing appointment setter, commercial lease review - no fit. Art store pick 2121481 at 75 quotes/3 premium/Hired 0.",
+    "truelancer": "Matrimony PWA Rs50,000 (pick). Rest: $40 Google Shopping setup, tiny video/writing jobs, Instagram growth.",
+    "pph": "Read-only. Newsletter sending provider (shady - third-party campaigns outside content policies), UK nominee director (shady), TikTok follow automation (shady), WordPress migration $20, Flutter app $529 at 44 proposals.",
+    "freelancer": "702 projects scanned in window. Picks: Odoo/Frappe AI assistant, AI agent architecture review. BCcGuardDog active at 435 bids (held). WhatsApp site-alerts monitor INR10-12k well-specced but small + gate. WhatsApp bulk campaign strategy skipped (bulk marketing).",
+    "reddit": "www.reddit.com readable (old.reddit login-walled). r/forhire: social posters, YouTube handler, $15/hr research assistant, manga translation. r/slavelabour: VA $20/wk, Discord server, tiny tasks. No fit.",
+    "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+   },
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "Secure AI Assistant for Odoo & Frappe (live ERP database chatbot)",
+     "url": "https://www.freelancer.com/projects/php/Secure-Assistant-for-Odoo-Frappe-40784833",
+     "budget": "Client INR75,000-150,000 fixed; proposed INR120,000 for pilot + two modules",
+     "bids": "59 bids",
+     "client": "ERP service provider, certified Odoo & Frappe partner; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used."
+    },
+    {
+     "platform": "Truelancer",
+     "title": "Inclusive Matrimony PWA (3-step registration, photo blur, mutual contact unlock)",
+     "url": "https://www.truelancer.com/freelance-project/developer-needed-for-inclusive-matrimony-pwa-663187",
+     "budget": "Client Rs50,000 fixed; proposed Rs48,000",
+     "bids": "11 proposals",
+     "client": "India, individual, brand-new client (0 history, 0 spent, joined Oct 24) - new-client risk",
+     "status": "spotted",
+     "status_note": "Free-bidding board. Under technical/scope review; no proposal sent; no draft or price approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "AI Agent Architecture Review (explain multi-agent codebase to engineers + non-engineers)",
+     "url": "https://www.freelancer.com/projects/software-architecture/AI-Agent-Architecture-Review-40784916",
+     "budget": "Client $30-250 fixed; proposed $225",
+     "bids": "116 bids",
+     "client": "AgentS multi-agent platform in beta (TypeScript monorepo, SvelteKit, Hono/Bun, Postgres+pgvector RLS, Inngest, MCP tools); payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "BCcGuardDog email automation MVP",
+     "reason": "still strong but 435 bids - buried; held, not picked"
+    },
+    {
+     "title": "AI Website Updates WhatsApp Alerts (INR10-12k)",
+     "reason": "well-specced polling+summarizer+WhatsApp push but small budget under the $20 gate"
+    },
+    {
+     "title": "WordPress News Site ($5-10k)",
+     "reason": "realistic-fit but generic brief, 197 bids"
+    },
+    {
+     "title": "Full WhatsApp Campaign Strategy",
+     "reason": "bulk WhatsApp marketing - spam-adjacent"
+    },
+    {
+     "title": "PPH newsletter sending provider / UK nominee director / TikTok follow automation",
+     "reason": "shady"
+    },
+    {
+     "title": "Asistente FAQ WhatsApp ($15-25)",
+     "reason": "budget too small under gate"
+    }
+   ]
+  },
   {
    "date": "2026-10-24",
    "notes": [
@@ -23,7 +102,7 @@
      "bids": "26 quotes (1 premium), Hired 0, send before Nov 22",
      "client": "Forme Noire art print brand; domain already purchased; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request. Oct25: 75 quotes (3 premium), Hired 0, still open."
     },
     {
      "platform": "Freelancer",
@@ -33,7 +112,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; ~60-FAQ knowledge base supplied by client",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation. Oct25: still active, 292 bids."
     },
     {
      "platform": "Freelancer",
