@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 08:25 IST",
+ "updated": "2026-10-25 08:40 IST",
  "days": [
   {
    "date": "2026-10-25",
@@ -30,7 +30,7 @@
      "bids": "59 bids",
      "client": "ERP service provider, certified Odoo & Frappe partner; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence."
     },
     {
      "platform": "Truelancer",
@@ -40,7 +40,7 @@
      "bids": "11 proposals",
      "client": "India, individual, brand-new client (0 history, 0 spent, joined Oct 24) - new-client risk",
      "status": "spotted",
-     "status_note": "Free-bidding board. Under technical/scope review; no proposal sent; no draft or price approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks."
+     "status_note": "Free-bidding board. Under technical/scope review; no proposal sent; no draft or price approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks. Draft correction: process-claim phrasing ('standard for me') struck pending Jay's own evidence."
     },
     {
      "platform": "Freelancer",
@@ -50,7 +50,7 @@
      "bids": "116 bids",
      "client": "AgentS multi-agent platform in beta (TypeScript monorepo, SvelteKit, Hono/Bun, Postgres+pgvector RLS, Inngest, MCP tools); payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first."
     }
    ],
    "rejects": [
