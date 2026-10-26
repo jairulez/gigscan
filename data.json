@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-25 10:55 IST",
+ "updated": "2026-10-26 08:25 IST",
  "days": [
+  {
+   "date": "2026-10-26",
+   "notes": [
+    {
+     "type": "info",
+     "text": "2 picks (thin day, no free-board fits): Freelancer Node.js VPS production deploy $1.5k-3k and Freelancer WooCommerce digital key store $150-300. $20 deposit gate applies to both; payment verification unknown on both. Under technical/scope review; no proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open at 173 quotes/Premium 6/Hired 0, terms held. Book state unverified. Guru art store pick at 84 quotes, Hired 0. Matrimony PWA (Truelancer) active at 23 proposals. Freelancer chatbot 40774853 FROZEN per Oct 26 direct check (note-tracked). BCcGuardDog active at 437 bids. Upwork not retried; Reddit/PPH/Guru barren or mismatched today."
+    }
+   ],
+   "boards": {
+    "guru": "200 jobs; new-in-window: Wikipedia biography editor, Podia site support + Google Ads, AI LinkedIn marketer - no fit. Art store 2121481 at 84 quotes/Hired 0. Audit 2121274 at 173 quotes.",
+    "truelancer": "LinkedIn-clone ask at $510 (unrealistic budget), Gmail-without-phone-verification (shady), tiny writing jobs. Matrimony PWA pick from Oct 25 active at 23 proposals.",
+    "pph": "Read-only (bidding gated). Automated B2B lead-gen system $818 (public business-directory scraping - excluded anyway), long-term dev $500 vague, solicitor/visa/caller jobs off-profile.",
+    "freelancer": "653 projects scanned. Picks: VPS deploy, WooCommerce key store. Claude marketplace app vague/scammy; LangGraph chatbot INR400-700 tiny; WhatsApp jobs all $8-50.",
+    "reddit": "r/forhire: single hiring post (executive assistant $20/hr) in ~24h. r/slavelabour: $3 circuit diagram. No fit.",
+    "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+   },
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "Deploy Node.js 22 Business App to VPS (Docker, Caddy, HTTPS, backups, monitoring)",
+     "url": "https://www.freelancer.com/projects/node-js/Deploy-Secure-Node-App-VPS-with-40786476",
+     "budget": "Client $1,500-3,000 fixed; proposed $2,000",
+     "bids": "218 bids",
+     "client": "New home-services call center, experienced team; app built and running locally; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: provision VPS, Docker+Caddy HTTPS deploy, automated backups for JSON data + uploads, monitoring/uptime alerts, load test, runbook + handover call; SQL migration documented but out of scope. Open qualifications: provider/domain already chosen or not, backup retention expectations. No experience or portfolio claims used."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "WooCommerce Digital Key Store (133-product OpenCart migration, automated license delivery)",
+     "url": "https://www.freelancer.com/projects/wordpress/Build-WooCommerce-Digital-Key-Store-40786728",
+     "budget": "Client $150-300 fixed; proposed $300 (budget low vs scope - flagged)",
+     "bids": "113 bids",
+     "client": "Existing Namecheap VPS (cPanel, PHP 8.3, Cloudflare); migrating from OpenCart; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: lightweight block-theme storefront, 133 products migrated with images/categories, license manager with instant Stripe-paid key delivery tied to stock pools, digital-only checkout, end-to-end purchase test. Open question: pre-generated keys supplied or to be generated. Budget is low for the scope - flagged for Jay. No experience or portfolio claims used."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "Claude-Powered Marketplace App ($1.5-2k)",
+     "reason": "vague 'onboard engineers, full time, must know AI' brief - scammy"
+    },
+    {
+     "title": "Truelancer LinkedIn clone ($510)",
+     "reason": "unrealistic budget for scope"
+    },
+    {
+     "title": "Truelancer Gmail-without-phone-verification",
+     "reason": "shady"
+    },
+    {
+     "title": "PPH B2B lead-generation system ($818)",
+     "reason": "PPH read-only for Jay; scraping-adjacent"
+    },
+    {
+     "title": "LangGraph chatbot (INR400-700) / WhatsApp fixes ($8-50)",
+     "reason": "budgets too small under gate"
+    },
+    {
+     "title": "Squarespace refresh / non-profit site / fitness e-commerce",
+     "reason": "238-330 bids, generic"
+    }
+   ]
+  },
   {
    "date": "2026-10-25",
    "notes": [
@@ -30,7 +99,7 @@
      "bids": "59 bids",
      "client": "ERP service provider, certified Odoo & Frappe partner; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence."
+     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence. Oct26: still active, 80 bids."
     },
     {
      "platform": "Truelancer",
@@ -40,7 +109,7 @@
      "bids": "11 proposals",
      "client": "India, individual, brand-new client (0 history, 0 spent, joined Oct 24) - new-client risk",
      "status": "spotted",
-     "status_note": "Free-bidding board. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks. Draft correction: process-claim phrasing ('standard for me') struck pending Jay's own evidence."
+     "status_note": "Free-bidding board. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks. Draft correction: process-claim phrasing ('standard for me') struck pending Jay's own evidence. Oct26: still active, 23 proposals."
     },
     {
      "platform": "Freelancer",
@@ -50,7 +119,7 @@
      "bids": "116 bids",
      "client": "AgentS multi-agent platform in beta (TypeScript monorepo, SvelteKit, Hono/Bun, Postgres+pgvector RLS, Inngest, MCP tools); payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first."
+     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first. Oct26: still active, 138 bids."
     }
    ],
    "rejects": [
@@ -102,7 +171,7 @@
      "bids": "26 quotes (1 premium), Hired 0, send before Nov 22",
      "client": "Forme Noire art print brand; domain already purchased; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request. Oct25: 75 quotes (3 premium), Hired 0, still open."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request. Oct25: 75 quotes (3 premium), Hired 0, still open. Oct26: 84 quotes, Hired 0, still open."
     },
     {
      "platform": "Freelancer",
@@ -112,7 +181,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; ~60-FAQ knowledge base supplied by client",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation. Oct25: still active, 292 bids."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation. Oct25: still active, 292 bids. Oct26: still active, 302 bids."
     },
     {
      "platform": "Freelancer",
