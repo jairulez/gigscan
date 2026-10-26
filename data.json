@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26 08:25 IST",
+ "updated": "2026-10-26 08:35 IST",
  "days": [
   {
    "date": "2026-10-26",
    "notes": [
     {
      "type": "info",
-     "text": "2 picks (thin day, no free-board fits): Freelancer Node.js VPS production deploy $1.5k-3k and Freelancer WooCommerce digital key store $150-300. $20 deposit gate applies to both; payment verification unknown on both. Under technical/scope review; no proposals sent; no drafts, quotes or bids approved."
+     "text": "2 picks scanned; 1 advanced: Node.js VPS deploy shared with Jay as conditional lead. WooCommerce key store passed (scope vs budget, plus unqualified legitimacy/distribution/provider questions). $20 deposit gate applies; payment verification unknown. No proposals sent; no drafts, quotes or bids approved."
     },
     {
      "type": "warn",
@@ -30,7 +30,7 @@
      "bids": "218 bids",
      "client": "New home-services call center, experienced team; app built and running locally; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: provision VPS, Docker+Caddy HTTPS deploy, automated backups for JSON data + uploads, monitoring/uptime alerts, load test, runbook + handover call; SQL migration documented but out of scope. Open qualifications: provider/domain already chosen or not, backup retention expectations. No experience or portfolio claims used."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: provision VPS, Docker+Caddy HTTPS deploy, automated backups for JSON data + uploads, monitoring/uptime alerts, load test, runbook + handover call; SQL migration documented but out of scope. Open qualifications: provider/domain already chosen or not, backup retention expectations. No experience or portfolio claims used. Lead shared with Jay Oct 26 as conditional. Draft correction recorded: must not casually commit provision/load-test/refund actions beyond the client's stated scope."
     },
     {
      "platform": "Freelancer",
@@ -39,8 +39,8 @@
      "budget": "Client $150-300 fixed; proposed $300 (budget low vs scope - flagged)",
      "bids": "113 bids",
      "client": "Existing Namecheap VPS (cPanel, PHP 8.3, Cloudflare); migrating from OpenCart; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: lightweight block-theme storefront, 133 products migrated with images/categories, license manager with instant Stripe-paid key delivery tied to stock pools, digital-only checkout, end-to-end purchase test. Open question: pre-generated keys supplied or to be generated. Budget is low for the scope - flagged for Jay. No experience or portfolio claims used."
+     "status": "dead",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: lightweight block-theme storefront, 133 products migrated with images/categories, license manager with instant Stripe-paid key delivery tied to stock pools, digital-only checkout, end-to-end purchase test. Open question: pre-generated keys supplied or to be generated. Budget is low for the scope - flagged for Jay. No experience or portfolio claims used. PASSED Oct 26 (advised): scope vs budget, plus unqualified key-store legitimacy, authorized-distribution and payment-provider eligibility questions. Draft corrections recorded: never suggest generating proprietary license keys or stripping legally/provider-required checkout fields."
     }
    ],
    "rejects": [
