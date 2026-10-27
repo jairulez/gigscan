@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27 08:25 IST",
+ "updated": "2026-10-27 08:35 IST",
  "days": [
   {
    "date": "2026-10-27",
    "notes": [
     {
      "type": "info",
-     "text": "3 picks: Guru collectibles gallery site from client mockup $250-500 (free-quote board, exceptionally specced, same pattern as the art store), Guru Claude Skills + Agents for QA/dev $250-500 (free-quote board, agentic fit, thin brief + brand-new client), Freelancer manufacturer part-drawing scraper INR12.5-37.5k. $20 deposit gate applies to the Freelancer one; payment verification unknown on all. Under technical/scope review; no proposals sent; no drafts, quotes or bids approved."
+     "text": "3 picks scanned; 2 advanced: Guru collectibles gallery and Guru Claude Skills/Agents shared as conditional leads (links only, no drafts or amounts). Freelancer part-drawing scraper held in review, not shared. $20 deposit gate applies to the Freelancer one; payment verification unknown on all. No proposals sent; no drafts, quotes or bids approved."
     },
     {
      "type": "warn",
@@ -30,7 +30,7 @@
      "bids": "27 quotes (1 premium), Hired 0, send before Nov 26",
      "client": "Thriftgemzz LLC - vintage cameras, clocks, prints, decor; mockup + editable HTML/CSS/JS source supplied; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: gallery site matching supplied mockup (homepage, collections, categories, About, Contact), 9 featured items, search/filter/sort/favorites, client-managed admin for items, contact form, domain+SSL+SEO+image optimization, client-owned accounts, walkthrough. No e-commerce (explicitly excluded). Same client pattern as the art store pick. Open qualification: platform recommendation (static vs light CMS) affects the admin ask. No experience or portfolio claims used."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: gallery site matching supplied mockup (homepage, collections, categories, About, Contact), 9 featured items, search/filter/sort/favorites, client-managed admin for items, contact form, domain+SSL+SEO+image optimization, client-owned accounts, walkthrough. No e-commerce (explicitly excluded). Same client pattern as the art store pick. Open qualification: platform recommendation (static vs light CMS) affects the admin ask. No experience or portfolio claims used. Lead shared Oct 27 (link only, no draft or amount). Draft correction recorded: implementation promises (admin approach, platform recommendation) await scoping with the client before any approval."
     },
     {
      "platform": "Guru",
@@ -40,7 +40,7 @@
      "bids": "7 quotes, Hired 0, send before Dec 31",
      "client": "Daya N (US, posting from Bangalore) - $0 spend, 5 jobs posted, 0 paid: brand-new client, no payment history; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Thin one-line brief: build Claude skills and agents for QA testing and development, individual freelancers only. Open qualifications to settle first: which QA/dev workflows, deliverable count, acceptance criteria. New-client risk flagged. No experience or portfolio claims used."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Thin one-line brief: build Claude skills and agents for QA testing and development, individual freelancers only. Open qualifications to settle first: which QA/dev workflows, deliverable count, acceptance criteria. New-client risk flagged. No experience or portfolio claims used. Lead shared Oct 27 (link only, no draft or amount). Draft corrections recorded: 'I build with Claude's skills and agent patterns' struck as unverified experience claim; the $475 price and 2-3 workflow count were proposed scope not settled by the one-line brief."
     },
     {
      "platform": "Freelancer",
@@ -50,7 +50,7 @@
      "bids": "38 bids",
      "client": "Has part-number list; public manufacturer website, login-free; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: for each part number, download 2D drawing as clean PDF + 3D model in native CAD format, organized folder structure, headless run, polite pacing, error log for missing parts, well-commented Python source. Open qualifications: which manufacturer site (anti-bot terms), approximate part count. No experience or portfolio claims used."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: for each part number, download 2D drawing as clean PDF + 3D model in native CAD format, organized folder structure, headless run, polite pacing, error log for missing parts, well-commented Python source. Open qualifications: which manufacturer site (anti-bot terms), approximate part count. No experience or portfolio claims used. HELD in review Oct 27 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
     }
    ],
    "rejects": [
