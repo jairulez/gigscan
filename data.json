@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-28 08:30 IST",
+ "updated": "2026-10-28 08:16 IST",
  "days": [
   {
    "date": "2026-10-28",
    "notes": [
     {
      "type": "info",
-     "text": "3 picks: Guru local-AI resume screening platform for an established employer ($68k spent; free-quote board; W9/US-only eligibility flag and no stated budget both open), Freelancer beauty & wellness Shopify store $1.5k-3k, Freelancer MS Teams to Zendesk chaser automation INR12.5-37.5k. $20 deposit gate applies to the Freelancer two; payment verification unknown on all. Under technical/scope review; no proposals sent; no drafts, quotes or bids approved."
+     "text": "3 picks scanned; 1 advanced: Guru local-AI resume screening shared as conditional lead (eligibility-first, no budget stated). Both Freelancer picks held in review, not shared. $20 deposit gate applies to the Freelancer two; payment verification unknown on all. No proposals sent; no drafts, quotes or bids approved."
     },
     {
      "type": "warn",
@@ -30,7 +30,7 @@
      "bids": "3 quotes, Hired 0, send before Nov 27",
      "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
     },
     {
      "platform": "Freelancer",
@@ -40,7 +40,7 @@
      "bids": "70 bids",
      "client": "Launching physical beauty/wellness line; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: responsive conversion theme, ingredient/benefit/routine product structure, mix-and-match bundles with auto discounts, subscription auto-replenish controlled from admin, payments/shipping/tax config, checkout test, client-owned accounts, walkthrough. Open questions: product count, brand assets ready or in scope. App costs quoted separately. No experience or portfolio claims used."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: responsive conversion theme, ingredient/benefit/routine product structure, mix-and-match bundles with auto discounts, subscription auto-replenish controlled from admin, payments/shipping/tax config, checkout test, client-owned accounts, walkthrough. Open questions: product count, brand assets ready or in scope. App costs quoted separately. No experience or portfolio claims used. HELD in review Oct 28 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
     },
     {
      "platform": "Freelancer",
@@ -50,7 +50,7 @@
      "bids": "48 bids",
      "client": "Travel-ops team (Edwin); agents work only from Zendesk; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: capture Teams chaser, extract PNR/ticket no/subject, match correct Zendesk ticket, mark chased, raise in dedicated view; messy cases (multi-match, no match, wrong format) go to review queue not guesses; full match logging; prove matching on real sample before live writes. Open questions: channel types, daily volume. No experience or portfolio claims used."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: capture Teams chaser, extract PNR/ticket no/subject, match correct Zendesk ticket, mark chased, raise in dedicated view; messy cases (multi-match, no match, wrong format) go to review queue not guesses; full match logging; prove matching on real sample before live writes. Open questions: channel types, daily volume. No experience or portfolio claims used. HELD in review Oct 28 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
     }
    ],
    "rejects": [
