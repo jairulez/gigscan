@@ -1,6 +1,85 @@
 {
- "updated": "2026-10-27 08:35 IST",
+ "updated": "2026-10-28 08:30 IST",
  "days": [
+  {
+   "date": "2026-10-28",
+   "notes": [
+    {
+     "type": "info",
+     "text": "3 picks: Guru local-AI resume screening platform for an established employer ($68k spent; free-quote board; W9/US-only eligibility flag and no stated budget both open), Freelancer beauty & wellness Shopify store $1.5k-3k, Freelancer MS Teams to Zendesk chaser automation INR12.5-37.5k. $20 deposit gate applies to the Freelancer two; payment verification unknown on all. Under technical/scope review; no proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Audit open at 183 quotes/Premium 6/Hired 0, terms held. Book state unverified. Guru art store pick at 124 quotes (10 premium), Hired 0. Gallery pick at 165 quotes. Oct 27 Claude Skills pick's original listing 2121524 is GONE (redirects to dashboard) - client reposted as 2121536 (17 quotes, Invited 1); pick marked dead. RFP Hunter 40777940 FROZEN and BCcGuardDog 40782295 CLOSED (both note-tracked). Matrimony PWA active. Upwork not retried."
+    }
+   ],
+   "boards": {
+    "guru": "200 jobs; pick: local AI resume screening (2121544). Daya N reposted Claude QA job as 2121536 (original closed). vB forum upgrade $2.5-5k needs deep vBulletin (no fit). Art store 2121481 at 124 quotes. Audit 2121274 at 183 quotes.",
+    "truelancer": "CV deployment $408 (vague), Framer/Webflow $153, HubSpot $51. Matrimony PWA active. Nothing else fitting.",
+    "pph": "Read-only (bidding gated). Invoice/portal sites ~$67, Substack manager, nothing substantial.",
+    "freelancer": "819 projects scanned. Picks: beauty Shopify, Teams-to-Zendesk. Held: Kronos attendance workflow $250-750. Rejected: PRESTIA bilingual sales agent (duplicate posts, $250-750 vs enterprise scope), Justdial/Sulekha scrape (data harvesting), WhatsApp broadcast (bulk marketing), Telegram responder (human chat op).",
+    "reddit": "r/forhire: one 'work from anywhere $2400-4500/mo' post (scam shape). r/slavelabour: $40 Excel, extension runner. No fit.",
+    "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+   },
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
+     "url": "https://www.guru.com/work/detail/2121544",
+     "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
+     "bids": "3 quotes, Hired 0, send before Nov 27",
+     "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
+     "status": "spotted",
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Beauty & Wellness Shopify Store (bundles + subscriptions)",
+     "url": "https://www.freelancer.com/projects/shopify/Beauty-Wellness-Shopify-Store-Design-40790435",
+     "budget": "Client $1,500-3,000 fixed; proposed $2,200",
+     "bids": "70 bids",
+     "client": "Launching physical beauty/wellness line; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: responsive conversion theme, ingredient/benefit/routine product structure, mix-and-match bundles with auto discounts, subscription auto-replenish controlled from admin, payments/shipping/tax config, checkout test, client-owned accounts, walkthrough. Open questions: product count, brand assets ready or in scope. App costs quoted separately. No experience or portfolio claims used."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "MS Teams Chasers to Zendesk Automation",
+     "url": "https://www.freelancer.com/projects/zendesk/Teams-Zendesk-Ticketing-Automation-40789972",
+     "budget": "Client INR12,500-37,500 fixed; proposed INR32,000",
+     "bids": "48 bids",
+     "client": "Travel-ops team (Edwin); agents work only from Zendesk; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: capture Teams chaser, extract PNR/ticket no/subject, match correct Zendesk ticket, mark chased, raise in dedicated view; messy cases (multi-match, no match, wrong format) go to review queue not guesses; full match logging; prove matching on real sample before live writes. Open questions: channel types, daily volume. No experience or portfolio claims used."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "PRESTIA bilingual AI real-estate sales agent (x2 postings)",
+     "reason": "$250-750 budget vs enterprise-grade RFP scope; duplicated listings"
+    },
+    {
+     "title": "vBulletin 4-to-6 forum upgrade ($2.5-5k)",
+     "reason": "explicitly requires extensive vBulletin experience - no evidence Jay has it"
+    },
+    {
+     "title": "Kronos attendance workflow ($250-750)",
+     "reason": "decent fit, held - capped at 3 picks"
+    },
+    {
+     "title": "Claude QA repost 2121536 (Daya N)",
+     "reason": "same client/brief as tracked 2121524 - not a new pick"
+    },
+    {
+     "title": "Justdial & Sulekha full scrape / WhatsApp broadcast / Telegram responder",
+     "reason": "data harvesting / bulk marketing / human chat operator"
+    },
+    {
+     "title": "r/forhire $2400-4500/mo work-from-anywhere",
+     "reason": "scam shape"
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "notes": [
@@ -30,7 +109,7 @@
      "bids": "27 quotes (1 premium), Hired 0, send before Nov 26",
      "client": "Thriftgemzz LLC - vintage cameras, clocks, prints, decor; mockup + editable HTML/CSS/JS source supplied; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: gallery site matching supplied mockup (homepage, collections, categories, About, Contact), 9 featured items, search/filter/sort/favorites, client-managed admin for items, contact form, domain+SSL+SEO+image optimization, client-owned accounts, walkthrough. No e-commerce (explicitly excluded). Same client pattern as the art store pick. Open qualification: platform recommendation (static vs light CMS) affects the admin ask. No experience or portfolio claims used. Lead shared Oct 27 (link only, no draft or amount). Draft correction recorded: implementation promises (admin approach, platform recommendation) await scoping with the client before any approval."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: gallery site matching supplied mockup (homepage, collections, categories, About, Contact), 9 featured items, search/filter/sort/favorites, client-managed admin for items, contact form, domain+SSL+SEO+image optimization, client-owned accounts, walkthrough. No e-commerce (explicitly excluded). Same client pattern as the art store pick. Open qualification: platform recommendation (static vs light CMS) affects the admin ask. No experience or portfolio claims used. Lead shared Oct 27 (link only, no draft or amount). Draft correction recorded: implementation promises (admin approach, platform recommendation) await scoping with the client before any approval. Oct28: 165 quotes, Hired 0, still open."
     },
     {
      "platform": "Guru",
@@ -39,8 +118,8 @@
      "budget": "Client $250-500 fixed; proposed $475",
      "bids": "7 quotes, Hired 0, send before Dec 31",
      "client": "Daya N (US, posting from Bangalore) - $0 spend, 5 jobs posted, 0 paid: brand-new client, no payment history; payment verification unknown",
-     "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Thin one-line brief: build Claude skills and agents for QA testing and development, individual freelancers only. Open qualifications to settle first: which QA/dev workflows, deliverable count, acceptance criteria. New-client risk flagged. No experience or portfolio claims used. Lead shared Oct 27 (link only, no draft or amount). Draft corrections recorded: 'I build with Claude's skills and agent patterns' struck as unverified experience claim; the $475 price and 2-3 workflow count were proposed scope not settled by the one-line brief."
+     "status": "dead",
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Thin one-line brief: build Claude skills and agents for QA testing and development, individual freelancers only. Open qualifications to settle first: which QA/dev workflows, deliverable count, acceptance criteria. New-client risk flagged. No experience or portfolio claims used. Lead shared Oct 27 (link only, no draft or amount). Draft corrections recorded: 'I build with Claude's skills and agent patterns' struck as unverified experience claim; the $475 price and 2-3 workflow count were proposed scope not settled by the one-line brief. Oct28: original listing closed (redirects to dashboard); client reposted as 2121536 - marked dead."
     },
     {
      "platform": "Freelancer",
@@ -50,7 +129,7 @@
      "bids": "38 bids",
      "client": "Has part-number list; public manufacturer website, login-free; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: for each part number, download 2D drawing as clean PDF + 3D model in native CAD format, organized folder structure, headless run, polite pacing, error log for missing parts, well-commented Python source. Open qualifications: which manufacturer site (anti-bot terms), approximate part count. No experience or portfolio claims used. HELD in review Oct 27 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: for each part number, download 2D drawing as clean PDF + 3D model in native CAD format, organized folder structure, headless run, polite pacing, error log for missing parts, well-commented Python source. Open qualifications: which manufacturer site (anti-bot terms), approximate part count. No experience or portfolio claims used. HELD in review Oct 27 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved. Oct28: still active, 41 bids."
     }
    ],
    "rejects": [
@@ -174,7 +253,7 @@
      "bids": "59 bids",
      "client": "ERP service provider, certified Odoo & Frappe partner; payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence. Oct26: still active, 80 bids. Oct27: still active, 103 bids."
+     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence. Oct26: still active, 80 bids. Oct27: still active, 103 bids. Oct28: still active, 110 bids."
     },
     {
      "platform": "Truelancer",
@@ -184,7 +263,7 @@
      "bids": "11 proposals",
      "client": "India, individual, brand-new client (0 history, 0 spent, joined Oct 24) - new-client risk",
      "status": "spotted",
-     "status_note": "Free-bidding board. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks. Draft correction: process-claim phrasing ('standard for me') struck pending Jay's own evidence. Oct26: still active, 23 proposals. Oct27: still active."
+     "status_note": "Free-bidding board. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: Laravel or Node.js PWA, 3-step registration, photo blur, mutual contact unlock, full source handover. Open question for client: designs ready or UI design in scope. Thin one-paragraph brief + brand-new client are the risks. Draft correction: process-claim phrasing ('standard for me') struck pending Jay's own evidence. Oct26: still active, 23 proposals. Oct27: still active. Oct28: still active."
     },
     {
      "platform": "Freelancer",
@@ -194,7 +273,7 @@
      "bids": "116 bids",
      "client": "AgentS multi-agent platform in beta (TypeScript monorepo, SvelteKit, Hono/Bun, Postgres+pgvector RLS, Inngest, MCP tools); payment verification unknown",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first. Oct26: still active, 138 bids. Oct27: still active, 143 bids."
+     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first. Oct26: still active, 138 bids. Oct27: still active, 143 bids. Oct28: still active, 162 bids."
     }
    ],
    "rejects": [
@@ -246,7 +325,7 @@
      "bids": "26 quotes (1 premium), Hired 0, send before Nov 22",
      "client": "Forme Noire art print brand; domain already purchased; payment verification unknown",
      "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request. Oct25: 75 quotes (3 premium), Hired 0, still open. Oct26: 84 quotes, Hired 0, still open. Oct27: 118 quotes, Hired 0, still open."
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request. Oct25: 75 quotes (3 premium), Hired 0, still open. Oct26: 84 quotes, Hired 0, still open. Oct27: 118 quotes, Hired 0, still open. Oct28: 124 quotes (10 premium), Hired 0, still open."
     },
     {
      "platform": "Freelancer",
@@ -256,7 +335,7 @@
      "bids": "unknown",
      "client": "Payment verification unknown; ~60-FAQ knowledge base supplied by client",
      "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation. Oct25: still active, 292 bids. Oct26: still active, 302 bids. Oct27: still active, 310 bids."
+     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft or price approved. Scope: official Business API/BSP setup, bilingual intent matching, Google-Sheet-editable KB, human handoff w/ reason flag, daily analytics; acceptance: live test number + 90% on initial FAQs + deploy guide + source. The unconfirmed 'auto-reply agent I run myself' claim is struck (NammaReply not proven live); no portfolio claims usable without Jay's confirmation. Oct25: still active, 292 bids. Oct26: still active, 302 bids. Oct27: still active, 310 bids. Oct28: still active, 313 bids."
     },
     {
      "platform": "Freelancer",
