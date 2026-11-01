@@ -1,6 +1,59 @@
 {
- "updated": "2026-10-31 08:21 IST",
+ "updated": "2026-11-01 08:14 IST",
  "days": [
+  {
+   "date": "2026-11-01",
+   "notes": [
+    {
+     "type": "info",
+     "text": "3 picks scanned; none advanced for delivery. Guru Zoho CRM rework (free board) held - Jay's Zoho-specific qualification unestablished. Both Freelancer picks held in review, not shared; the $20 deposit gate applies to both. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Secure AI Assistant 40784833 and AI Agent Architecture Review 40784916 FROZEN by platform (both held internally, never surfaced). Audit 2121274 at 196 quotes/Premium 6/Hired 0, terms held. Art store 2121481 at 130 quotes, Hired 0. Claude repost 2121536 at 40 quotes, Invited 1. Resume screening 2121544 at 89 quotes. Finith agents 2121578 at 70 quotes. Matrimony PWA active (38 proposals). Upwork not retried."
+    }
+   ],
+   "boards": {
+    "guru": "Zoho CRM rework $15-25/hr (pick). API implementation now 95 quotes (stack mismatch stands). Finith agents 2121578 at 70 quotes. Ghostwriter, MEP, patent agent, game illustrator - no fits.",
+    "truelancer": "B2B email database scraping (data harvesting, skipped), POV video collection for AI training, PCB/ESP32 hardware. Matrimony PWA active. Nothing fitting.",
+    "pph": "Read-only (bidding gated). Claude-designed app to Azure migration (in-lane but cannot bid), English course content, B2B cold calling. Nothing actionable.",
+    "freelancer": "595 projects scanned. Picks: AI travel-planner itinerary engine (INR 150-250k), PrintPulse production monitoring dashboard (INR 12.5-37.5k). Rejected: zero-refusal/uncensored LLM deployment (harmful purpose), GoHighLevel AI sales (requires deployed GHL AI experience), n8n CSV-to-MySQL at $100k minimum (absurd budget), FB/TikTok chatbot automation (spam-adjacent).",
+    "reddit": "r/forhire: video review creators, Mandarin recording. r/slavelabour: UAT, manual outreach. Nothing fitting.",
+    "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+   },
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Zoho CRM Rework + Report Delivery System (real estate)",
+     "url": "https://www.guru.com/work/detail/2121596",
+     "budget": "Hourly $15-25, 10-30 hrs/wk, 1-3 months",
+     "bids": "13 quotes, 0 premium, Invited 12, Hired 0, send before Nov 13",
+     "client": "Real estate company reworking Zoho CRM backbone; payment verification unknown",
+     "status": "spotted",
+     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Clear scope: reconfigure order creation in Zoho CRM, pull external data by order type via integrations, database + dashboard for custom data feeding final reports, migrate Excel to Zoho Sheets. Flag: Jay's Zoho-specific qualification unestablished (Home Valley 2121555 went to someone else Oct 31). Draft asks which external sources and whether they have APIs, order types/reports in phase 1, and dashboard audience before proposing a phased plan. No experience claims used."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "AI Travel Planner Itinerary Engine (React Native app module)",
+     "url": "https://www.freelancer.com/projects/react-native/Travel-Planner-Integration-40796445",
+     "budget": "Client INR 150,000-250,000 fixed; price needs scoping, none proposed",
+     "bids": "35 bids",
+     "client": "Existing RN travel-booking app with proprietary flight+hotel APIs; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Generative day-by-day itinerary engine with in-flow editing and in-app booking over the client's existing APIs. Flags: module must integrate into an existing React Native app (Jay's established lane is web/automation, RN is adjacent); scope is large. Draft asks LLM provider/key, whether the flight/hotel API exposes availability the itinerary step can call, and regenerate-vs-parameter editing before milestones. No experience claims."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "PrintPulse: Printing Production Monitoring Dashboard (7 machines)",
+     "url": "https://www.freelancer.com/projects/fastapi/Build-Printing-Production-Monitoring-40796365",
+     "budget": "Client INR 12,500-37,500 fixed; price needs scoping, none proposed",
+     "bids": "68 bids",
+     "client": "Printing shop; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Web app (FastAPI) with role-based access (admin/designer/operator), job management, machine counter monitoring, overprinting reduction. Open question flagged in draft: how machine counters reach the system (PLC/counter interfaces, manual entry, or exported files) and whether artwork is stored in-app. Draft proposes milestones for job core, monitoring layer, reporting. No experience claims."
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "notes": [
@@ -27,7 +80,7 @@
      "title": "AI Agent Engineer - Finith Capital (agentic ops layer)",
      "url": "https://www.guru.com/work/detail/2121578",
      "budget": "Hourly $16-18, 30+ hrs/wk, 6+ months",
-     "bids": "59 quotes, 8 premium, Invited 0, Hired 0, send before Nov 29",
+     "bids": "70 quotes, 8 premium, Hired 0",
      "client": "Finith Capital, investment firm (real estate/healthcare/M&A); payment verification unknown",
      "status": "spotted",
      "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. In-lane agentic work (cloud + local agents, tool permissions, audit trails, drift checks) but flags: full-time hours, US Eastern overlap preferred, and the brief asks for experience shipping LLM agents others rely on - an unverified experience claim for Jay. Draft asks whether it can start as a scoped contract, what platforms the current agents use, and how much ET overlap is needed. No experience claims used."
@@ -37,7 +90,7 @@
      "title": "WhatsApp AI Agents with AWS (3 Claude agents, intent routing)",
      "url": "https://www.freelancer.com/projects/amazon-web-services/WhatsApp-Agents-With-AWS-40794946",
      "budget": "Client $3,000-5,000 fixed; price needs scoping, none proposed",
-     "bids": "185 bids",
+     "bids": "199 bids",
      "client": "Existing AWS database and licensed Claude code base; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Well-specced: one WhatsApp entry, intent detection (general question / data capture / guided workflow), isolated agents sharing common code, all interactions logged to AWS tables, wire into the client's licensed Claude code base. Draft asks Claude code base version and license scope, current AWS schema, and WhatsApp Business API provider status before milestones. No experience claims."
@@ -47,7 +100,7 @@
      "title": "AI Real Estate Lead Recovery Engine (CRM reactivation)",
      "url": "https://www.freelancer.com/projects/ai-automation/Build-Real-Estate-Lead-Recovery-40795470",
      "budget": "Client $750-1,500 fixed; price needs scoping, none proposed",
-     "bids": "121 bids",
+     "bids": "252 bids",
      "client": "US real-estate investors/wholesalers; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Automated SMS/email re-engagement of dormant CRM leads with qualification. COMPLIANCE FLAG: US texting rules (TCPA) are strict on automated outreach; consent history of the lead records is unknown. Draft asks which CRM, whether records include prior outreach consent, and whether qualified replies route to the team or book calls directly. No experience claims, no deliverability promises."
@@ -90,7 +143,7 @@
      "title": "Open-Source Fund Data Chatbot (NL questions over MySQL research DB)",
      "url": "https://www.freelancer.com/projects/natural-language-processing/Open-Source-Fund-Data-Chatbot-40793342",
      "budget": "Client INR 10,000-75,000 fixed; price needs scoping, none proposed",
-     "bids": "150 bids",
+     "bids": "158 bids",
      "client": "India; maintains structured MySQL mutual-fund research DB; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Clear deliverables: plain-language question to narrative answer with key numbers, optional drill-down table/chart from the DB, dynamic fund list. Draft asks schema size, SQL-generation vs governed metric layer, and LLM provider before proposing milestones. No experience claims, no accuracy guarantees."
@@ -100,7 +153,7 @@
      "title": "Communication Automation Solution (consolidate email/chat/comments)",
      "url": "https://www.freelancer.com/projects/api-integration/Communication-Automation-Solution-40793715",
      "budget": "Client $250-750 fixed; price needs scoping, none proposed",
-     "bids": "148 bids",
+     "bids": "153 bids",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Analyze current comms flow, recommend tool mix (Slack/Teams/WhatsApp Business API/Zendesk/HubSpot/Twilio or custom panel), implement the chosen approach. Draft asks current tools, team size and volume, unify-vs-migrate, and recommendation-first vs fixed package before scoping phases. No experience claims."
@@ -143,7 +196,7 @@
      "title": "AI Translation Management Web App MVP (templates, TM/glossary, AI draft, QA checks)",
      "url": "https://www.freelancer.com/projects/nodejs/Build-Translation-Management-MVP-40791487",
      "budget": "Client INR 37,500-75,000 fixed; price needs scoping, none proposed",
-     "bids": "71 bids",
+     "bids": "72 bids",
      "client": "India; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Well-specced MVP: DOCX/XLSX/JSON round-trip with formatting intact, two-column editor with glossary + TM matches, AI draft behind per-client switch with cost cap, automatic checks (numbers, brand names, forbidden terms). Draft asks scoping questions (priority formats, seat count, LLM provider/key) before any quote. No experience claims, no timeline or delivery promises."
@@ -153,7 +206,7 @@
      "title": "AI PDF Datasheet Parameter Extraction - Pipeline Optimization",
      "url": "https://www.freelancer.com/projects/azure/PDF-Extraction-Pipeline-Optimization-40791362",
      "budget": "Client INR 1,500-12,500 fixed; price needs scoping, none proposed",
-     "bids": "44 bids",
+     "bids": "43 bids",
      "client": "India; existing Python app, payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Extend an existing Python extraction app from ~12-page datasheets to longer documents. Draft asks what breaks today (missed parameters, timeouts, token limits) and whether extraction is LLM, OCR+rules or mixed before proposing fixes. No experience claims."
@@ -186,7 +239,7 @@
      "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
      "url": "https://www.guru.com/work/detail/2121544",
      "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-     "bids": "87 quotes, 7 premium, Hired 0",
+     "bids": "89 quotes, 7 premium, Hired 0",
      "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
      "status": "spotted",
      "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
@@ -196,7 +249,7 @@
      "title": "Beauty & Wellness Shopify Store (bundles + subscriptions)",
      "url": "https://www.freelancer.com/projects/shopify/Beauty-Wellness-Shopify-Store-Design-40790435",
      "budget": "Client $1,500-3,000 fixed; proposed $2,200",
-     "bids": "346 bids",
+     "bids": "347 bids",
      "client": "Launching physical beauty/wellness line; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: responsive conversion theme, ingredient/benefit/routine product structure, mix-and-match bundles with auto discounts, subscription auto-replenish controlled from admin, payments/shipping/tax config, checkout test, client-owned accounts, walkthrough. Open questions: product count, brand assets ready or in scope. App costs quoted separately. No experience or portfolio claims used. HELD in review Oct 28 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
@@ -206,7 +259,7 @@
      "title": "MS Teams Chasers to Zendesk Automation",
      "url": "https://www.freelancer.com/projects/zendesk/Teams-Zendesk-Ticketing-Automation-40789972",
      "budget": "Client INR12,500-37,500 fixed; proposed INR32,000",
-     "bids": "78 bids",
+     "bids": "79 bids",
      "client": "Travel-ops team (Edwin); agents work only from Zendesk; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: capture Teams chaser, extract PNR/ticket no/subject, match correct Zendesk ticket, mark chased, raise in dedicated view; messy cases (multi-match, no match, wrong format) go to review queue not guesses; full match logging; prove matching on real sample before live writes. Open questions: channel types, daily volume. No experience or portfolio claims used. HELD in review Oct 28 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
@@ -285,7 +338,7 @@
      "title": "Manufacturer Part Drawing & 3D Model Scraper (Python, headless)",
      "url": "https://www.freelancer.com/projects/python/Part-Drawing-Model-Scraper-40787639",
      "budget": "Client INR12,500-37,500 fixed; proposed INR30,000",
-     "bids": "42 bids",
+     "bids": "43 bids",
      "client": "Has part-number list; public manufacturer website, login-free; payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: for each part number, download 2D drawing as clean PDF + 3D model in native CAD format, organized folder structure, headless run, polite pacing, error log for missing parts, well-commented Python source. Open qualifications: which manufacturer site (anti-bot terms), approximate part count. No experience or portfolio claims used. HELD in review Oct 27 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved. Oct28: still active, 41 bids."
@@ -411,8 +464,8 @@
      "budget": "Client INR75,000-150,000 fixed; proposed INR120,000 for pilot + two modules",
      "bids": "132 bids",
      "client": "ERP service provider, certified Odoo & Frappe partner; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence. Oct26: still active, 80 bids. Oct27: still active, 103 bids. Oct28: still active, 110 bids."
+     "status": "dead",
+     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: natural-language ERP assistant over Odoo/Frappe docs + live DB records, safe read-only tool layer, role-based access, audit logging, pilot-first rollout. Open qualifications: LLM hosting/privacy choice, ERP permission model, answer-accuracy expectations - to be settled before any approval. No portfolio claims used. Draft correction: experience-claim phrasing ('exactly the kind of LLM integration I build') struck pending Jay's own evidence. Oct26: still active, 80 bids. Oct27: still active, 103 bids. Oct28: still active, 110 bids. UPDATE Nov 1: project FROZEN by platform; lead was held internally, never surfaced."
     },
     {
      "platform": "Truelancer",
@@ -431,8 +484,8 @@
      "budget": "Client $30-250 fixed; proposed $225",
      "bids": "165 bids",
      "client": "AgentS multi-agent platform in beta (TypeScript monorepo, SvelteKit, Hono/Bun, Postgres+pgvector RLS, Inngest, MCP tools); payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first. Oct26: still active, 138 bids. Oct27: still active, 143 bids. Oct28: still active, 162 bids."
+     "status": "dead",
+     "status_note": "$20 deposit gate applies. Lead shared Oct 25; technical/scope review continues; no proposal sent; no draft, quote or bid approved. Scope: architecture map (components, data flow, request-to-delivery path), two explanations (engineers w/ code pointers + plain language). Strong conceptual fit with multi-agent systems; no unverified portfolio claims used. Open qualification: repo access terms and review depth vs the $250 cap. Draft correction: end-to-end monorepo review scope and any delivery estimate must wait for repo access/scope confirmation first. Oct26: still active, 138 bids. Oct27: still active, 143 bids. Oct28: still active, 162 bids. UPDATE Nov 1: project FROZEN by platform; lead was held internally, never surfaced."
     }
    ],
    "rejects": [
@@ -909,7 +962,7 @@
      "title": "Website Testing, UX/UI Audit & Usability",
      "url": "https://www.guru.com/work/detail/2121274",
      "budget": "Client $250-$500 fixed; proposed $300 cap (12h at $25/h), 3 days after access/test code",
-     "bids": "194 quotes, Premium 6, Hired 0",
+     "bids": "196 quotes, Premium 6, Hired 0",
      "client": "Alex W, Netherlands; 2 jobs posted, $0 spent, 0 paid, no feedback; payment verification unknown",
      "status": "pending",
      "status_note": "Jay approved exact $25/hr, 12h estimate, $300 cap, 3 days after access text Oct 10. NOT sent: formal hourly form requires Hrs/Wk and absolute billing end date, not total cap; placeholder-vs-formal decision remains with Jay. No bid consumed. Oct 11 open, 66 quotes, Hired (0), no sent marker. Optional sharing/premium/auto-accept were OFF in abandoned unsent form. Fresh final fee/terms and duplicate check needed before submitting. Oct 12: open, 72 quotes, Hired (0), no sent marker; terms choice unchanged. Oct13: open, 94 quotes, Hired (0), no sent marker; terms choice held. Oct14: open112 quotes/Hired0/no sent marker; terms choice held. Oct15: open130 quotes/Hired0/no sent marker, terms choice held. Oct16: open136 quotes/Hired0/no sent marker; terms held. Oct17: open141 quotes/Hired0/no sent marker; terms held. Oct18: open147 quotes/Hired0/no sent marker; terms held. Oct19: open150 quotes/Hired0/no sent marker; terms held. Oct20: open155 quotes/Hired0/no sent marker; terms held."
