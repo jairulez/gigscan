@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-04 08:17 IST",
+ "updated": "2026-11-05 08:16 IST",
  "days": [
+  {
+   "date": "2026-11-05",
+   "notes": [
+    {
+     "type": "info",
+     "text": "3 picks scanned; none advanced for delivery. Guru AI-Assisted Survey Scripting (free board, fixed Over $25k) is the strongest lead since tracking began - three LLM/browser-automation modules with a full RFP - but it demands PHP/Laravel + Python production experience and LLM code-generation references that are unestablished for Jay, so it is held. PPH WhatsApp/Make/Claude chatbot extension is clear lane fit but $128 thin and PPH is read-only for Jay. The Freelancer pick is held in review, not shared; the $20 deposit gate applies. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Mass Freelancer freeze: 40790435 (Shopify store), 40791362 (PDF extraction pipeline), 40791487 (AI translation MVP) all FROZEN, and election analytics 40799056 closed - all marked dead, none ever surfaced. Yesterday's picks 40800123 (61 bids) and 40801537 (68 bids) still active. Audit 2121274 at 205 quotes/Prem 6/Hired 0, terms held. Art store 2121481 at 135. Claude repost 2121536 at 49, Invited 1. Resume screening 2121544 at 96. Zoho 2121596 at 131 quotes, Invited 12. Matrimony 663187 at 40 proposals; ERP 664047 at 28. Upwork not retried."
+    }
+   ],
+   "boards": {
+    "guru": "AI-Assisted Survey Scripting, fixed Over $25k, 75 quotes/8 premium, Hired 0 (pick). Embedded firmware, architectural designer, floor plans, PDF clippings, video, bookkeeping - nothing else in lane.",
+    "truelancer": "Mobile app workings, PCB design, CAD, outreach, Wix SEO, piano shop printing, UDIN certification, marketers, AI video reels, generic Python $50. Nothing fitting.",
+    "pph": "Read-only (bidding gated). Extend live WhatsApp + Make.com + Claude legal-aid chatbot, $128, 35 proposals (pick). Squarespace & HubSpot CRM/deliverability $371 (quotes close Nov 6, marketing-tech lane unestablished). UK trading/ecommerce roles. Nothing else.",
+    "freelancer": "822 projects scanned (26h). Pick: Dedicated AI Business Agent for Operations & Customer Support (INR 12.5-37.5k). Runner-up: AI Test Scenario Generator MVP (Jira to test scenarios, INR 1.5-12.5k, 55 bids). Rejected: Gmail lead-to-call (cold-call automation), AI outreach super-agent (outbound spam-adjacent), WhatsApp blast (spam), Uber/Bolt email scraper and Cash Money employee emails (personal-data harvesting), configure cheap access to premium AI (abuse-adjacent), Spanish-language WhatsApp assistants (communication risk), Excel workbook $30-250 with 161 bids.",
+    "reddit": "r/forhire: video editor $600/mo, AI 3D reels animator. r/slavelabour: bulk short-form editor, VA, ultrasound measuring. Nothing fitting.",
+    "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+   },
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "AI-Assisted Survey Scripting (3 modules: LLM script generation, visual editor, automated testing)",
+     "url": "https://www.guru.com/work/detail/2121643",
+     "budget": "Client fixed price Over $25k, split quote by module requested; none proposed",
+     "bids": "75 quotes (8 premium), Invited 0, Hired 0; send before Nov 29",
+     "client": "Italy market-research organization, 100% feedback, $5,255 spent, 8 jobs posted; full RFP attached; payment verification unknown",
+     "status": "spotted",
+     "status_note": "Free board. HELD in review - not surfaced. Strongest lead since tracking began: module A reads Word/PDF questionnaires and generates/publishes survey scripts via LLM with a deterministic core, B is a no-code visual logic editor, C is automated headless-browser interview testing with a test certificate. Requires strong PHP/Laravel + Python, production LLM integration and browser automation testing, plus 2-3 references in LLM code generation - experience unestablished for Jay. NDA before codebase access. No proposal sent; no draft, quote or bid approved."
+    },
+    {
+     "platform": "PeoplePerHour",
+     "title": "Extend live WhatsApp + Make.com + Claude legal-aid chatbot (memory, PDF letters, advocate handoff)",
+     "url": "https://www.peopleperhour.com/freelance-jobs?sort=latest",
+     "budget": "Client $128 fixed (listed) - thin for the milestone scope",
+     "bids": "35 proposals, remote, posted ~17h before scan",
+     "client": "Kenya legal-aid WhatsApp bot (DAI), Phase 1 live; payment verification unknown",
+     "status": "spotted",
+     "status_note": "Free board but PPH is read-only for Jay (bidding gated). HELD in review - not surfaced. Very clear lane fit: Make.com Data Store conversation memory keyed by WhatsApp ID, letter-to-PDF delivery, ##HANDOFF parsing to Google Sheet + advocate email/WhatsApp, duplicate delivery handling. Budget far below scope. No proposal sent; no draft, quote or bid approved."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Dedicated AI Business Agent for Operations & Customer Support",
+     "url": "https://www.freelancer.com/projects/ai-automation/Dedicated-Business-Agent-for-Operations",
+     "budget": "INR 12,500-37,500 fixed",
+     "bids": "134 bids, active",
+     "client": "India; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. AI agent covering operations, websites and customer support - agentic lane, but the brief needs a full read before any commitment. No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "platform": "Freelancer",
+     "title": "Gmail Lead-to-Call Automation",
+     "reason": "Cold-call automation on prospect lists - spam-adjacent."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "AI Outreach Super-Agent Development",
+     "reason": "Autonomous outbound prospect contact - spam-adjacent."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Europe Uber/Bolt Email Scraper + Scrape Cash Money Employee Emails",
+     "reason": "Personal-data harvesting."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Configure Cheap Access to Premium AI",
+     "reason": "Guidance to obtain discounted premium AI access - abuse-adjacent, INR 150-250k budget signals a trap."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Sewa WhatsApp Blast Penawaran",
+     "reason": "Spam blasting service (repeat posting)."
+    },
+    {
+     "platform": "PeoplePerHour",
+     "title": "Squarespace & HubSpot Specialist",
+     "reason": "Marketing-tech (DNS/deliverability/webinar pages); Squarespace/HubSpot experience unestablished for Jay; quotes close Nov 6 5pm GMT."
+    },
+    {
+     "platform": "PeoplePerHour",
+     "title": "250 Treatwell reviews copied to Elfsight",
+     "reason": "Copying reviews across platforms - fake-review adjacent."
+    }
+   ]
+  },
   {
    "date": "2026-11-04",
    "notes": [
@@ -144,8 +234,8 @@
      "budget": "Client INR 1,500-12,500 fixed; price needs scoping, none proposed",
      "bids": "50 bids",
      "client": "Public ECI data; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Interactive dashboards, charts, maps and downloadable reports over official ECI Form 20 results for 70 Uttarakhand assemblies. Clear public-data scope; small budget. Draft asks whether Form 20 PDFs need parsing or structured data exists, hosting expectations, and which visualizations matter first. No experience claims."
+     "status": "dead",
+     "status_note": "Project closed on Freelancer as of Nov 5. Was held in review - never surfaced. No proposal sent."
     }
    ]
   },
@@ -389,8 +479,8 @@
      "budget": "Client INR 37,500-75,000 fixed; price needs scoping, none proposed",
      "bids": "74 bids",
      "client": "India; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Well-specced MVP: DOCX/XLSX/JSON round-trip with formatting intact, two-column editor with glossary + TM matches, AI draft behind per-client switch with cost cap, automatic checks (numbers, brand names, forbidden terms). Draft asks scoping questions (priority formats, seat count, LLM provider/key) before any quote. No experience claims, no timeline or delivery promises."
+     "status": "dead",
+     "status_note": "Project FROZEN on Freelancer as of Nov 5. Was held in review - never surfaced. No proposal sent."
     },
     {
      "platform": "Freelancer",
@@ -399,8 +489,8 @@
      "budget": "Client INR 1,500-12,500 fixed; price needs scoping, none proposed",
      "bids": "48 bids",
      "client": "India; existing Python app, payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Extend an existing Python extraction app from ~12-page datasheets to longer documents. Draft asks what breaks today (missed parameters, timeouts, token limits) and whether extraction is LLM, OCR+rules or mixed before proposing fixes. No experience claims."
+     "status": "dead",
+     "status_note": "Project FROZEN on Freelancer as of Nov 5. Was held in review - never surfaced. No proposal sent."
     }
    ]
   },
@@ -442,8 +532,8 @@
      "budget": "Client $1,500-3,000 fixed; proposed $2,200",
      "bids": "347 bids",
      "client": "Launching physical beauty/wellness line; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Scope: responsive conversion theme, ingredient/benefit/routine product structure, mix-and-match bundles with auto discounts, subscription auto-replenish controlled from admin, payments/shipping/tax config, checkout test, client-owned accounts, walkthrough. Open questions: product count, brand assets ready or in scope. App costs quoted separately. No experience or portfolio claims used. HELD in review Oct 28 - not surfaced; no lead shared. Remains conditional; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project FROZEN on Freelancer as of Nov 5. Was held in review - never surfaced. No proposal sent."
     },
     {
      "platform": "Freelancer",
