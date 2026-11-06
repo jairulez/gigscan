@@ -1,6 +1,81 @@
 {
- "updated": "2026-11-05 08:16 IST",
+ "updated": "2026-11-06 08:13 IST",
  "days": [
+  {
+   "date": "2026-11-06",
+   "notes": [
+    {
+     "type": "info",
+     "text": "3 picks scanned; none advanced for delivery. Guru WooCommerce+OpenAI chatbot (free board) is a clean lane fit - self-hosted chatbot, order-status answers, human handoff, catalog training - but the Under $250 budget is thin for the full ask, so it is held. Both Freelancer picks held in review, not shared; the $20 deposit gate applies to both. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Two more Freelancer freezes: 40793342 (fund data chatbot) and 40793715 (communication automation) - both marked dead, neither ever surfaced. Guru survey scripting 2121643 still open at 93 quotes/10 premium, Hired 0. Nov 4-5 picks all still active. Audit 2121274 at 210 quotes/Prem 6/Hired 0, terms held. Art store 2121481 at 135. Claude repost 2121536 at 51, Invited 1. Resume screening 2121544 at 97. Zoho 2121596 at 135 quotes, Invited 12. Matrimony 663187 at 42 proposals; ERP 664047 at 30. Upwork not retried."
+    }
+   ],
+   "boards": {
+    "guru": "WooCommerce chatbot with OpenAI integration, Under $250, 25 quotes (pick). Senior Web3 frontend $5-10k, business developer $70-120/hr, Google Ads, social posts - nothing else in lane. Survey scripting 2121643 at 93 quotes, Hired 0.",
+    "truelancer": "Shopify domain/Workspace migration $100, voice replication (voice cloning - shady), firmware, SAP, CNC, tour planning. Nothing fitting.",
+    "pph": "Read-only (bidding gated). Estate-planning ad couple, video creators, website restructure, mortgage dispute, sewage plant design, VAT return, brand identities. Nothing in lane.",
+    "freelancer": "856 projects scanned (26h). Picks: Voice AI Specialist - Vapi + Twilio agents ($8-15/hr), Hotel Housekeeping Automation (INR 12.5-37.5k). Same client also posted Technical Lead AI agent stack repair ($8-15/hr, 153 bids). Rejected: Zoho Admission ERP MVP Architect INR 75-150k (Zoho architect creds unestablished, parent flagged Zoho qualification Oct 29), AI lead outreach agents x2 (outbound spam-adjacent), voice recording/selfie dataset jobs, AI video/influencer jobs, audio sample voice replication (voice cloning).",
+    "reddit": "r/forhire: AI Software Engineer $30-60/hr (vague Web3-tinged role, resume-apply), music app redesign $700 (design), onsite TX/NY roles. r/slavelabour: slideshows, editors, voice actor. Nothing fitting.",
+    "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+   },
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
+     "url": "https://www.guru.com/work/detail/2121664",
+     "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
+     "bids": "25 quotes (2 premium), Invited 15, Hired 0; send before Dec 5",
+     "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
+     "status": "spotted",
+     "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Voice AI Specialist - Vapi + Twilio inbound/outbound agents",
+     "url": "https://www.freelancer.com/projects/twilio/Voice-Specialist-Vapi-Twilio-inbound",
+     "budget": "$8-15/hr",
+     "bids": "109 bids, active",
+     "client": "Joprotho Promotions, South Africa (posted by an AI agent on behalf of the client); payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Build and run Vapi + Twilio voice agents for live customer journeys - adjacent to the voice-assistant portfolio lead, but production Vapi/Twilio delivery is unestablished for Jay. Same client is also hiring a Technical Lead to own/repair the whole AI agent stack (40804186, 153 bids). No proposal sent; no draft, quote or bid approved."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "Hotel Housekeeping Automation",
+     "url": "https://www.freelancer.com/projects/api/Hotel-Housekeeping-Automation",
+     "budget": "INR 12,500-37,500 fixed",
+     "bids": "95 bids, active",
+     "client": "India; payment verification unknown",
+     "status": "spotted",
+     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Take the housekeeping workflow out of spreadsheets and paper into a self-running system - workflow automation lane; brief needs a full read before any commitment. No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "platform": "Freelancer",
+     "title": "Zoho Admission ERP MVP Architect",
+     "reason": "INR 75-150k and only 25 bids, but it needs a proven Zoho solution architect - Jay's Zoho qualification was flagged unestablished on Oct 29."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "AI Lead Outreach Agent / AI Outreach Super-Agent",
+     "reason": "Autonomous prospect discovery + contact - outbound spam-adjacent."
+    },
+    {
+     "platform": "Truelancer",
+     "title": "Audio Sample Voice Replication",
+     "reason": "Voice cloning - impersonation risk."
+    },
+    {
+     "platform": "Reddit",
+     "title": "AI Software Engineer $30-60/hr",
+     "reason": "Vague blockchain-tinged role, resume-apply, no concrete scope."
+    }
+   ]
+  },
   {
    "date": "2026-11-05",
    "notes": [
@@ -426,8 +501,8 @@
      "budget": "Client INR 10,000-75,000 fixed; price needs scoping, none proposed",
      "bids": "164 bids",
      "client": "India; maintains structured MySQL mutual-fund research DB; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Clear deliverables: plain-language question to narrative answer with key numbers, optional drill-down table/chart from the DB, dynamic fund list. Draft asks schema size, SQL-generation vs governed metric layer, and LLM provider before proposing milestones. No experience claims, no accuracy guarantees."
+     "status": "dead",
+     "status_note": "Project FROZEN on Freelancer as of Nov 6. Was held in review - never surfaced. No proposal sent."
     },
     {
      "platform": "Freelancer",
@@ -436,8 +511,8 @@
      "budget": "Client $250-750 fixed; price needs scoping, none proposed",
      "bids": "165 bids",
      "client": "Payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Analyze current comms flow, recommend tool mix (Slack/Teams/WhatsApp Business API/Zendesk/HubSpot/Twilio or custom panel), implement the chosen approach. Draft asks current tools, team size and volume, unify-vs-migrate, and recommendation-first vs fixed package before scoping phases. No experience claims."
+     "status": "dead",
+     "status_note": "Project FROZEN on Freelancer as of Nov 6. Was held in review - never surfaced. No proposal sent."
     }
    ]
   },
