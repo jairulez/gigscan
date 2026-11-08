@@ -1,6 +1,80 @@
 {
-  "updated": "2026-11-07 08:19 IST",
+  "updated": "2026-11-08 08:17 IST",
   "days": [
+    {
+      "date": "2026-11-08",
+      "notes": [
+        {
+          "type": "info",
+          "text": "Nothing worth it today - no pick cleared the bar across any board. Free boards had no lane fits at all; the two cleanest Freelancer lane fits (Automated Gmail Draft Generator, AUD 8-15/hr but 112 bids; WhatsApp Cloud API debug, $25-50 micro-budget, Spanish-language live Zoom format, 88 bids) both fail on saturation/format. No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "Three more tracked Freelancer picks died, all HELD and never surfaced: 40795470 (AI Real Estate Lead Recovery Engine) frozen, 40796445 (AI Travel Planner Integration) frozen, 40800123 (Excel/Sheets Automation) closed. Still active: 40798058@75, 40799519@74, 40801537@81, 40802181@153, 40804188@116, 40804359@106, 40806588@83 (bids doubled from 39). Guru counts: audit 2121274 at 216/6/Hired 0 (terms held), art store 2121481 135/10, Claude repost 2121536 52/Invited 1, resume screening 2121544 99/8, Zoho 2121596 141/Invited 12, survey scripting 2121643 93/10, WooCommerce chatbot 2121664 107/8/Invited 15/Hired 0. Upwork not retried. r/forhire needed two attempts (error page + reCAPTCHA first)."
+        }
+      ],
+      "boards": {
+        "guru": "Page 1 scanned (203 jobs). WP 404 fix, Quora marketer (adult promo - shady), paid media x2, 3D jewelry, GPS tracker detection, OddsJam arbitrage (betting - shady), QA verification tasks, slot game art, health-app proofreader, Blueport POS build, Magento 1.9-to-2 migration $250-500 (specialized, thin), interview caller, paint-machine repost, WooCommerce chatbot 2121664 (tracked, now 107 quotes). Nothing new in lane.",
+        "truelancer": "Latest: voiceover, Pune-only architect, ghostwriter, $3/hr SaaS consultant, student task system $3-103, Flutter marketplace $52, VPS migration $32. Nothing in lane.",
+        "pph": "Read-only (bidding gated). Latest: FB page setup, Gmail mailmerge to 100 recipients ($300 - automation but board is read-only for Jay), Portuguese child-support advice, social strategist, window-blinds store with quote calculator, UK postcode mileage dataset (Google Maps API, cost outlay). Nothing actionable in lane.",
+        "freelancer": "586 unique projects scanned (26h), 176 keyword candidates. Nothing clearly exceptional. Closest: Automated Gmail Draft Generator (AUD 8-15/hr, 112 bids - clean Apps Script lane fit but saturated and thin), WhatsApp Cloud API debug ($25-50, 88 bids, Spanish-language live-session format), AWS AI Demo Agent ($250-750 for a real-time voice demo agent - unrealistic budget for scope, 144 bids), AWS serverless AI agent platform (requires verified Kiro experience - cannot claim), AI Agent Trainer (on-campus teaching, INR 750-1500), WooCommerce EU dropshipping '150K products 100% hands-free' ($250-750 - unrealistic), Telegram crypto escrow bot (shady), BetBurger betting automation (shady), Google Review Reply App repost at INR 1.25-2.5k (absurd budget for full app).",
+        "reddit": "r/forhire: one Hiring (referral sign-ups, US-only) - nothing. r/slavelabour: VA offers, US college research - nothing.",
+        "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+      },
+      "picks": [],
+      "rejects": [
+        {
+          "platform": "Freelancer",
+          "title": "Automated Gmail Draft Generator",
+          "reason": "Clean Apps Script lane fit (paste job post, build Gmail draft with resume), but AUD 8-15/hr is thin and 112 bids is saturation."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Solucion Mensajes WhatsApp Cloud API",
+          "reason": "WhatsApp API debugging is in lane, but $25-50 micro-budget, live Zoom session format, Spanish-language client, 88 bids."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Build AWS AI Demo Agent",
+          "reason": "Real-time voice demo agent trained on 30+ recorded demos at $250-750 - unrealistic budget for the scope, 144 bids."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Senior AWS Serverless Developer (Kiro) AI agent platform",
+          "reason": "Hard requirement of real Kiro spec-workflow experience - an unverifiable claim for Jay; multi-tenant ERP platform scope at AUD 750-1500."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "AI Agent Trainer - Offline (Python & LangChain)",
+          "reason": "On-campus live teaching requirement, INR 750-1500 total."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Automate WooCommerce EU Dropshipping at Scale",
+          "reason": "'150K+ products, 100% hands-free autopilot' at $250-750 - unrealistic scope-to-budget."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Telegram Crypto Escrow Bot",
+          "reason": "Crypto escrow infrastructure - shady."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "BetBurger Automated Betting Integration",
+          "reason": "Betting automation - shady/ToS risk."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Build AI Google Review Reply App (repost)",
+          "reason": "Same ReviewPilot app as Nov 7, reposted at INR 1,250-2,500 - absurd budget for a full cross-platform app."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "AI-ML Pharmacy Stock Management System",
+          "reason": "TensorFlow/PyTorch forecasting models plus patient app - ML training scope beyond lane, 78 bids."
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "notes": [
@@ -294,8 +368,8 @@
           "budget": "INR 12,500-37,500 fixed; avg bid ~INR 19,082",
           "bids": "55 bids, active",
           "client": "India; payment verification unknown",
-          "status": "spotted",
-          "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Daily manual moves between inter-linked workbooks and online data feeds; wants the flow automated. Realistic budget, bot-executable. No proposal sent; no draft, quote or bid approved."
+          "status": "dead",
+          "status_note": "Project closed on Freelancer as of Nov 8. Was held in review - never surfaced. No proposal sent."
         },
         {
           "platform": "Freelancer",
@@ -485,8 +559,8 @@
           "budget": "Client INR 150,000-250,000 fixed; price needs scoping, none proposed",
           "bids": "66 bids",
           "client": "Existing RN travel-booking app with proprietary flight+hotel APIs; payment verification unknown",
-          "status": "spotted",
-          "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Generative day-by-day itinerary engine with in-flow editing and in-app booking over the client's existing APIs. Flags: module must integrate into an existing React Native app (Jay's established lane is web/automation, RN is adjacent); scope is large. Draft asks LLM provider/key, whether the flight/hotel API exposes availability the itinerary step can call, and regenerate-vs-parameter editing before milestones. No experience claims."
+          "status": "dead",
+          "status_note": "Project frozen on Freelancer as of Nov 8. Was held in review - never surfaced. No proposal sent."
         },
         {
           "platform": "Freelancer",
@@ -548,8 +622,8 @@
           "budget": "Client $750-1,500 fixed; price needs scoping, none proposed",
           "bids": "280 bids",
           "client": "US real-estate investors/wholesalers; payment verification unknown",
-          "status": "spotted",
-          "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Automated SMS/email re-engagement of dormant CRM leads with qualification. COMPLIANCE FLAG: US texting rules (TCPA) are strict on automated outreach; consent history of the lead records is unknown. Draft asks which CRM, whether records include prior outreach consent, and whether qualified replies route to the team or book calls directly. No experience claims, no deliverability promises."
+          "status": "dead",
+          "status_note": "Project frozen on Freelancer as of Nov 8. Was held in review - never surfaced. No proposal sent."
         }
       ]
     },
