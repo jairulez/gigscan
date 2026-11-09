@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-08 08:17 IST",
+  "updated": "2026-11-09 08:16 IST",
   "days": [
+    {
+      "date": "2026-11-09",
+      "notes": [
+        {
+          "type": "info",
+          "text": "Nothing worth it today - no pick cleared the bar on any board. One notable lane item sits on a gated board: PPH 'Claude AI / MCP Developer - long-term ongoing role, UK business' ($28/hr, 46 proposals, posted 13h ago) - connect Claude via MCP to Zoho CRM, Synchroteam and QuickBooks, dashboards, call-recording analysis, ongoing monthly development. PPH bidding is gated for Jay, and the role demands Zoho + QuickBooks API experience (unestablished), so it is noted, not picked. No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One more tracked Freelancer pick died: 40798058 (WhatsApp to Drive Backup Automation) frozen - was HELD, never surfaced. Still active: 40799519@74, 40801537@82, 40802181@156, 40804188@117, 40804359@107, 40806588@99. Guru counts flat: audit 2121274 216/6/Hired 0 (terms held), art store 2121481 135/10, Claude repost 2121536 52/Invited 1, resume screening 2121544 99/8, Zoho 2121596 141/Invited 12, survey scripting 2121643 93/10, WooCommerce chatbot 2121664 110/9/Invited 15/Hired 0. Upwork not retried."
+        }
+      ],
+      "boards": {
+        "guru": "Page 1 scanned (213 jobs). Qwoted pitch writer, PR/backlink jobs, a batch of 'Teach X' recording modules for a US research-peptide ecommerce training program (grey-market vertical), vector illustrator, MBO financing strategist, plus carryovers. Nothing in lane.",
+        "truelancer": "Latest: Play Store publishing, options-trading account management x2 (shady), LaTeX formatting 30 pages at $10 (unrealistic), LinkedIn growth 'AI assisted', sales/marketing, PCB, translation. Nothing in lane.",
+        "pph": "Read-only (bidding gated). Notable: Claude AI / MCP Developer long-term UK role $28/hr (in lane but gated + Zoho/QuickBooks experience demands). Otherwise video editors, map assets, embroidery digitizer, WordPress booking $300. Nothing else lane-worthy.",
+        "freelancer": "556 unique projects scanned (26h), 175 keyword candidates. Nothing clearly exceptional. Closest: WhatsApp customer-service assistant with human handoff ($8-15/hr, 82 bids, Spanish-language, data scattered in chats - same language/format concerns as Nov 8), open-source RPA setup (vague consulting scope, INR 1.5-12.5k), AI B2B market intelligence platform (production platform at INR 12.5-37.5k - unrealistic), Jetson Orin robotics agent (hardware, $10-30/hr). Rejected: white-label partnership solicitation, 'three production SaaS platforms for $750' (absurd), ERPNext (explicit experience requirement, thin), manual Gmail cleanup with account access (VA work), LinkedIn-archive WhatsApp number extraction (personal-data list building), trace anonymous Gmail sender (OSINT), SynthID metadata removal (AI watermark stripping), Romanian DB scraping reposts, 5,000 selfies collection, CCBill adult platform.",
+        "reddit": "r/forhire: GameMaker programmer, AT&T router port forwarding $40, white-box pentest (security expertise), Arabic trivia writer - nothing in lane. r/slavelabour: Reddit post writers $5-12/task (astroturfing - shady), VA offers - nothing.",
+        "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+      },
+      "picks": [],
+      "rejects": [
+        {
+          "platform": "PeoplePerHour",
+          "title": "Claude AI / MCP Developer - long-term ongoing role, UK business",
+          "reason": "Squarely in lane (Claude + MCP + business-system integrations) at $28/hr, but PPH bidding is gated for Jay, and the role demands proven Zoho and QuickBooks API experience (unestablished). Noted for an engaged gig-planning moment, not picked."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Asistente WhatsApp Atencion a Clientes",
+          "reason": "WhatsApp AI assistant with human handoff is the strongest lane fit today, but Spanish-language client, $8-15/hr, 82 bids, and client data scattered across chats/manual records."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Open-Source RPA & IT automation setup",
+          "reason": "Open-ended consulting scope (review processes first) at INR 1,500-12,500 - vague and thin."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Build AI B2B Market Intelligence Platform (Vidya Timber)",
+          "reason": "Senior production-ready data platform at INR 12.5-37.5k - unrealistic budget for scope; lead-discovery scraping adjacent."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Build Three Production-Ready AI SaaS Platforms",
+          "reason": "$750 total for three production SaaS platforms - absurd."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "AI Robotics Developer (Jetson Orin NX)",
+          "reason": "Robotics hardware build at $10-30/hr; no robotics evidence in Jay's lane."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Verify LinkedIn Archive for WhatsApp Messages",
+          "reason": "Compiling third-party WhatsApp numbers into a list - personal-data list building."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Trace Anonymous Gmail Sender",
+          "reason": "OSINT/tracing a person - shady."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Remove SynthID & Metadata Traces",
+          "reason": "Stripping AI watermarks/metadata - shady."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "ERPNext Setup and Customization",
+          "reason": "Client explicitly requires prior ERPNext experience (unestablished); CAD 30-250 for 1000 products/3000 components is thin."
+        },
+        {
+          "platform": "Truelancer",
+          "title": "LaTeX Formatting for 30 Page Research Document",
+          "reason": "$10 fixed for 30 pages of LaTeX with citations/tables/figures - unrealistic budget."
+        },
+        {
+          "platform": "Truelancer",
+          "title": "Developer Needed for Options Trading Account Management",
+          "reason": "Managing someone's trading account - shady/risky."
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "notes": [
@@ -516,8 +600,8 @@
           "budget": "Client INR 1,500-12,500 fixed; price needs scoping, none proposed",
           "bids": "64 bids",
           "client": "Single-phone WhatsApp Business user; payment verification unknown",
-          "status": "spotted",
-          "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Auto-move all chat media to Google Drive, per-sender folders, background operation. Adjacent to the WhatsApp automation lane. Draft asks Android version, whether Google Drive desktop/app access is acceptable, and whether a phone-side folder watcher is acceptable or a fully server-side flow is required (WhatsApp Business API does not expose local media). No experience claims."
+          "status": "dead",
+          "status_note": "Project frozen on Freelancer as of Nov 9. Was held in review - never surfaced. No proposal sent."
         }
       ]
     },
