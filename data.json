@@ -1,6 +1,91 @@
 {
-  "updated": "2026-11-09 08:16 IST",
+  "updated": "2026-11-10 08:14 IST",
   "days": [
+    {
+      "date": "2026-11-10",
+      "notes": [
+        {
+          "type": "info",
+          "text": "1 pick scanned; not advanced for delivery. Freelancer AI-Driven Daily Brief Integration (GBP 250-750) is the strongest lane fit in days - email summarization, priority highlights, draft replies, calendar/docs/tasks integration - but the $20 deposit gate applies and competition is heavy (148 bids), so it is held. No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One more tracked Freelancer pick died: 40799519 (Comprehensive Workflow Automation Build) frozen - was HELD, never surfaced. Still active: 40801537@83, 40802181@156, 40804188@118, 40804359@108, 40806588@109. Guru counts: audit 2121274 216/6/Hired 0 (terms held), art store 2121481 135/10, Claude repost 2121536 53/Invited 1, resume screening 2121544 100/8, Zoho 2121596 143/Invited 12, survey scripting 2121643 93/10, WooCommerce chatbot 2121664 113/9/Invited 15/Hired 0. Upwork not retried. Truelancer needed one reload (empty first read)."
+        }
+      ],
+      "boards": {
+        "guru": "Page 1 scanned. New: chess clock hardware prototype (ESP32/RFID - hardware), Canva-to-HTML email signature (Under $250, already 1 hired, 31 quotes), pet-directory sales exec, AI operations dashboard product designer (design-only), plus peptide 'Teach X' carryovers. Nothing in lane.",
+        "truelancer": "Latest: CRM-Infobip integration $16 (absurd budget), pharmaceutical chemistry, genealogist, quant trader, Flutter Shadowfax API, healthcare EDI microservices. Nothing in lane.",
+        "pph": "Read-only (bidding gated). Latest: blog articles, PDF/business-card tweaks, logos, Squarespace tweaks, video creators, app testers. Nothing in lane.",
+        "freelancer": "687 unique projects scanned (26h), 194 keyword candidates. Pick: AI-Driven Daily Brief Integration (GBP 250-750, 148 bids). Rejected: LiveKit voice troubleshooting agent (INR 75-150k but cross-platform remote-control infrastructure, not a bot), Autonomous Business Engine (INR 5-10 lakh vision-doc program), ORBIT AI ops SaaS (INR 5M+ aspirational budget), Claude SEO/Google Ads agent (marketing-background requirement, 224 bids), cross-platform job-application auto-submit bot (ToS-risk mass applications), human bid-screening (manual VA work), website data scraping (unnamed target, unverifiable), 'Automate Your Workflows with AI' (freelancer service ad, not a job), NSE algo trading (thin), fine-tune symbol-recognition model (ML training).",
+        "reddit": "r/forhire: UX architect Charlotte NC, operations lead $2.5-3k/mo, AI UGC tutorial creators, talent acquisition - nothing in lane. r/slavelabour: VA offers, game tutorials, Reddit post writers (astroturfing) - nothing.",
+        "upwork": "Not retried (Oct 12 Cloudflare/throttle). Contra skipped (login)."
+      },
+      "picks": [
+        {
+          "platform": "Freelancer",
+          "title": "AI-Driven Daily Brief Integration (email summaries, priority highlights, draft replies)",
+          "url": "https://www.freelancer.com/projects/ai-automation/Driven-Daily-Brief-Integration",
+          "budget": "Client GBP 250-750 fixed; realistic for a back-office integration setup",
+          "bids": "148 bids; active as of Nov 10",
+          "client": "Payment verification unknown",
+          "status": "spotted",
+          "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Strongest lane fit in days: a daily brief/dashboard that summarizes incoming email, highlights priorities and drafts suggested replies, drawing on inboxes, calendar and meeting notes, documents and task lists. Client wants practical back-office integration and asks for tailored proposals demonstrating relevant experience. Heavy competition (148 bids) is the main risk. No proposal sent; no draft, quote or bid approved."
+        }
+      ],
+      "rejects": [
+        {
+          "platform": "Freelancer",
+          "title": "LiveKit Voice Auto-Troubleshooting Agent",
+          "reason": "INR 75-150k is a real budget, but the core ask is cross-platform remote-control sessions on Windows/macOS applying fixes - systems/RAT-like infrastructure, not a bot build."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Autonomous Business Engine (enterprise AI operating system)",
+          "reason": "INR 5-10 lakh but a vision-document brief for self-governing business infrastructure - multi-month program, not a scoped gig."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "ORBIT - AI Operations Intelligence SaaS",
+          "reason": "INR 5M+ budget looks aspirational; enterprise SaaS MVP from a vision doc."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Claude AI SEO & Google Ads Agent",
+          "reason": "Requires strong marketing/Google Ads background (not Jay's lane); 224 bids."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Cross-Platform Job Application Automation",
+          "reason": "Hands-free mass job applications across boards - ToS-risk, spam-adjacent."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Human Bid-Screening Assistant",
+          "reason": "Manual bid-reading work ($1500-3000, 25 bids) - client explicitly wants a human screener, not a build."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Website Data Scraping ($1500-3000)",
+          "reason": "Target site and data unnamed - cannot verify it is not harvesting."
+        },
+        {
+          "platform": "Freelancer",
+          "title": "Automate Your Workflows with AI",
+          "reason": "A freelancer's service advertisement posted as a project, not a real job."
+        },
+        {
+          "platform": "Truelancer",
+          "title": "CRM Integration with Infobip Platform",
+          "reason": "Messaging-integration work but at a $16 fixed budget - absurd."
+        },
+        {
+          "platform": "Guru",
+          "title": "Chess Clock Prototype",
+          "reason": "ESP32/RFID hardware prototype - not software lane."
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "notes": [
@@ -547,8 +632,8 @@
           "budget": "Client INR 2,500 minimum (no max stated); price needs scoping, none proposed",
           "bids": "37 bids",
           "client": "Payment verification unknown; post text is unedited AI output (starts with 'copy and paste it as it is')",
-          "status": "spotted",
-          "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Phase 1: scheduled morning sync picking up new/updated leads and emails from Gmail + CRM into a master Google Sheet with dedupe. Clear automation scope but low stated minimum and the client post is raw AI output. Draft asks which CRM and project board, volume per day, and whether two-way sync is needed before proposing phase-1 pricing. No experience claims."
+          "status": "dead",
+          "status_note": "Project frozen on Freelancer as of Nov 10. Was held in review - never surfaced. No proposal sent."
         },
         {
           "platform": "Freelancer",
