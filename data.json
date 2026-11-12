@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-11 08:22 IST",
+ "updated": "2026-11-12 08:18 IST",
  "days": [
+  {
+   "date": "2026-11-12",
+   "notes": [
+    {
+     "type": "info",
+     "text": "1 pick scanned; not advanced for delivery. Guru Medical Literature AI Search tool ($500-1k, 60 quotes) is squarely in the agentic lane - RAG pipeline over PubMed/Europe PMC/ClinicalTrials.gov with strict source anchoring, citation guardrails and structured clinical digests - clear scope, realistic budget, free bidding. Competition is heavy (60 quotes), so it is held. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Two more tracked Freelancer picks died: 40802181 (Dedicated AI Business Agent) frozen and 40812148 (Python-Node Data Automation) deleted - both were HELD, never surfaced. Still active: 40804188@120, 40804359@109, 40806588@117, 40810473@168, 40811806@245. Guru counts refreshed via new /work/detail/ URLs: audit 2121274 216/6, art store 2121481 135/10, Claude repost 2121536 56/Invited 1, resume screening 2121544 102/8, Zoho 2121596 146/11/Invited 12, survey scripting 2121643 93/10, WooCommerce 2121664 123/10/Invited 15."
+    },
+    {
+     "type": "info",
+     "text": "Boards: Freelancer 199 active projects scanned (60 keyword candidates, none lane-fit). Guru pg1 scanned via new /work/ app (225 results). Truelancer, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane."
+    }
+   ],
+   "boards": [
+    "Guru",
+    "Freelancer",
+    "Truelancer",
+    "PeoplePerHour",
+    "Reddit r/forhire",
+    "Reddit r/slavelabour"
+   ],
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
+     "url": "https://www.guru.com/work/detail/2121779",
+     "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
+     "bids": "60 quotes (5 premium), 0 hired; posted ~11h before scan",
+     "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "AI Diabetic Retinopathy Screener (INR 750-1250)",
+     "platform": "Freelancer",
+     "reason": "Medical-device-grade model for ~$9-15 - unrealistic scope-to-budget."
+    },
+    {
+     "title": "Full-Stack Developer Next.js + Supabase B2B marketplace ($13.3K)",
+     "platform": "PeoplePerHour",
+     "reason": "Demands proven live Next.js+Supabase SaaS portfolio Jay cannot claim."
+    },
+    {
+     "title": "Embedded Website Survey (274 bids)",
+     "platform": "Freelancer",
+     "reason": "Generic web widget, 274 bids - saturated, not agentic."
+    },
+    {
+     "title": "Moving Marketplace Website w/ Bubble (238 bids)",
+     "platform": "Freelancer",
+     "reason": "No-code Bubble build, not Jay's lane; saturated."
+    },
+    {
+     "title": "Team Leader: Recruit Contributors (Israel/SA/Romania/Lithuania/Bulgaria)",
+     "platform": "Freelancer",
+     "reason": "Recruitment farming, not a build."
+    },
+    {
+     "title": "Manual tester for WhatsApp teacher app ($10-30)",
+     "platform": "Freelancer",
+     "reason": "Manual QA, not a build; tiny budget."
+    },
+    {
+     "title": "Comprehensive API Testing ($10-30)",
+     "platform": "Freelancer",
+     "reason": "Tiny budget for full API test coverage."
+    },
+    {
+     "title": "Guru pg1: BDR/SDR sales roles, 60k medical definitions, magazine design, VA roles",
+     "platform": "Guru",
+     "reason": "Sales/writing/design lanes."
+    },
+    {
+     "title": "Truelancer: video editing, recruitment interviewing, 3D modeling, chemist",
+     "platform": "Truelancer",
+     "reason": "Nothing in lane."
+    },
+    {
+     "title": "Reddit r/forhire + r/slavelabour",
+     "platform": "Reddit",
+     "reason": "Only micro-tasks, VA and for-hire offers in the last 24h."
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "notes": [
@@ -43,8 +132,8 @@
      "budget": "Client $25-50/hr",
      "bids": "142 bids; active as of Nov 11",
      "client": "Payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Clear three-phase scope: resilient website-to-Excel scraper with Pandas sanity checks, then automated Word report formatting, then workflow tie-in. Client provides target URLs and column layout. Realistic hourly rate. Competition heavy (142 bids). No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project deleted from Freelancer as of Nov 12 (API 404). Was held in review - never surfaced. No proposal sent."
     },
     {
      "platform": "Freelancer",
@@ -606,8 +695,8 @@
      "budget": "INR 12,500-37,500 fixed",
      "bids": "134 bids, active",
      "client": "India; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. AI agent covering operations, websites and customer support - agentic lane, but the brief needs a full read before any commitment. No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project frozen on Freelancer as of Nov 12. Was held in review - never surfaced. No proposal sent."
     }
    ],
    "rejects": [
