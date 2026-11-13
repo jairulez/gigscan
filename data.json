@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-12 08:18 IST",
+ "updated": "2026-11-13 08:15 IST",
  "days": [
+  {
+   "date": "2026-11-13",
+   "notes": [
+    {
+     "type": "info",
+     "text": "1 pick scanned; not advanced for delivery. Freelancer AI Workflow Automation Specialist for an AEC firm ($3,000-5,000, 89 bids): RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, and n8n/Make workflow automations with human-in-the-loop guardrails. Squarely in the agentic lane with clear scope and a realistic budget. Held: Freelancer's $20 deposit gate applies and competition is heavy. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Five tracked jobs died: Freelancer 40804188 (Voice AI Specialist) and 40804359 (Hotel Housekeeping Automation) frozen - both HELD, never surfaced; Guru 2121274 (UX audit - proposal was never sent, terms question open), 2121481 (Shopify art store) and 2121643 (AI-assisted survey scripting) closed - HELD, never surfaced. Still active: Freelancer 40806588@118, 40810473@171, 40811806@254; Guru 2121779@93, 2121664@126/Invited 15, 2121596@150/Invited 12 (send-before Nov 13), 2121544@103, 2121536@57/Invited 1."
+    },
+    {
+     "type": "info",
+     "text": "Boards: Freelancer 199 active projects scanned (75 keyword candidates, 1 lane-fit). Guru pg1 scanned via /work/ app. Truelancer, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane."
+    }
+   ],
+   "boards": [
+    "Guru",
+    "Freelancer",
+    "Truelancer",
+    "PeoplePerHour",
+    "Reddit r/forhire",
+    "Reddit r/slavelabour"
+   ],
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "AI Workflow Automation Specialist - AEC firm (RAG SOP assistant, bid/invoice parsing, voice-to-logs, n8n/Make)",
+     "url": "https://www.freelancer.com/projects/ai-workflow-automation/Workflow-Automation-Specialist",
+     "budget": "Client $3,000-5,000 fixed",
+     "bids": "89 bids; active as of Nov 13",
+     "client": "Payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Agentic-lane fit: RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, n8n/Make automations with human-in-the-loop guardrails. Clear scope, realistic budget. Heavy competition (89 bids). No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "AI automation brief - four lines total (40815462)",
+     "platform": "Freelancer",
+     "reason": "Scope too thin to quote responsibly."
+    },
+    {
+     "title": "AI output reviewer role (40815476)",
+     "platform": "Freelancer",
+     "reason": "Reviewing others' AI output, not building - not the lane."
+    },
+    {
+     "title": "AI chatbot, INR 1500-12,500 (40815574)",
+     "platform": "Freelancer",
+     "reason": "Budget tops out near $150 - too small for any real scope."
+    },
+    {
+     "title": "Vague AI strategy advice (40815428)",
+     "platform": "Freelancer",
+     "reason": "Advice-only, no concrete build to execute."
+    },
+    {
+     "title": "Production SaaS for INR 5-30k (40815880)",
+     "platform": "Freelancer",
+     "reason": "Full production SaaS under $360 - unrealistic scope-to-budget."
+    },
+    {
+     "title": "$100k AI platform (40814572)",
+     "platform": "Freelancer",
+     "reason": "Fantasy budget, unverified buyer - too-good posting."
+    },
+    {
+     "title": "AI staffing placement (40815538)",
+     "platform": "Freelancer",
+     "reason": "Staffing agency collecting candidates, not a gig."
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "notes": [
@@ -31,7 +105,7 @@
      "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
      "url": "https://www.guru.com/work/detail/2121779",
      "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-     "bids": "60 quotes (5 premium), 0 hired; posted ~11h before scan",
+     "bids": "93 quotes; active as of Nov 13",
      "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -140,7 +214,7 @@
      "title": "AI Image-to-Text Q&A Assistant (OCR + vision-LLM chat over documents)",
      "url": "https://www.freelancer.com/projects/optical-character-recognition/Image-Text-Assistant",
      "budget": "Client $250-750 fixed",
-     "bids": "219 bids; active as of Nov 11",
+     "bids": "254 bids; active as of Nov 13",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Browser-based tool: drop a document/worksheet image, get clean editable text, automatic question detection, step-by-step answers plus chat. OCR + vision-language reasoning pipeline - in the LLM-integration lane, realistic MVP budget. Competition heavy (219 bids). No proposal sent; no draft, quote or bid approved."
@@ -265,7 +339,7 @@
      "title": "AI-Driven Daily Brief Integration (email summaries, priority highlights, draft replies)",
      "url": "https://www.freelancer.com/projects/ai-automation/Driven-Daily-Brief-Integration",
      "budget": "Client GBP 250-750 fixed; realistic for a back-office integration setup",
-     "bids": "148 bids; active as of Nov 10",
+     "bids": "171 bids; active as of Nov 13",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Strongest lane fit in days: a daily brief/dashboard that summarizes incoming email, highlights priorities and drafts suggested replies, drawing on inboxes, calendar and meeting notes, documents and task lists. Client wants practical back-office integration and asks for tailored proposals demonstrating relevant experience. Heavy competition (148 bids) is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -508,7 +582,7 @@
      "title": "Email Reminder Automation Tool (local desktop scheduler for routine emails/messages)",
      "url": "https://www.freelancer.com/projects/automation/Email-Reminder-Automation-Tool",
      "budget": "Client INR 1,500-12,500 fixed; small but matches the small scope",
-     "bids": "39 bids; active as of Nov 7",
+     "bids": "118 bids; active as of Nov 13",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Clean lane fit: stand-alone local desktop utility (Python suggested by client, no cloud subscription) that dispatches scheduled emails/messages/reminders, with a simple interface to add/edit/disable schedules, send logging, compiled app + readable source + README. Client open on language/framework; values clean commented code and quick turnaround. No proposal sent; no draft, quote or bid approved."
@@ -598,7 +672,7 @@
      "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
      "url": "https://www.guru.com/work/detail/2121664",
      "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-     "bids": "25 quotes (2 premium), Invited 15, Hired 0; send before Dec 5",
+     "bids": "126 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
      "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
      "status": "spotted",
      "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -610,8 +684,8 @@
      "budget": "$8-15/hr",
      "bids": "109 bids, active",
      "client": "Joprotho Promotions, South Africa (posted by an AI agent on behalf of the client); payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Build and run Vapi + Twilio voice agents for live customer journeys - adjacent to the voice-assistant portfolio lead, but production Vapi/Twilio delivery is unestablished for Jay. Same client is also hiring a Technical Lead to own/repair the whole AI agent stack (40804186, 153 bids). No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project frozen on Freelancer as of Nov 13. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     },
     {
      "platform": "Freelancer",
@@ -620,8 +694,8 @@
      "budget": "INR 12,500-37,500 fixed",
      "bids": "95 bids, active",
      "client": "India; payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Take the housekeeping workflow out of spreadsheets and paper into a self-running system - workflow automation lane; brief needs a full read before any commitment. No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project frozen on Freelancer as of Nov 13. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     }
    ],
    "rejects": [
@@ -675,8 +749,8 @@
      "budget": "Client fixed price Over $25k, split quote by module requested; none proposed",
      "bids": "75 quotes (8 premium), Invited 0, Hired 0; send before Nov 29",
      "client": "Italy market-research organization, 100% feedback, $5,255 spent, 8 jobs posted; full RFP attached; payment verification unknown",
-     "status": "spotted",
-     "status_note": "Free board. HELD in review - not surfaced. Strongest lead since tracking began: module A reads Word/PDF questionnaires and generates/publishes survey scripts via LLM with a deterministic core, B is a no-code visual logic editor, C is automated headless-browser interview testing with a test certificate. Requires strong PHP/Laravel + Python, production LLM integration and browser automation testing, plus 2-3 references in LLM code generation - experience unestablished for Jay. NDA before codebase access. No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Job closed on Guru as of Nov 13. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     },
     {
      "platform": "PeoplePerHour",
@@ -954,7 +1028,7 @@
      "title": "Zoho CRM Rework + Report Delivery System (real estate)",
      "url": "https://www.guru.com/work/detail/2121596",
      "budget": "Hourly $15-25, 10-30 hrs/wk, 1-3 months",
-     "bids": "108 quotes, 10 premium, Invited 12, Hired 0",
+     "bids": "150 quotes (11 premium), Invited 12, Hired 0; send before Nov 13",
      "client": "Real estate company reworking Zoho CRM backbone; payment verification unknown",
      "status": "spotted",
      "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Clear scope: reconfigure order creation in Zoho CRM, pull external data by order type via integrations, database + dashboard for custom data feeding final reports, migrate Excel to Zoho Sheets. Flag: Jay's Zoho-specific qualification unestablished (Home Valley 2121555 went to someone else Oct 31). Draft asks which external sources and whether they have APIs, order types/reports in phase 1, and dashboard audience before proposing a phased plan. No experience claims used."
@@ -1166,7 +1240,7 @@
      "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
      "url": "https://www.guru.com/work/detail/2121544",
      "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-     "bids": "93 quotes, 7 premium, Hired 0",
+     "bids": "103 quotes (8 premium), Invited 0, Hired 0; send before Nov 27",
      "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
      "status": "spotted",
      "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
@@ -1463,8 +1537,8 @@
      "budget": "Client $500-1k fixed; proposed $950 (incl. 4 sample + 20 extra product uploads, handover walkthrough, 30-day bug support), 2 weeks from mockup files + content",
      "bids": "133 quotes, 10 premium, Hired 0",
      "client": "Forme Noire art print brand; domain already purchased; payment verification unknown",
-     "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft or price approved. Open qualifications: payment-provider eligibility for nude artwork is NOT settled by an age gate and must be confirmed with Shopify Payments/compatible provider; sales-tax collection and security commitments need grounding before any approval. Mockup ZIP supplied, custom theme, framing options quoted separately per client request. Oct25: 75 quotes (3 premium), Hired 0, still open. Oct26: 84 quotes, Hired 0, still open. Oct27: 118 quotes, Hired 0, still open. Oct28: 124 quotes (10 premium), Hired 0, still open."
+     "status": "dead",
+     "status_note": "Job closed on Guru as of Nov 13. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     },
     {
      "platform": "Freelancer",
@@ -1891,8 +1965,8 @@
      "budget": "Client $250-$500 fixed; proposed $300 cap (12h at $25/h), 3 days after access/test code",
      "bids": "197 quotes, Premium 6, Hired 0",
      "client": "Alex W, Netherlands; 2 jobs posted, $0 spent, 0 paid, no feedback; payment verification unknown",
-     "status": "pending",
-     "status_note": "Jay approved exact $25/hr, 12h estimate, $300 cap, 3 days after access text Oct 10. NOT sent: formal hourly form requires Hrs/Wk and absolute billing end date, not total cap; placeholder-vs-formal decision remains with Jay. No bid consumed. Oct 11 open, 66 quotes, Hired (0), no sent marker. Optional sharing/premium/auto-accept were OFF in abandoned unsent form. Fresh final fee/terms and duplicate check needed before submitting. Oct 12: open, 72 quotes, Hired (0), no sent marker; terms choice unchanged. Oct13: open, 94 quotes, Hired (0), no sent marker; terms choice held. Oct14: open112 quotes/Hired0/no sent marker; terms choice held. Oct15: open130 quotes/Hired0/no sent marker, terms choice held. Oct16: open136 quotes/Hired0/no sent marker; terms held. Oct17: open141 quotes/Hired0/no sent marker; terms held. Oct18: open147 quotes/Hired0/no sent marker; terms held. Oct19: open150 quotes/Hired0/no sent marker; terms held. Oct20: open155 quotes/Hired0/no sent marker; terms held."
+     "status": "dead",
+     "status_note": "Job closed on Guru as of Nov 13. Proposal was never sent; no draft, quote or bid approved."
     }
    ],
    "rejects": [
