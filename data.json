@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-13 08:15 IST",
+ "updated": "2026-11-14 08:14 IST",
  "days": [
+  {
+   "date": "2026-11-14",
+   "notes": [
+    {
+     "type": "info",
+     "text": "1 pick scanned; not advanced for delivery. PPH mobile-first UK car-buying landing page with VRM lookup ($524 fixed, 15 proposals): UK plate-lookup API integration, condition checklist, photo upload, salvage-history background check, and instant lead summary to WhatsApp/SMS via Twilio/Make/webhook plus backup email. Clear scope, realistic budget, free bidding, client pays for API accounts, light competition. Held for review. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Two more tracked jobs died: Freelancer 40806588 (Email Reminder Automation Tool) frozen and Guru 2121596 (Zoho CRM rework) closed after its send-before lapsed - both HELD, never surfaced. Still active: Freelancer 40810473@172, 40811806@258, 40815577@117; Guru 2121779@98 (7 premium), 2121664@130/Invited 15, 2121544@105, 2121536@58/Invited 1."
+    },
+    {
+     "type": "info",
+     "text": "Boards: Freelancer 397 active projects scanned (38 keyword candidates, none worth a deposit-gated slot). Guru pg1 scanned via /work/ app (234 results). Truelancer, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane."
+    }
+   ],
+   "boards": [
+    "Guru",
+    "Freelancer",
+    "Truelancer",
+    "PeoplePerHour",
+    "Reddit r/forhire",
+    "Reddit r/slavelabour"
+   ],
+   "picks": [
+    {
+     "platform": "PeoplePerHour",
+     "title": "Mobile-first UK car-buying landing page with VRM lookup + WhatsApp lead alerts",
+     "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/mobile-app-development/build-a-mobile-uk-car-buying-landing-page-with-vrm-lookup-4530991",
+     "budget": "Client $524 fixed",
+     "bids": "15 proposals; posted ~12h before scan",
+     "client": "Malcolm B., UK; payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Web + automation lane fit: mobile-first single-page lead-capture site with UK VRM (number plate) API lookup, engine-condition checklist, photo upload, background write-off/salvage check, and instant lead summary to WhatsApp/SMS via Twilio, Make.com or direct webhook plus backup email. Clear scope, realistic budget, free bidding on PPH, client registers and pays for the API accounts. Light competition (15 proposals). No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "WhatsApp Order-Booking Bot (40816556, INR 1,500-12,500)",
+     "platform": "Freelancer",
+     "reason": "Core lane, but ~$18-150 cannot fund an official WhatsApp Business API build."
+    },
+    {
+     "title": "AI Email Support Assistant (40817165, $250-750)",
+     "platform": "Freelancer",
+     "reason": "In lane, but 215 bids and production-grade acceptance criteria against a small budget - saturated and under-scoped."
+    },
+    {
+     "title": "AI Agent Systems Architect pilot (40817061, $300-800)",
+     "platform": "Freelancer",
+     "reason": "Full multi-agent content pipeline with Instagram auto-publishing for pilot money; 134 bids - weak budget-to-scope."
+    },
+    {
+     "title": "On-Demand Data Transfer Automation (40817051, ~$850-1,700)",
+     "platform": "Freelancer",
+     "reason": "Clean API plumbing tool, but 105 bids and not exceptional enough for a deposit-gated slot."
+    },
+    {
+     "title": "Workflow Automation: Zapier, Power Automate & Apps Script ($463)",
+     "platform": "PeoplePerHour",
+     "reason": "Employer explicitly wants a UK-based freelancer - not eligible."
+    },
+    {
+     "title": "AI Powered Amibroker Trading Automation ($103)",
+     "platform": "Truelancer",
+     "reason": "Trading automation, not the lane; tiny budget; no usable brief."
+    }
+   ]
+  },
   {
    "date": "2026-11-13",
    "notes": [
@@ -31,7 +100,7 @@
      "title": "AI Workflow Automation Specialist - AEC firm (RAG SOP assistant, bid/invoice parsing, voice-to-logs, n8n/Make)",
      "url": "https://www.freelancer.com/projects/ai-workflow-automation/Workflow-Automation-Specialist",
      "budget": "Client $3,000-5,000 fixed",
-     "bids": "89 bids; active as of Nov 13",
+     "bids": "117 bids; active as of Nov 14",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Agentic-lane fit: RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, n8n/Make automations with human-in-the-loop guardrails. Clear scope, realistic budget. Heavy competition (89 bids). No proposal sent; no draft, quote or bid approved."
@@ -105,7 +174,7 @@
      "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
      "url": "https://www.guru.com/work/detail/2121779",
      "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-     "bids": "93 quotes; active as of Nov 13",
+     "bids": "98 quotes (7 premium), 0 hired; send before Dec 11",
      "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -214,7 +283,7 @@
      "title": "AI Image-to-Text Q&A Assistant (OCR + vision-LLM chat over documents)",
      "url": "https://www.freelancer.com/projects/optical-character-recognition/Image-Text-Assistant",
      "budget": "Client $250-750 fixed",
-     "bids": "254 bids; active as of Nov 13",
+     "bids": "258 bids; active as of Nov 14",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Browser-based tool: drop a document/worksheet image, get clean editable text, automatic question detection, step-by-step answers plus chat. OCR + vision-language reasoning pipeline - in the LLM-integration lane, realistic MVP budget. Competition heavy (219 bids). No proposal sent; no draft, quote or bid approved."
@@ -339,7 +408,7 @@
      "title": "AI-Driven Daily Brief Integration (email summaries, priority highlights, draft replies)",
      "url": "https://www.freelancer.com/projects/ai-automation/Driven-Daily-Brief-Integration",
      "budget": "Client GBP 250-750 fixed; realistic for a back-office integration setup",
-     "bids": "171 bids; active as of Nov 13",
+     "bids": "172 bids; active as of Nov 14",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Strongest lane fit in days: a daily brief/dashboard that summarizes incoming email, highlights priorities and drafts suggested replies, drawing on inboxes, calendar and meeting notes, documents and task lists. Client wants practical back-office integration and asks for tailored proposals demonstrating relevant experience. Heavy competition (148 bids) is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -584,8 +653,8 @@
      "budget": "Client INR 1,500-12,500 fixed; small but matches the small scope",
      "bids": "118 bids; active as of Nov 13",
      "client": "Payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Clean lane fit: stand-alone local desktop utility (Python suggested by client, no cloud subscription) that dispatches scheduled emails/messages/reminders, with a simple interface to add/edit/disable schedules, send logging, compiled app + readable source + README. Client open on language/framework; values clean commented code and quick turnaround. No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project frozen on Freelancer as of Nov 14. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     }
    ],
    "rejects": [
@@ -672,7 +741,7 @@
      "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
      "url": "https://www.guru.com/work/detail/2121664",
      "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-     "bids": "126 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+     "bids": "130 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
      "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
      "status": "spotted",
      "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -1030,8 +1099,8 @@
      "budget": "Hourly $15-25, 10-30 hrs/wk, 1-3 months",
      "bids": "150 quotes (11 premium), Invited 12, Hired 0; send before Nov 13",
      "client": "Real estate company reworking Zoho CRM backbone; payment verification unknown",
-     "status": "spotted",
-     "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. Clear scope: reconfigure order creation in Zoho CRM, pull external data by order type via integrations, database + dashboard for custom data feeding final reports, migrate Excel to Zoho Sheets. Flag: Jay's Zoho-specific qualification unestablished (Home Valley 2121555 went to someone else Oct 31). Draft asks which external sources and whether they have APIs, order types/reports in phase 1, and dashboard audience before proposing a phased plan. No experience claims used."
+     "status": "dead",
+     "status_note": "Job closed on Guru as of Nov 14 (send-before Nov 13 lapsed). Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     },
     {
      "platform": "Freelancer",
@@ -1240,7 +1309,7 @@
      "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
      "url": "https://www.guru.com/work/detail/2121544",
      "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-     "bids": "103 quotes (8 premium), Invited 0, Hired 0; send before Nov 27",
+     "bids": "105 quotes (8 premium), Invited 0, Hired 0; send before Nov 27",
      "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
      "status": "spotted",
      "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
