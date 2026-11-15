@@ -1,6 +1,85 @@
 {
- "updated": "2026-11-14 08:14 IST",
+ "updated": "2026-11-15 08:17 IST",
  "days": [
+  {
+   "date": "2026-11-15",
+   "notes": [
+    {
+     "type": "info",
+     "text": "2 picks scanned; neither advanced for delivery. (1) PPH music-tech AI matching accuracy role ($660 stage 1, then up to GBP 500/month part-time, only 3 proposals): review an existing FastAPI + LLM matching pipeline, build a repeatable accuracy harness, then propose and measure improvements - LLM evaluation lane, honest scope, free bidding, light competition; 'UK-based or UK hours' is a preference, not a requirement. (2) Freelancer RAG Development Project RFQ (GBP 5,000-10,000, 154 bids): ingest and index Salesforce cases, docs, diagrams; semantic retrieval with source referencing; LLM draft responses with citations for human review - squarely in the RAG lane at an exceptional budget. Held: Freelancer's $20 deposit gate applies. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "info",
+     "text": "No tracked jobs died today. Counts: Freelancer 40810473@172, 40811806@258, 40815577@119; Guru 2121779@102 (8 premium), 2121664@130/Invited 15, 2121544@105, 2121536@58/Invited 1."
+    },
+    {
+     "type": "info",
+     "text": "Boards: Freelancer 396 active projects scanned (35 keyword candidates, 1 exceptional). Guru pg1 scanned via /work/ app. Truelancer, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane."
+    }
+   ],
+   "boards": [
+    "Guru",
+    "Freelancer",
+    "Truelancer",
+    "PeoplePerHour",
+    "Reddit r/forhire",
+    "Reddit r/slavelabour"
+   ],
+   "picks": [
+    {
+     "platform": "PeoplePerHour",
+     "title": "Developer to improve AI matching accuracy - early-stage music tech (LLM eval + ranking)",
+     "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/programming-coding/developer-to-improve-ai-matching-accuracy-early-stage-music-4531098",
+     "budget": "Client $660 stage 1, then up to GBP 500/month part-time",
+     "bids": "3 proposals; posted ~1h before scan",
+     "client": "Ciara N. (founder); payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. LLM evaluation lane fit: review an existing Python/FastAPI + LLM song-to-artist matching pipeline, set up a repeatable top-3/top-5 accuracy harness, establish a baseline, then propose and measure improvements with before/after numbers. Clear stage-1 scope, honest brief (no promised percentages), free bidding, very light competition (3 proposals). Note: application asks for two examples of similar LLM/ranking/eval work - claims need Jay's confirmation before any proposal. 'UK-based or able to work UK hours' is a preference, not a requirement; NDA before code access. No proposal sent; no draft, quote or bid approved."
+    },
+    {
+     "platform": "Freelancer",
+     "title": "RAG Development Project - RFQ (support-record retrieval + cited draft responses)",
+     "url": "https://www.freelancer.com/projects/ai-rpa-development/RAG-Development-Project-Request-for",
+     "budget": "Client GBP 5,000-10,000 fixed",
+     "bids": "154 bids; active as of Nov 15",
+     "client": "UK agency white-label; payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Squarely in the RAG lane: ingest/index Salesforce cases, emails, PDFs, Word docs, diagrams; automated sync for new/updated/deleted content; semantic + keyword retrieval with source referencing; commercial LLM draft responses with citations and uncertainty handling; APIs for Salesforce integration. Clear scope, exceptional budget. Heavy competition (154 bids). No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "Pair-Programming AI Booking MVP (40818494, listed EUR 750-1,500)",
+     "platform": "Freelancer",
+     "reason": "Actual phases pay USD 50 + 200 per person - misleading budget, test-gated."
+    },
+    {
+     "title": "Long-Term B2B Outreach Operator, n8n + WhatsApp API (40818159)",
+     "platform": "Freelancer",
+     "reason": "Cold mass outreach with domain warm-up and volume management - spam-blasting shape, filtered."
+    },
+    {
+     "title": "Selenium Gmail Email Automation (40818110, INR 12,500-37,500)",
+     "platform": "Freelancer",
+     "reason": "Browser-automating a Gmail account is ToS-fragile; this belongs on the Gmail API."
+    },
+    {
+     "title": "Odoo-WhatsApp API Connector (40818023, $250-750)",
+     "platform": "Freelancer",
+     "reason": "In lane, but 133 bids on a mid budget - saturated."
+    },
+    {
+     "title": "Odoo-WhatsApp Business API Integration (40817999, INR 1,500-12,500)",
+     "platform": "Freelancer",
+     "reason": "Same shape, tiny budget (~$18-150)."
+    },
+    {
+     "title": "Deriv Analysis Tool with Trading Bot",
+     "platform": "Truelancer",
+     "reason": "Trading bot, not the lane."
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "notes": [
@@ -100,7 +179,7 @@
      "title": "AI Workflow Automation Specialist - AEC firm (RAG SOP assistant, bid/invoice parsing, voice-to-logs, n8n/Make)",
      "url": "https://www.freelancer.com/projects/ai-workflow-automation/Workflow-Automation-Specialist",
      "budget": "Client $3,000-5,000 fixed",
-     "bids": "117 bids; active as of Nov 14",
+     "bids": "119 bids; active as of Nov 15",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Agentic-lane fit: RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, n8n/Make automations with human-in-the-loop guardrails. Clear scope, realistic budget. Heavy competition (89 bids). No proposal sent; no draft, quote or bid approved."
@@ -174,7 +253,7 @@
      "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
      "url": "https://www.guru.com/work/detail/2121779",
      "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-     "bids": "98 quotes (7 premium), 0 hired; send before Dec 11",
+     "bids": "102 quotes (8 premium), 0 hired; send before Dec 11",
      "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -283,7 +362,7 @@
      "title": "AI Image-to-Text Q&A Assistant (OCR + vision-LLM chat over documents)",
      "url": "https://www.freelancer.com/projects/optical-character-recognition/Image-Text-Assistant",
      "budget": "Client $250-750 fixed",
-     "bids": "258 bids; active as of Nov 14",
+     "bids": "258 bids; active as of Nov 15",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Browser-based tool: drop a document/worksheet image, get clean editable text, automatic question detection, step-by-step answers plus chat. OCR + vision-language reasoning pipeline - in the LLM-integration lane, realistic MVP budget. Competition heavy (219 bids). No proposal sent; no draft, quote or bid approved."
@@ -408,7 +487,7 @@
      "title": "AI-Driven Daily Brief Integration (email summaries, priority highlights, draft replies)",
      "url": "https://www.freelancer.com/projects/ai-automation/Driven-Daily-Brief-Integration",
      "budget": "Client GBP 250-750 fixed; realistic for a back-office integration setup",
-     "bids": "172 bids; active as of Nov 14",
+     "bids": "172 bids; active as of Nov 15",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Strongest lane fit in days: a daily brief/dashboard that summarizes incoming email, highlights priorities and drafts suggested replies, drawing on inboxes, calendar and meeting notes, documents and task lists. Client wants practical back-office integration and asks for tailored proposals demonstrating relevant experience. Heavy competition (148 bids) is the main risk. No proposal sent; no draft, quote or bid approved."
