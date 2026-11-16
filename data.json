@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-15 08:17 IST",
+ "updated": "2026-11-16 08:15 IST",
  "days": [
+  {
+   "date": "2026-11-16",
+   "notes": [
+    {
+     "type": "info",
+     "text": "1 pick scanned; not advanced for delivery. Freelancer AI-Powered Telegram Support Bot (INR 150,000-250,000, 95 bids): Telegram Bot API + LLM (OpenAI/Claude) replies with conversation context, admin commands, interaction stats, secure key management, VPS/serverless deployment. Squarely in the chatbot lane, clear scope, realistic budget. Held: Freelancer's $20 deposit gate applies, and the client asks for links to past bot work - claims need Jay's confirmation before any proposal. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "Book 2121197 reconciled as dropped/archived per the Nov 14 backlog cleanup - was the last pending item; no proposal was ever sent. No tracked jobs died today. Counts: Freelancer 40810473@173, 40811806@259, 40815577@119, 40818160@164; Guru 2121779@104 (9 premium), 2121664@130/Invited 15, 2121544@105, 2121536@58/Invited 1."
+    },
+    {
+     "type": "info",
+     "text": "Boards: Freelancer 395 active projects scanned (37 keyword candidates, 1 worth a deposit-gated slot). Guru pg1 scanned via /work/ app. Truelancer, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane."
+    }
+   ],
+   "boards": [
+    "Guru",
+    "Freelancer",
+    "Truelancer",
+    "PeoplePerHour",
+    "Reddit r/forhire",
+    "Reddit r/slavelabour"
+   ],
+   "picks": [
+    {
+     "platform": "Freelancer",
+     "title": "AI-Powered Telegram Support Bot (LLM replies + context + admin commands)",
+     "url": "https://www.freelancer.com/projects/ai-chatbot-development/Powered-Telegram-Support-Bot",
+     "budget": "Client INR 150,000-250,000 fixed (~$1,700-2,800)",
+     "bids": "95 bids; active as of Nov 16",
+     "client": "Payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Chatbot lane fit: Telegram Bot API integration, LLM (OpenAI/Claude) replies in a friendly tone with conversation context, admin commands (/enable, /disable, /reset, /stats), secure API key management via env vars, VPS/serverless deployment instructions. Clear scope, realistic budget. Client asks for links to past bot or AI integration work - any claim needs Jay's confirmation. Heavy competition (95 bids). No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "Founding Engineer for AI Construction SaaS (40819859, AUD 10-20k)",
+     "platform": "Freelancer",
+     "reason": "Demands verifiable founding-SaaS and computer-vision-on-drawings portfolio plus whole-product ownership - claims Jay cannot ground."
+    },
+    {
+     "title": "n8n Workflow Automation & Multi-Model AI Agents (40819469)",
+     "platform": "Freelancer",
+     "reason": "A freelancer's own service advertisement, not a job posting."
+    },
+    {
+     "title": "Senior Engineer for RAG Support Assistant (40818973, hourly $50)",
+     "platform": "Freelancer",
+     "reason": "In lane, but 40 hrs/week commitment plus regular client calls - not a gig-shaped engagement."
+    },
+    {
+     "title": "Claude Internal Task Automation (40819576)",
+     "platform": "Freelancer",
+     "reason": "287 bids - saturated."
+    },
+    {
+     "title": "Full Matrimonial Mobile App ($661)",
+     "platform": "PeoplePerHour",
+     "reason": "Complete iOS + Android app with AI integration for $661 - unrealistic scope-to-budget."
+    },
+    {
+     "title": "Book layout for novel (Guru)",
+     "platform": "Guru",
+     "reason": "Document-format lane, but no budget and a two-line brief - too thin after the 2121197 scope-change experience."
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "notes": [
@@ -41,7 +110,7 @@
      "title": "RAG Development Project - RFQ (support-record retrieval + cited draft responses)",
      "url": "https://www.freelancer.com/projects/ai-rpa-development/RAG-Development-Project-Request-for",
      "budget": "Client GBP 5,000-10,000 fixed",
-     "bids": "154 bids; active as of Nov 15",
+     "bids": "164 bids; active as of Nov 16",
      "client": "UK agency white-label; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Squarely in the RAG lane: ingest/index Salesforce cases, emails, PDFs, Word docs, diagrams; automated sync for new/updated/deleted content; semantic + keyword retrieval with source referencing; commercial LLM draft responses with citations and uncertainty handling; APIs for Salesforce integration. Clear scope, exceptional budget. Heavy competition (154 bids). No proposal sent; no draft, quote or bid approved."
@@ -179,7 +248,7 @@
      "title": "AI Workflow Automation Specialist - AEC firm (RAG SOP assistant, bid/invoice parsing, voice-to-logs, n8n/Make)",
      "url": "https://www.freelancer.com/projects/ai-workflow-automation/Workflow-Automation-Specialist",
      "budget": "Client $3,000-5,000 fixed",
-     "bids": "119 bids; active as of Nov 15",
+     "bids": "119 bids; active as of Nov 16",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Agentic-lane fit: RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, n8n/Make automations with human-in-the-loop guardrails. Clear scope, realistic budget. Heavy competition (89 bids). No proposal sent; no draft, quote or bid approved."
@@ -253,7 +322,7 @@
      "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
      "url": "https://www.guru.com/work/detail/2121779",
      "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-     "bids": "102 quotes (8 premium), 0 hired; send before Dec 11",
+     "bids": "104 quotes (9 premium), 0 hired; send before Dec 11",
      "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -362,7 +431,7 @@
      "title": "AI Image-to-Text Q&A Assistant (OCR + vision-LLM chat over documents)",
      "url": "https://www.freelancer.com/projects/optical-character-recognition/Image-Text-Assistant",
      "budget": "Client $250-750 fixed",
-     "bids": "258 bids; active as of Nov 15",
+     "bids": "259 bids; active as of Nov 16",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Browser-based tool: drop a document/worksheet image, get clean editable text, automatic question detection, step-by-step answers plus chat. OCR + vision-language reasoning pipeline - in the LLM-integration lane, realistic MVP budget. Competition heavy (219 bids). No proposal sent; no draft, quote or bid approved."
@@ -487,7 +556,7 @@
      "title": "AI-Driven Daily Brief Integration (email summaries, priority highlights, draft replies)",
      "url": "https://www.freelancer.com/projects/ai-automation/Driven-Daily-Brief-Integration",
      "budget": "Client GBP 250-750 fixed; realistic for a back-office integration setup",
-     "bids": "172 bids; active as of Nov 15",
+     "bids": "173 bids; active as of Nov 16",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Strongest lane fit in days: a daily brief/dashboard that summarizes incoming email, highlights priorities and drafts suggested replies, drawing on inboxes, calendar and meeting notes, documents and task lists. Client wants practical back-office integration and asks for tailored proposals demonstrating relevant experience. Heavy competition (148 bids) is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -2254,8 +2323,8 @@
      "budget": "$1,000 fixed bid approved; client budget $1,000-$2,500",
      "bids": "97",
      "client": "Daniel D, Canada; $0 spent, 14 posted, 0 paid; payment verification unknown",
-     "status": "pending",
-     "status_note": "Scope changed by client Oct 6 (~264p, 7x10); revised approval needed from Jay. Oct 9 live check: 86 quotes, Hired (0), 14 jobs posted, $0 paid. All Quotes shows only Shopify, no duplicate book quote; nine bids remain. Apply route accessible, but stopped before submission. Original approved 238-page, 7x11 text no longer fits. Payment/delivery terms and submission cost remain unverified. Oct 10: open, 90 quotes, Hired (0); revised approval still needed. Oct 11: open, 95 quotes, Hired (0), revised approval still needed. Oct 12: open, 97 quotes, Hired (0), revised scope approval still needed. Oct13 current status UNVERIFIED: two detail reads redirect to Guru dashboard; public fetch not found. Possible removal/closure not proven. Retaining pending, no submission; count 97 is last verified Oct12, not current. Oct14: detail still redirects dashboard; current state unverified, last count97 Oct12. Oct15: detail redirects dashboard; current status unverified, last count97 Oct12. Oct16: detail redirects dashboard; state unverified, last count97 Oct12. Oct17: detail redirects dashboard; state unverified, last count97 Oct12. Oct18: detail redirects dashboard; state unverified, last count97 Oct12. Oct19: detail redirects dashboard; state unverified, last count97 Oct12. Oct20: detail redirects dashboard; state unverified, last count97 Oct12."
+     "status": "dead",
+     "status_note": "Dropped and archived in the Nov 14 backlog cleanup. Client changed scope to ~264 pages / 7x10 on Oct 6; the old approved 238-page / 7x11 text was never sent and no revised approval was given. No proposal sent; no draft, quote or bid delivered."
     }
    ],
    "rejects": [
