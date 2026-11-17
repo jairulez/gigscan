@@ -1,6 +1,85 @@
 {
- "updated": "2026-11-16 08:15 IST",
+ "updated": "2026-11-17 08:15 IST",
  "days": [
+  {
+   "date": "2026-11-17",
+   "notes": [
+    {
+     "type": "info",
+     "text": "2 picks scanned; neither advanced for delivery. (1) Guru Async API Client & Monitor in Python/Go (65 quotes, send before Dec 16): clean async HTTP client with custom headers, token auth, pooling, timeouts, retries, proxy support, plus a background worker that polls API status and triggers alerts, config file and CLI/web status view - clear backend scope, bot-executable, free bidding; budget not stated, would need grounding before any quote. (2) Guru US publisher book layout designer ($250-500, 46 quotes, send before Dec 16): ~250-page hardcover interior plus jacket spine/back - Jay's document-format lane, but the client demands NO AI, a resume and links to prior work, so any proposal needs Jay-confirmed portfolio claims. No proposals sent; no drafts, quotes or bids approved."
+    },
+    {
+     "type": "warn",
+     "text": "One tracked job died: Freelancer 40810473 (AI-Driven Daily Brief Integration) frozen - HELD, never surfaced. Still active: Freelancer 40811806@261, 40815577@123, 40818160@187, 40819073@112; Guru 2121779@106 (9 premium), 2121664@132/Invited 15, 2121544@105, 2121536@60/Invited 1."
+    },
+    {
+     "type": "info",
+     "text": "Boards: Freelancer 399 active projects scanned (37 keyword candidates, none exceptional). Guru pg1 scanned via /work/ app. Truelancer, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane."
+    }
+   ],
+   "boards": [
+    "Guru",
+    "Freelancer",
+    "Truelancer",
+    "PeoplePerHour",
+    "Reddit r/forhire",
+    "Reddit r/slavelabour"
+   ],
+   "picks": [
+    {
+     "platform": "Guru",
+     "title": "Async API Client & Monitor (Python/Go): async HTTP client + status polling worker",
+     "url": "https://www.guru.com/work/detail/2121848",
+     "budget": "Not stated (Fixed Price or Hourly)",
+     "bids": "65 quotes (2 premium), Invited 1, Hired 0; send before Dec 16",
+     "client": "yongsheng g, China; payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Backend lane fit: clean async HTTP client (httpx/aiohttp or Go) with custom headers, payload serialization, token auth, connection pooling, timeouts, retries and proxy support; background worker polling API status with alerts; config file plus simple CLI/web status view; setup documentation. Clear scope, bot-executable, free bidding on Guru. Budget not stated - must be grounded before any quote. No proposal sent; no draft, quote or bid approved."
+    },
+    {
+     "platform": "Guru",
+     "title": "US Publisher Seeks Book Layout Designer (~250-page hardcover interior + jacket)",
+     "url": "https://www.guru.com/work/detail/2121854",
+     "budget": "Client $250-$500 fixed",
+     "bids": "46 quotes (2 premium), Invited 0, Hired 0; send before Dec 16",
+     "client": "Jake B, United States; $1,715 spent, 100%; payment verification unknown",
+     "status": "spotted",
+     "status_note": "HELD in review - not surfaced. Document-format lane fit (same shape as Jay's Shopify/book work): ~250-page hardcover book interior layout plus spine/back of jacket. Client explicitly demands NO AI and asks for a resume and links to prior examples - any portfolio claim needs Jay's confirmation. Moderate competition (46 quotes). No proposal sent; no draft, quote or bid approved."
+    }
+   ],
+   "rejects": [
+    {
+     "title": "Automate WhatsApp Support with AI (40821666, $250-750)",
+     "platform": "Freelancer",
+     "reason": "Lane fit, but 164 bids on a mid budget - saturated."
+    },
+    {
+     "title": "AI Work Optimization Setup (40821578)",
+     "platform": "Freelancer",
+     "reason": "Vague personal-assistant tooling wish list, no concrete build to scope."
+    },
+    {
+     "title": "Deploy SMS & Voice AI with Admin Dashboard ($10/hr, ~10 hrs)",
+     "platform": "Truelancer",
+     "reason": "Empty brief and roughly $100 total - no real scope."
+    },
+    {
+     "title": "Administration assistant, $2.5k-5k (Guru)",
+     "platform": "Guru",
+     "reason": "Includes registering platforms through KYC on the client's behalf - identity-misuse shape, filtered."
+    },
+    {
+     "title": "OpenAI Email Reply Automation (40821689, $15-25)",
+     "platform": "Freelancer",
+     "reason": "Tiny budget."
+    },
+    {
+     "title": "AI-Powered E-Commerce Platform (40821019)",
+     "platform": "Freelancer",
+     "reason": "318 bids - saturated."
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "notes": [
@@ -31,7 +110,7 @@
      "title": "AI-Powered Telegram Support Bot (LLM replies + context + admin commands)",
      "url": "https://www.freelancer.com/projects/ai-chatbot-development/Powered-Telegram-Support-Bot",
      "budget": "Client INR 150,000-250,000 fixed (~$1,700-2,800)",
-     "bids": "95 bids; active as of Nov 16",
+     "bids": "112 bids; active as of Nov 17",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Chatbot lane fit: Telegram Bot API integration, LLM (OpenAI/Claude) replies in a friendly tone with conversation context, admin commands (/enable, /disable, /reset, /stats), secure API key management via env vars, VPS/serverless deployment instructions. Clear scope, realistic budget. Client asks for links to past bot or AI integration work - any claim needs Jay's confirmation. Heavy competition (95 bids). No proposal sent; no draft, quote or bid approved."
@@ -110,7 +189,7 @@
      "title": "RAG Development Project - RFQ (support-record retrieval + cited draft responses)",
      "url": "https://www.freelancer.com/projects/ai-rpa-development/RAG-Development-Project-Request-for",
      "budget": "Client GBP 5,000-10,000 fixed",
-     "bids": "164 bids; active as of Nov 16",
+     "bids": "187 bids; active as of Nov 17",
      "client": "UK agency white-label; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Squarely in the RAG lane: ingest/index Salesforce cases, emails, PDFs, Word docs, diagrams; automated sync for new/updated/deleted content; semantic + keyword retrieval with source referencing; commercial LLM draft responses with citations and uncertainty handling; APIs for Salesforce integration. Clear scope, exceptional budget. Heavy competition (154 bids). No proposal sent; no draft, quote or bid approved."
@@ -248,7 +327,7 @@
      "title": "AI Workflow Automation Specialist - AEC firm (RAG SOP assistant, bid/invoice parsing, voice-to-logs, n8n/Make)",
      "url": "https://www.freelancer.com/projects/ai-workflow-automation/Workflow-Automation-Specialist",
      "budget": "Client $3,000-5,000 fixed",
-     "bids": "119 bids; active as of Nov 16",
+     "bids": "123 bids; active as of Nov 17",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Agentic-lane fit: RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, n8n/Make automations with human-in-the-loop guardrails. Clear scope, realistic budget. Heavy competition (89 bids). No proposal sent; no draft, quote or bid approved."
@@ -322,7 +401,7 @@
      "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
      "url": "https://www.guru.com/work/detail/2121779",
      "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-     "bids": "104 quotes (9 premium), 0 hired; send before Dec 11",
+     "bids": "106 quotes (9 premium), 0 hired; send before Dec 11",
      "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
      "status": "spotted",
      "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -431,7 +510,7 @@
      "title": "AI Image-to-Text Q&A Assistant (OCR + vision-LLM chat over documents)",
      "url": "https://www.freelancer.com/projects/optical-character-recognition/Image-Text-Assistant",
      "budget": "Client $250-750 fixed",
-     "bids": "259 bids; active as of Nov 16",
+     "bids": "261 bids; active as of Nov 17",
      "client": "Payment verification unknown",
      "status": "spotted",
      "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Browser-based tool: drop a document/worksheet image, get clean editable text, automatic question detection, step-by-step answers plus chat. OCR + vision-language reasoning pipeline - in the LLM-integration lane, realistic MVP budget. Competition heavy (219 bids). No proposal sent; no draft, quote or bid approved."
@@ -558,8 +637,8 @@
      "budget": "Client GBP 250-750 fixed; realistic for a back-office integration setup",
      "bids": "173 bids; active as of Nov 16",
      "client": "Payment verification unknown",
-     "status": "spotted",
-     "status_note": "$20 deposit gate applies. HELD in review - not surfaced. Strongest lane fit in days: a daily brief/dashboard that summarizes incoming email, highlights priorities and drafts suggested replies, drawing on inboxes, calendar and meeting notes, documents and task lists. Client wants practical back-office integration and asks for tailored proposals demonstrating relevant experience. Heavy competition (148 bids) is the main risk. No proposal sent; no draft, quote or bid approved."
+     "status": "dead",
+     "status_note": "Project frozen on Freelancer as of Nov 17. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
     }
    ],
    "rejects": [
@@ -889,7 +968,7 @@
      "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
      "url": "https://www.guru.com/work/detail/2121664",
      "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-     "bids": "130 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+     "bids": "132 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
      "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
      "status": "spotted",
      "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
