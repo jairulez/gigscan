@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-19 08:15 IST",
+  "updated": "2026-11-20 08:13 IST",
   "days": [
+    {
+      "date": "2026-11-20",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer 693 active projects scanned (16 keyword candidates; another n8n chatbot cluster, all saturated at 109-336 bids, deposit gate applies - see rejects). Guru pg1, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane. Truelancer blocked by a Vercel security checkpoint for the third consecutive day. No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One tracked job died: Freelancer 40815577 (AI Workflow Automation Specialist) frozen - HELD, never surfaced. Still active: Freelancer 40818160@191, 40819073@122; Guru 2121848@81 (3 premium)/Invited 1 (send before Dec 16), 2121779@113 (9 premium), 2121664@137/Invited 15 (send before Dec 5), 2121544@107 (send before Nov 27), 2121536@62/Invited 1 (send before Nov 26); PPH 4531536 (Claude AI automation) now at 67 proposals, still open."
+        }
+      ],
+      "boards": [
+        "Guru",
+        "Freelancer",
+        "Truelancer",
+        "PeoplePerHour",
+        "Reddit r/forhire",
+        "Reddit r/slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "AI-Driven Customer Reply Automation (40826955, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Lane fit (n8n + Claude/Gemini on-brand reply flow), but 109 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "n8n WhatsApp AI Support (40826925, $250-750)",
+          "platform": "Freelancer",
+          "reason": "WhatsApp bot for FAQ + lead capture + tickets, matches the WhatsApp-agent lane, but 120 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "n8n AI Live Chat Assistant (40826385, EUR 250-750)",
+          "platform": "Freelancer",
+          "reason": "Website chat with document ingestion; 188 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Multi-Channel n8n Chatbot Automation (40826002, EUR 250-750)",
+          "platform": "Freelancer",
+          "reason": "Website+WhatsApp+Messenger bot with API lookups; 336 bids - saturated; $20 deposit gate applies."
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "notes": [
@@ -31,7 +75,7 @@
           "title": "Claude AI & Automation Specialist (eBay listing automation, Pure Food Systems)",
           "url": "https://www.peopleperhour.com/freelance-jobs/artificial-intelligence/artificial-intelligence-consulting/claude-ai-automation-specialist-4531536",
           "budget": "Open to proposals (card shows ~$26/hr); Expert level",
-          "bids": "46 proposals; posted Nov 19",
+          "bids": "67 proposals; still open as of Nov 20",
           "client": "Steph M / Pure Food Systems, UK vending-machine business; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Workflow-automation lane fit: review and automate the client's existing Claude-for-eBay-listings process, integrate the Anthropic API with eBay and other systems via Make/Zapier/n8n, and train their team. Clear scope, free bidding, moderate competition (46 proposals). Client asks for examples of similar eBay/e-commerce work - any portfolio claim needs Jay's confirmation - and budget is open, so any rate is proposed scope only. No proposal sent; no draft, quote or bid approved."
@@ -124,7 +168,7 @@
           "title": "Async API Client & Monitor (Python/Go): async HTTP client + status polling worker",
           "url": "https://www.guru.com/work/detail/2121848",
           "budget": "Not stated (Fixed Price or Hourly)",
-          "bids": "80 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
+          "bids": "81 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
           "client": "yongsheng g, China; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Backend lane fit: clean async HTTP client (httpx/aiohttp or Go) with custom headers, payload serialization, token auth, connection pooling, timeouts, retries and proxy support; background worker polling API status with alerts; config file plus simple CLI/web status view; setup documentation. Clear scope, bot-executable, free bidding on Guru. Budget not stated - must be grounded before any quote. No proposal sent; no draft, quote or bid approved."
@@ -420,10 +464,10 @@
           "title": "AI Workflow Automation Specialist - AEC firm (RAG SOP assistant, bid/invoice parsing, voice-to-logs, n8n/Make)",
           "url": "https://www.freelancer.com/projects/ai-workflow-automation/Workflow-Automation-Specialist",
           "budget": "Client $3,000-5,000 fixed",
-          "bids": "123 bids; active as of Nov 17",
+          "bids": "123 bids; FROZEN as of Nov 20",
           "client": "Payment verification unknown",
-          "status": "spotted",
-          "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Agentic-lane fit: RAG assistant over company SOPs, bid and invoice parsing, voice-to-logs capture, n8n/Make automations with human-in-the-loop guardrails. Clear scope, realistic budget. Heavy competition (89 bids). No proposal sent; no draft, quote or bid approved."
+          "status": "dead",
+          "status_note": "$20 deposit gate applies. Project frozen on Freelancer as of Nov 20. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
         }
       ],
       "rejects": [
@@ -1061,7 +1105,7 @@
           "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
           "url": "https://www.guru.com/work/detail/2121664",
           "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-          "bids": "136 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+          "bids": "137 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
           "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
           "status": "spotted",
           "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -1629,7 +1673,7 @@
           "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
           "url": "https://www.guru.com/work/detail/2121544",
           "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-          "bids": "105 quotes (8 premium), Invited 0, Hired 0; send before Nov 27",
+          "bids": "107 quotes (8 premium), Invited 0, Hired 0; send before Nov 27",
           "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
           "status": "spotted",
           "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
