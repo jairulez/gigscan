@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-20 08:13 IST",
+  "updated": "2026-11-21 08:13 IST",
   "days": [
+    {
+      "date": "2026-11-21",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer 636 active projects scanned (18 keyword candidates; Telegram/WhatsApp chatbot cluster, all saturated at 105-335 bids except one INR 750-1250 brief with an unrealistic budget - see rejects). Guru pg1, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane. Truelancer blocked by a Vercel security checkpoint for the fourth consecutive day. No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "No tracked jobs died today. Still active: Freelancer 40818160@191, 40819073@126; Guru 2121848@81 (3 premium)/Invited 1 (send before Dec 16), 2121779@114 (9 premium), 2121664@137/Invited 15 (send before Dec 5), 2121544@107 (send before Nov 27), 2121536@64/Invited 1 (send before Nov 26); PPH 4531536 (Claude AI automation) now at 69 proposals, still open."
+        }
+      ],
+      "boards": [
+        "Guru",
+        "Freelancer",
+        "Truelancer",
+        "PeoplePerHour",
+        "Reddit r/forhire",
+        "Reddit r/slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "n8n AI Chatbot: Web & WhatsApp (40827395, GBP 250-750)",
+          "platform": "Freelancer",
+          "reason": "Two-channel support bot on n8n - clean lane fit, but 335 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Multi-Channel AI Support Automation (40827104, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Chat+email+WhatsApp first-line support on n8n; 190 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "n8n-Powered Telegram Q&A Chatbot (40828258, GBP 250-750)",
+          "platform": "Freelancer",
+          "reason": "Curated Q&A bot via n8n + GPT-4; 173 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Build UK AI Garage Receptionist (40827484, EUR 250-750)",
+          "platform": "Freelancer",
+          "reason": "Production AI voice receptionist (telephony) - beyond our bot-executable web scope and 170 bids; $20 deposit gate applies."
+        },
+        {
+          "title": "WhatsApp AI FAQ Chatbot Build (40827819, INR 750-1250)",
+          "platform": "Freelancer",
+          "reason": "Lane fit and only 51 bids, but INR 750-1250 (~$9-15) is not a realistic budget for the scope."
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "notes": [
@@ -75,7 +124,7 @@
           "title": "Claude AI & Automation Specialist (eBay listing automation, Pure Food Systems)",
           "url": "https://www.peopleperhour.com/freelance-jobs/artificial-intelligence/artificial-intelligence-consulting/claude-ai-automation-specialist-4531536",
           "budget": "Open to proposals (card shows ~$26/hr); Expert level",
-          "bids": "67 proposals; still open as of Nov 20",
+          "bids": "69 proposals; still open as of Nov 21",
           "client": "Steph M / Pure Food Systems, UK vending-machine business; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Workflow-automation lane fit: review and automate the client's existing Claude-for-eBay-listings process, integrate the Anthropic API with eBay and other systems via Make/Zapier/n8n, and train their team. Clear scope, free bidding, moderate competition (46 proposals). Client asks for examples of similar eBay/e-commerce work - any portfolio claim needs Jay's confirmation - and budget is open, so any rate is proposed scope only. No proposal sent; no draft, quote or bid approved."
@@ -538,7 +587,7 @@
           "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
           "url": "https://www.guru.com/work/detail/2121779",
           "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-          "bids": "113 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
+          "bids": "114 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
           "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
