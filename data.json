@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-21 08:13 IST",
+  "updated": "2026-11-22 08:16 IST",
   "days": [
+    {
+      "date": "2026-11-22",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer 581 active projects scanned (17 keyword candidates; see rejects - best near-miss was an agency's ongoing Shopify + Claude/ChatGPT role at AUD 1500-3000, but 120 bids and deposit-gated). Guru pg1, PPH latest, Reddit r/forhire + r/slavelabour new scanned - nothing else in lane. Truelancer blocked by a Vercel security checkpoint for the fifth consecutive day. No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One tracked job died: Freelancer 40818160 (RAG Development - Request for Indicative Quotation) frozen - HELD, never surfaced. Still active: Freelancer 40819073@127; Guru 2121848@81 (3 premium)/Invited 1 (send before Dec 16), 2121779@115 (9 premium), 2121664@137/Invited 15 (send before Dec 5), 2121544@108 (9 premium; send before Nov 27), 2121536@65/Invited 1 (send before Nov 26); PPH 4531536 (Claude AI automation) now at 70 proposals, still open."
+        }
+      ],
+      "boards": [
+        "Guru",
+        "Freelancer",
+        "Truelancer",
+        "PeoplePerHour",
+        "Reddit r/forhire",
+        "Reddit r/slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "AI Shopify Store Automation Expert (40829021, AUD 1500-3000)",
+          "platform": "Freelancer",
+          "reason": "Melbourne agency wanting an ongoing Shopify dev who uses Claude/ChatGPT daily - decent budget and Shopify lane, but 120 bids, ongoing-agency-commitment shape, and $20 deposit gate applies."
+        },
+        {
+          "title": "Telegram FAQ Chatbot via n8n (40828389, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Small self-contained Q&A bot - lane fit, but 194 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Install AI Chatbot on WordPress (40828594, $250-750)",
+          "platform": "Freelancer",
+          "reason": "No-code plugin install job; 382 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Claude Automation for Insurance Brokerage (40829385, AUD 25-50)",
+          "platform": "Freelancer",
+          "reason": "Wants Claude Skills and workflow automation - lane fit, but AUD 25-50 total is not a realistic budget; 91 bids."
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "notes": [
@@ -124,7 +168,7 @@
           "title": "Claude AI & Automation Specialist (eBay listing automation, Pure Food Systems)",
           "url": "https://www.peopleperhour.com/freelance-jobs/artificial-intelligence/artificial-intelligence-consulting/claude-ai-automation-specialist-4531536",
           "budget": "Open to proposals (card shows ~$26/hr); Expert level",
-          "bids": "69 proposals; still open as of Nov 21",
+          "bids": "70 proposals; still open as of Nov 22",
           "client": "Steph M / Pure Food Systems, UK vending-machine business; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Workflow-automation lane fit: review and automate the client's existing Claude-for-eBay-listings process, integrate the Anthropic API with eBay and other systems via Make/Zapier/n8n, and train their team. Clear scope, free bidding, moderate competition (46 proposals). Client asks for examples of similar eBay/e-commerce work - any portfolio claim needs Jay's confirmation - and budget is open, so any rate is proposed scope only. No proposal sent; no draft, quote or bid approved."
@@ -587,7 +631,7 @@
           "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
           "url": "https://www.guru.com/work/detail/2121779",
           "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-          "bids": "114 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
+          "bids": "115 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
           "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -1722,7 +1766,7 @@
           "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
           "url": "https://www.guru.com/work/detail/2121544",
           "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-          "bids": "107 quotes (8 premium), Invited 0, Hired 0; send before Nov 27",
+          "bids": "108 quotes (9 premium), Invited 0, Hired 0; send before Nov 27",
           "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
           "status": "spotted",
           "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
