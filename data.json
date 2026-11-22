@@ -419,10 +419,10 @@
           "title": "RAG Development Project - RFQ (support-record retrieval + cited draft responses)",
           "url": "https://www.freelancer.com/projects/ai-rpa-development/RAG-Development-Project-Request-for",
           "budget": "Client GBP 5,000-10,000 fixed",
-          "bids": "187 bids; active as of Nov 17",
+          "bids": "191 bids; FROZEN as of Nov 22",
           "client": "UK agency white-label; payment verification unknown",
-          "status": "spotted",
-          "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Squarely in the RAG lane: ingest/index Salesforce cases, emails, PDFs, Word docs, diagrams; automated sync for new/updated/deleted content; semantic + keyword retrieval with source referencing; commercial LLM draft responses with citations and uncertainty handling; APIs for Salesforce integration. Clear scope, exceptional budget. Heavy competition (154 bids). No proposal sent; no draft, quote or bid approved."
+          "status": "dead",
+          "status_note": "$20 deposit gate applies. Project frozen on Freelancer as of Nov 22. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
         }
       ],
       "rejects": [
