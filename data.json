@@ -1,6 +1,49 @@
 {
-  "updated": "2026-11-22 08:16 IST",
+  "updated": "2026-11-23 08:15 IST",
   "days": [
+    {
+      "date": "2026-11-23",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer 619 active projects scanned (15 keyword candidates; see rejects - one on-prem German n8n brief at 94 bids was the closest). Guru pg1, PPH latest, Reddit r/forhire + r/slavelabour new scanned - PPH's Claude-architect posting was a perfect topic match but delivery is a live remote-control session on the client's PC, not bot-executable. Truelancer remains suspended (Vercel checkpoint since Nov 18; resumes only on an external recovery signal). No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One tracked job died: Freelancer 40819073 (AI-Powered Telegram Support Bot) frozen - HELD, never surfaced; no Freelancer jobs remain in tracking. Still active: Guru 2121848@85 (3 premium)/Invited 1 (send before Dec 16), 2121779@118 (9 premium), 2121664@137/Invited 15 (send before Dec 5), 2121544@109 (9 premium; send before Nov 27), 2121536@67/Invited 1 (send before Nov 26); PPH 4531536 (Claude AI automation) now at 72 proposals, still open."
+        }
+      ],
+      "boards": [
+        "Guru",
+        "Freelancer",
+        "PeoplePerHour",
+        "Reddit r/forhire",
+        "Reddit r/slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "Claude architect needed (#4531890, $394)",
+          "platform": "PeoplePerHour",
+          "reason": "Perfect topic fit (SKILL.md library, Claude Cowork, Google Workspace MCP), but delivery is a live 1-to-1 remote-control session on the client's Windows PC - not a bot-executable deliverable."
+        },
+        {
+          "title": "n8n AI Automation - Email, Invoices & Documents, on-premise (#40830230, EUR 250-750)",
+          "platform": "Freelancer",
+          "reason": "Lane fit at 94 bids, but on-premise deployment for a German construction firm adds access/language constraints; $20 deposit gate applies."
+        },
+        {
+          "title": "E-Commerce Order Chatbot Build (#40830578, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Order-status chat agent - lane fit, but 251 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "AI Agent for E-Commerce Order Processing (#40830154, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Voice-agent order processing - voice telephony beyond our web-bot scope, 129 bids; $20 deposit gate applies."
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "notes": [
@@ -168,7 +211,7 @@
           "title": "Claude AI & Automation Specialist (eBay listing automation, Pure Food Systems)",
           "url": "https://www.peopleperhour.com/freelance-jobs/artificial-intelligence/artificial-intelligence-consulting/claude-ai-automation-specialist-4531536",
           "budget": "Open to proposals (card shows ~$26/hr); Expert level",
-          "bids": "70 proposals; still open as of Nov 22",
+          "bids": "72 proposals; still open as of Nov 23",
           "client": "Steph M / Pure Food Systems, UK vending-machine business; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Workflow-automation lane fit: review and automate the client's existing Claude-for-eBay-listings process, integrate the Anthropic API with eBay and other systems via Make/Zapier/n8n, and train their team. Clear scope, free bidding, moderate competition (46 proposals). Client asks for examples of similar eBay/e-commerce work - any portfolio claim needs Jay's confirmation - and budget is open, so any rate is proposed scope only. No proposal sent; no draft, quote or bid approved."
@@ -261,7 +304,7 @@
           "title": "Async API Client & Monitor (Python/Go): async HTTP client + status polling worker",
           "url": "https://www.guru.com/work/detail/2121848",
           "budget": "Not stated (Fixed Price or Hourly)",
-          "bids": "81 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
+          "bids": "85 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
           "client": "yongsheng g, China; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Backend lane fit: clean async HTTP client (httpx/aiohttp or Go) with custom headers, payload serialization, token auth, connection pooling, timeouts, retries and proxy support; background worker polling API status with alerts; config file plus simple CLI/web status view; setup documentation. Clear scope, bot-executable, free bidding on Guru. Budget not stated - must be grounded before any quote. No proposal sent; no draft, quote or bid approved."
@@ -340,10 +383,10 @@
           "title": "AI-Powered Telegram Support Bot (LLM replies + context + admin commands)",
           "url": "https://www.freelancer.com/projects/ai-chatbot-development/Powered-Telegram-Support-Bot",
           "budget": "Client INR 150,000-250,000 fixed (~$1,700-2,800)",
-          "bids": "112 bids; active as of Nov 17",
+          "bids": "129 bids; FROZEN as of Nov 23",
           "client": "Payment verification unknown",
-          "status": "spotted",
-          "status_note": "HELD in review - not surfaced. Freelancer $20 deposit gate applies. Chatbot lane fit: Telegram Bot API integration, LLM (OpenAI/Claude) replies in a friendly tone with conversation context, admin commands (/enable, /disable, /reset, /stats), secure API key management via env vars, VPS/serverless deployment instructions. Clear scope, realistic budget. Client asks for links to past bot or AI integration work - any claim needs Jay's confirmation. Heavy competition (95 bids). No proposal sent; no draft, quote or bid approved."
+          "status": "dead",
+          "status_note": "$20 deposit gate applies. Project frozen on Freelancer as of Nov 23. Was held in review - never surfaced. No proposal sent; no draft, quote or bid approved."
         }
       ],
       "rejects": [
@@ -631,7 +674,7 @@
           "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
           "url": "https://www.guru.com/work/detail/2121779",
           "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-          "bids": "115 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
+          "bids": "118 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
           "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -1766,7 +1809,7 @@
           "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
           "url": "https://www.guru.com/work/detail/2121544",
           "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-          "bids": "108 quotes (9 premium), Invited 0, Hired 0; send before Nov 27",
+          "bids": "109 quotes (9 premium), Invited 0, Hired 0; send before Nov 27",
           "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
           "status": "spotted",
           "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
