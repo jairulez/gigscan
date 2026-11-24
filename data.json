@@ -1,6 +1,49 @@
 {
-  "updated": "2026-11-23 08:15 IST",
+  "updated": "2026-11-24 08:15 IST",
   "days": [
+    {
+      "date": "2026-11-24",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer 695 unique projects scanned (27 keyword candidates): the lane-relevant ones were all saturated (AI order-processing agents at 157/266 bids, the AI company-wiki cluster at 134/151/290 bids, WhatsApp automation at 165 bids on a thin INR budget). Guru pg1 had nothing in lane. PPH latest: a Zoho + AI automation build ($588, 32 proposals) needs Zoho One/Recruit expertise we cannot ground, and an 'AI Accounting Consultant' is a 3-7yr hiring role, not a scoped gig. Reddit r/forhire + r/slavelabour new: sellers only, no hiring posts. Truelancer remains suspended (Vercel checkpoint since Nov 18; resumes only on an external recovery signal). No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "No tracked jobs died today. Counts: Guru 2121848@86 (3 premium)/Invited 1 (send before Dec 16), 2121779@118 (9 premium; send before Dec 11), 2121664@138 (10 premium)/Invited 15 (send before Dec 5), 2121544@110 (9 premium; send before Nov 27), 2121536@67/Invited 1 (send before Nov 26); PPH 4531536 (Claude AI automation) at 73 proposals, still open."
+        }
+      ],
+      "boards": [
+        "freelancer-api",
+        "guru",
+        "peopleperhour",
+        "reddit-forhire",
+        "reddit-slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "AI Agent Automating Amazon Orders (#40832663, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Seller Central order-watcher agent - clean lane fit, but 157 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "AI Order-Processing Agent (#40832189, $250-750)",
+          "platform": "Freelancer",
+          "reason": "End-to-end order agent with fraud/stock checks - lane fit, but 266 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Build AI-Driven Company Wiki (#40831914, $250-750)",
+          "platform": "Freelancer",
+          "reason": "RAG wiki over internal pages (ChatGPT/Claude) - lane fit, but 290 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Zoho Developer & AI Automation Specialist (#4532121, $588)",
+          "platform": "PeoplePerHour",
+          "reason": "Recruitment-agency automation build on Zoho One/Recruit - adjacent lane, but needs Zoho-specific experience we cannot claim, and 32 proposals already."
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "notes": [
@@ -211,7 +254,7 @@
           "title": "Claude AI & Automation Specialist (eBay listing automation, Pure Food Systems)",
           "url": "https://www.peopleperhour.com/freelance-jobs/artificial-intelligence/artificial-intelligence-consulting/claude-ai-automation-specialist-4531536",
           "budget": "Open to proposals (card shows ~$26/hr); Expert level",
-          "bids": "72 proposals; still open as of Nov 23",
+          "bids": "73 proposals; still open as of Nov 24",
           "client": "Steph M / Pure Food Systems, UK vending-machine business; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Workflow-automation lane fit: review and automate the client's existing Claude-for-eBay-listings process, integrate the Anthropic API with eBay and other systems via Make/Zapier/n8n, and train their team. Clear scope, free bidding, moderate competition (46 proposals). Client asks for examples of similar eBay/e-commerce work - any portfolio claim needs Jay's confirmation - and budget is open, so any rate is proposed scope only. No proposal sent; no draft, quote or bid approved."
@@ -304,7 +347,7 @@
           "title": "Async API Client & Monitor (Python/Go): async HTTP client + status polling worker",
           "url": "https://www.guru.com/work/detail/2121848",
           "budget": "Not stated (Fixed Price or Hourly)",
-          "bids": "85 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
+          "bids": "86 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
           "client": "yongsheng g, China; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Backend lane fit: clean async HTTP client (httpx/aiohttp or Go) with custom headers, payload serialization, token auth, connection pooling, timeouts, retries and proxy support; background worker polling API status with alerts; config file plus simple CLI/web status view; setup documentation. Clear scope, bot-executable, free bidding on Guru. Budget not stated - must be grounded before any quote. No proposal sent; no draft, quote or bid approved."
@@ -1241,7 +1284,7 @@
           "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
           "url": "https://www.guru.com/work/detail/2121664",
           "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-          "bids": "137 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+          "bids": "138 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
           "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
           "status": "spotted",
           "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -1809,7 +1852,7 @@
           "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
           "url": "https://www.guru.com/work/detail/2121544",
           "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-          "bids": "109 quotes (9 premium), Invited 0, Hired 0; send before Nov 27",
+          "bids": "110 quotes (9 premium), Invited 0, Hired 0; send before Nov 27",
           "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
           "status": "spotted",
           "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
@@ -2399,10 +2442,10 @@
       "boards": "Guru newest/live Shopify-POS, AI/automation categories; Truelancer pages1-2/live Excel-Word filtering; PPH newest/search; Freelancer99 active API jobs and AI workflow detail. Reddit sources attempted, Contra skipped, Upwork no new clearance.",
       "picks": [],
       "rejects": [
-        "Truelancer662120 Excel/Word data filtering ₹18000/80proposals: no file/record count, selection rules or deadline; new client0paid. Native hardware roles and $50 dropshipping store excluded.",
+        "Truelancer662120 Excel/Word data filtering \u20b918000/80proposals: no file/record count, selection rules or deadline; new client0paid. Native hardware roles and $50 dropshipping store excluded.",
         "Guru2121378 Shopify inventory/sales/POS integration no named POS/budget, gated; full-time dev and general manager human roles excluded.",
         "PPH costing-estimation workbook $101 could fit but paid-access route excluded; LinkedIn/Apollo scraping and account recovery rejected.",
-        "Freelancer40770375 n8n £20-250/180bids vague workflow; AI workflow $250-750/46bids no named tasks.40770449 PDF-to-Excel app ~₹5000 expectation unseen source/template; data entry unspecified volume. None exceptional given $20 deposit gate."
+        "Freelancer40770375 n8n \u00a320-250/180bids vague workflow; AI workflow $250-750/46bids no named tasks.40770449 PDF-to-Excel app ~\u20b95000 expectation unseen source/template; data entry unspecified volume. None exceptional given $20 deposit gate."
       ]
     },
     {
@@ -2421,9 +2464,9 @@
       "picks": [],
       "rejects": [
         "Guru2121366 configurable NAS store: unspecified budget, unanswered compatibility/catalog/accounting scope, Why can't I apply gate. MSP ongoing human/system administration; Ivory Coast QA geo restriction.",
-        "Truelancer662067 $100 long-term AI startup role unbounded;661949 ₹2000 bug/pipeline task no actual bugs/scripts/acceptance criteria. $5 custom ecommerce and paid Google reviews rejected.",
+        "Truelancer662067 $100 long-term AI startup role unbounded;661949 \u20b92000 bug/pipeline task no actual bugs/scripts/acceptance criteria. $5 custom ecommerce and paid Google reviews rejected.",
         "PPH scoped PostgreSQL14functions/18bindings production install blocked by paid-access route;8page editable desktop/mobile illustrated football design broad, pregnancy book UK-only.",
-        "Freelancer40768452 £750-1500 AI assistant broad scheduling/email/quotes/leads/chatbot188bids.40768643 Word-only chapter formatting unseen template46bids not exceptional given $20 deposit. Azure RCA CAD10-30 underpriced, QuickBooks native desktop experience/access unverified."
+        "Freelancer40768452 \u00a3750-1500 AI assistant broad scheduling/email/quotes/leads/chatbot188bids.40768643 Word-only chapter formatting unseen template46bids not exceptional given $20 deposit. Azure RCA CAD10-30 underpriced, QuickBooks native desktop experience/access unverified."
       ]
     },
     {
@@ -2773,7 +2816,7 @@
       "picks": [],
       "rejects": [
         "Guru: television streaming reseller setup has no budget and requires cross-device IPTV experience; cat-house job requires physical fabrication/shipping; speculative forces device is outside scope.",
-        "PeoplePerHour: the £250 Elementor sales page is well scoped, but the paid freelancer signup route remains dropped. Database harvesting rejected.",
+        "PeoplePerHour: the \u00a3250 Elementor sales page is well scoped, but the paid freelancer signup route remains dropped. Database harvesting rejected.",
         "Hubstaff: full-time operations, finance and driver support; $100/hr engineer job is client-facing fractional CTO and stakeholder management, not a bounded build.",
         "Reddit: commission-only HVAC sales; recurring social scripts/captions asks for independent creativity without heavy AI; job-application task has no verified bounded budget or deliverable.",
         "Freelancer: sampled jobs require native-language, physical presence, specialist CAD or broad mobile work; entire Zoho backend for $10-20 is unrealistic and not worth the $20 deposit gate.",
@@ -2796,7 +2839,7 @@
       "picks": [],
       "rejects": [
         "Guru: Halloween research includes ongoing Shopify management with no bounded deliverable; full-stack directory has no budget and broad compliance requirements; webmaster is ongoing support with no budget.",
-        "PeoplePerHour: scoped website and research tasks found, but paid freelancer signup route remains dropped; £50/week for 14 videos is underpriced.",
+        "PeoplePerHour: scoped website and research tasks found, but paid freelancer signup route remains dropped; \u00a350/week for 14 videos is underpriced.",
         "Hubstaff: full-time engineering, sales, specialist SAP and ongoing video editing, not bounded quick-delivery work. Application eligibility not verified.",
         "Freelancer: sampled recent jobs did not justify the $20 deposit gate; AI-code conversion has 138 bids, maritime platform is unrealistic for $250-750, and SEO asks for a live unpaid sample.",
         "Truelancer: fetch exposed possible Django and Excel jobs but the live page was checkpointed, so scope and availability could not be verified."
@@ -2818,7 +2861,7 @@
       "picks": [],
       "rejects": [
         "Guru newest: physical CAD chalet mockup, law-enforcement reporting/records-management specialties, and UHNW researcher (personal data) are outside the bot-executable scope.",
-        "PeoplePerHour bulk SumUp product-image swaps: £6 for up to 200 edits, underpriced and paid freelancer signup gate. Other recent roles need ongoing human expertise.",
+        "PeoplePerHour bulk SumUp product-image swaps: \u00a36 for up to 200 edits, underpriced and paid freelancer signup gate. Other recent roles need ongoing human expertise.",
         "Hubstaff newest: graphic design, onsite security, appointment setting and full-time engineering roles, not bounded automated jobs; application eligibility unverified.",
         "Reddit fresh visible r/slavelabour posts were sellers offers; r/forhire yielded no usable listing.",
         "Truelancer current listing could not be inspected past security checkpoint; not counted as screened."
@@ -2842,7 +2885,7 @@
         "Guru website text change: asks to change a financial claim from $4.2B to $6.2B without substantiation; not a safe blind edit.",
         "Guru CRM import: 40,000 contacts with emails, telephone numbers and addresses; no budget shown and private-data access, so not shortlisted.",
         "Guru Shopify management: ongoing store and advertising management, not bounded work.",
-        "PeoplePerHour AI image job: 800-1,000 images for £100, unrealistic budget, plus platform paid-signup gate. Other recent jobs need ongoing specialist work.",
+        "PeoplePerHour AI image job: 800-1,000 images for \u00a3100, unrealistic budget, plus platform paid-signup gate. Other recent jobs need ongoing specialist work.",
         "Hubstaff GHL assistant: ongoing weekday EST hours, platform expertise and outbound marketing, not bounded automated work; other newest jobs were assistant, sales and social media roles.",
         "Reddit fresh feeds could not be loaded today; not counted as screened."
       ]
@@ -2863,7 +2906,7 @@
       "picks": [],
       "rejects": [
         "Guru newest: USA-only VA involves outbound contact; full-time full-stack role and 1-3 month enterprise multimodal knowledge base are not bounded bot-executable gigs.",
-        "PeoplePerHour: Next.js/Vercel AirCon site has a £390 fixed budget and a requirements PDF, but the paid freelancer signup gate makes this route non-viable under zero-upfront preference; other recent listings involve human work or account access.",
+        "PeoplePerHour: Next.js/Vercel AirCon site has a \u00a3390 fixed budget and a requirements PDF, but the paid freelancer signup gate makes this route non-viable under zero-upfront preference; other recent listings involve human work or account access.",
         "Truelancer listing hit security checkpoint, so no current direct listing could be vetted.",
         "Hubstaff newest: B2B sales, cold outreach and client-success jobs require ongoing person-to-person work; application eligibility unverified.",
         "Reddit fresh visible r/slavelabour posts were offers, including an unsafe debit-card request; r/forhire did not yield a usable listing.",
@@ -2886,7 +2929,7 @@
       "picks": [],
       "rejects": [
         "Guru newest: galvanizing plant needs stamped electrical plans; Shopify management requires hands-on ad operations and ongoing store ownership, not a bounded bot deliverable.",
-        "Truelancer: five 2,000-word posts plus a research report for ₹600, underpriced; video-call data entry and mobile UX redesign require live human work.",
+        "Truelancer: five 2,000-word posts plus a research report for \u20b9600, underpriced; video-call data entry and mobile UX redesign require live human work.",
         "PeoplePerHour newest: Android signing diagnosis, guest post placement, professional label design or media contacts, not a clear bot-executable fit; platform signup has paid annual-plan gate.",
         "Hubstaff Talent newest/search matches: ongoing social, SEO, graphic design, operations or specialist roles; no suitable bounded listing, and in-product apply eligibility unverified.",
         "Reddit fresh: r/forhire and r/slavelabour visible tasks were offers or a request to falsify dates in a PDF; latter rejected as deceptive.",
@@ -2911,7 +2954,7 @@
           "platform": "PeoplePerHour",
           "title": "Build a high converting Demolition landing page for google ads",
           "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/website-development/build-a-high-converting-demolition-landing-page-for-google-a-4523375",
-          "budget": "£50-£90 fixed (posted £70 / ~$94)",
+          "budget": "\u00a350-\u00a390 fixed (posted \u00a370 / ~$94)",
           "bids": "28",
           "client": "Stonebridge L., UK; payment verification not visible; 0 completed projects",
           "status": "dead",
@@ -2922,7 +2965,7 @@
         "PPH laptop forwarding: physical logistics, not bot-executable; verification concerns",
         "Guru AI-agent developer: scope vague (multiple future projects, no concrete deliverable)",
         "Guru marketing automation: asks for business concepts and contract generation, no concrete bot deliverable",
-        "Freelancer WordPress blank page: urgent live-site diagnosis for ₹600-1,500, not exceptional given $20 deposit",
+        "Freelancer WordPress blank page: urgent live-site diagnosis for \u20b9600-1,500, not exceptional given $20 deposit",
         "Freelancer HGZY game scraping: app has no public API and asks for a headless emulator plus live predictions for $15-25; high access/maintenance risk",
         "Freelancer chicken-crossing analytics: 10 Hz pulses alone cannot reliably identify multiple birds and direction/speed as specified",
         "Reddit fresh jobs: mostly physical testing, senior production AI role, or non-automation work; no clear fit"
@@ -2956,7 +2999,7 @@
           "platform": "Freelancer",
           "title": "Python + AI Script for Stock Summary (BSE/NSE)",
           "url": "https://www.freelancer.com/projects/ai-integration/Python-Script-for-Stock-Summary",
-          "budget": "₹1,500-12,500 fixed (avg bid ~₹8,100)",
+          "budget": "\u20b91,500-12,500 fixed (avg bid ~\u20b98,100)",
           "bids": "51",
           "client": "Payment verification not visible",
           "status": "dead",
@@ -2966,7 +3009,7 @@
           "platform": "Freelancer",
           "title": "Excel Timesheet & Payroll Tool",
           "url": "https://www.freelancer.com/projects/data-analysis/Excel-Timesheet-Payroll-Tool",
-          "budget": "₹12,500-37,500 fixed (avg bid ~₹20,000)",
+          "budget": "\u20b912,500-37,500 fixed (avg bid ~\u20b920,000)",
           "bids": "32",
           "client": "Payment verification not visible",
           "status": "dead",
@@ -2994,7 +3037,7 @@
           "platform": "Freelancer",
           "title": "Logistics Google Sheet Automation",
           "url": "https://www.freelancer.com/projects/google-sheets/Logistics-Google-Sheet-Automation",
-          "budget": "₹1,500-12,500 fixed",
+          "budget": "\u20b91,500-12,500 fixed",
           "bids": "21",
           "client": "Jaipur, member since 2018",
           "status": "dead",
@@ -3004,7 +3047,7 @@
           "platform": "Freelancer",
           "title": "Comparar Tablas Excel Grandes",
           "url": "https://www.freelancer.com/projects/data-analysis/Comparar-Tablas-Excel-Grandes",
-          "budget": "€30-250 fixed",
+          "budget": "\u20ac30-250 fixed",
           "bids": "45",
           "client": "New account",
           "status": "dead",
@@ -3014,7 +3057,7 @@
           "platform": "Freelancer",
           "title": "Google Sheets Cleanup & Automation",
           "url": "https://www.freelancer.com/projects/google-sheets/Google-Sheets-Cleanup-Automation",
-          "budget": "₹750-1,250/hr",
+          "budget": "\u20b9750-1,250/hr",
           "bids": "29",
           "client": "New account",
           "status": "dead",
