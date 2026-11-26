@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-25 08:20 IST",
+  "updated": "2026-11-26 08:15 IST",
   "days": [
+    {
+      "date": "2026-11-26",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer API: 696 unique projects, 14 keyword candidates; all lane-relevant ones saturated (AI Telegram support bot $750-1500 at 148 bids, Amazon/Walmart research MVP reposts at 186/363, order-handling Claude chatbot at 372) or tiny/shady (WhatsApp channel growth, $15-25 chatbot clones). Guru pg1: nothing in lane. PPH latest: 'Do you build apps solely using AI?' ($144) is a placeholder budget with vague several-apps scope at 41 proposals - rejected. Reddit r/forhire + r/slavelabour new: research assistants, gameplay, a Zoom-call task - nothing in lane. Truelancer remains suspended (since Nov 18; resumes only on external recovery signal). No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One tracked job died: Guru 2121544 (Local AI Resume Screening) closed a day before its Nov 27 send-before, Hired 0 - was HELD, never surfaced. Counts: Freelancer 40834141 (yesterday's Claude support-bot pick) still active, now 77 bids; Guru 2121848@87 (3 premium)/Invited 1 (send before Dec 16), 2121779@123 (9 premium; Dec 11), 2121664@142 (10 premium)/Invited 15 (Dec 5), 2121536@67/Invited 1 (send before Nov 26 - lapses today)."
+        }
+      ],
+      "boards": [
+        "freelancer-api",
+        "guru",
+        "peopleperhour",
+        "reddit-forhire",
+        "reddit-slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "AI Telegram Support Chatbot (#40835855, $750-1500)",
+          "platform": "Freelancer",
+          "reason": "Support chatbot on Telegram - lane fit and decent budget, but 148 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Website Order-Handling Claude Chatbot (#40835130, EUR 250-750)",
+          "platform": "Freelancer",
+          "reason": "Order-handling chatbot - lane fit, but 372 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Do you build apps solely using AI? (#4532378, $144)",
+          "platform": "PeoplePerHour",
+          "reason": "AI-built apps collaboration - placeholder budget ('budget is just to place'), vague several-apps scope, 41 proposals; fails clear-scope and realistic-budget filters."
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "notes": [
@@ -26,7 +64,7 @@
           "title": "Claude AI Support Chatbot (#40834141)",
           "url": "https://www.freelancer.com/projects/ai-chatbot-development/Claude-Support-Chatbot",
           "budget": "INR 250,000-500,000 fixed (~$2.8k-5.6k)",
-          "bids": "40 bids; active as of Nov 25",
+          "bids": "77 bids; active as of Nov 26",
           "client": "Payment verification unknown; $20 deposit gate applies",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Exact lane fit: Claude-powered first-line support agent over client docs/FAQs (RAG), lightweight admin panel, embeddable website widget, WhatsApp/email hooks as phase 2. Acceptance criteria stated (85% first-line resolution, on-brand tone). Clear scope, bot-executable, premium budget, only 40 bids."
@@ -771,7 +809,7 @@
           "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
           "url": "https://www.guru.com/work/detail/2121779",
           "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-          "bids": "121 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
+          "bids": "123 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
           "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -1338,7 +1376,7 @@
           "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
           "url": "https://www.guru.com/work/detail/2121664",
           "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-          "bids": "140 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+          "bids": "142 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
           "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
           "status": "spotted",
           "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
@@ -1906,10 +1944,10 @@
           "title": "Local AI Resume Screening + ATS/FSN Integration Platform",
           "url": "https://www.guru.com/work/detail/2121544",
           "budget": "Fixed or hourly, no range stated; propose milestone pricing with discovery milestone first ($1,500)",
-          "bids": "114 quotes (9 premium), Invited 0, Hired 0; send before Nov 27",
+          "bids": "115 quotes (9 premium), Hired 0; closed Nov 26, a day before send-before",
           "client": "Americas Technician Services (Aaron Y) - $68,322 spent, 232 jobs posted, 477 paid invoices, 99.5% feedback; payment verification established employer",
-          "status": "spotted",
-          "status_note": "Free-quote board. Under technical/scope review; no proposal sent; no draft, quote or bid approved. FLAG: listing tagged 'W9 Required for U.S.' - Jay's eligibility as an India-based freelancer is unconfirmed and the draft asks this first. Exceptionally specced: local-only inference on client's Ryzen AI Halo (no paid AI APIs), evidence-linked extraction, multi-role verification, scoped audited writes, 75 tok/s benchmark with measurements only, no auto-reject decisions. Open qualifications: W9 eligibility, budget range, ATS/FSN access for discovery. No experience or portfolio claims used. Lead shared Oct 28 (eligibility-first, no budget). Draft held internal: the proposed approach and $1,500 discovery milestone are not technically qualified yet; prior demo evidence does not prove full-scope capability. Scope feasibility and Jay's own choice must settle first."
+          "status": "dead",
+          "status_note": "DEAD Nov 26 - job closed early, Hired 0. Was HELD in review, never surfaced."
         },
         {
           "platform": "Freelancer",
