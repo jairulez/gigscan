@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-26 08:15 IST",
+  "updated": "2026-11-27 08:15 IST",
   "days": [
+    {
+      "date": "2026-11-27",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer API: 695 unique projects, 19 keyword candidates; the only low-bid one was an Indonesian-language Gmail-to-WhatsApp lead-gen build ($3k-5k, 21 bids - language constraint plus lead-generation shape), and the rest were saturated (Telegram FAQ bots at 173/191, WhatsApp sales assistant at 195), shady (SMB lead list + cold outreach campaign, multi-number WhatsApp QR-mirror dashboard) or tiny. Guru pg1 and PPH latest: nothing in lane. Reddit r/forhire + r/slavelabour new: one painting task, nothing else. Truelancer remains suspended (since Nov 18; resumes only on external recovery signal). No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "One tracked job died: Guru 2121536 (Claude Skills repost) lapsed at its Nov 26 send-before and is now closed - was HELD, never surfaced; no Guru short-fuse jobs remain. Counts: Freelancer 40834141 (Nov 25 Claude support-bot pick) still active, 78 bids; Guru 2121848@89 (3 premium)/Invited 1 (send before Dec 16), 2121779@126 (9 premium; Dec 11), 2121664@145 (10 premium)/Invited 15 (Dec 5)."
+        }
+      ],
+      "boards": [
+        "freelancer-api",
+        "guru",
+        "peopleperhour",
+        "reddit-forhire",
+        "reddit-slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "Integrasi Gmail Bisnis ke WhatsApp (#40836777, $3000-5000)",
+          "platform": "Freelancer",
+          "reason": "Gmail-to-WhatsApp marketing/lead-gen hub - Indonesian-language brief and lead-generation shape; $20 deposit gate applies."
+        },
+        {
+          "title": "SMB Lead Email & WhatsApp Campaign (#40836235, SGD 250-750)",
+          "platform": "Freelancer",
+          "reason": "Cold outreach sequence with a 'verified list of SMB decision-makers' - data-sourcing plus cold-blast shape fails the nothing-shady filter."
+        },
+        {
+          "title": "Multi-Number WhatsApp Admin Dashboard (#40836223, $50/hr)",
+          "platform": "Freelancer",
+          "reason": "Unofficial QR-mirror multi-number WhatsApp automation - platform-abuse-adjacent, thin hourly budget; $20 deposit gate applies."
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "notes": [
@@ -64,7 +102,7 @@
           "title": "Claude AI Support Chatbot (#40834141)",
           "url": "https://www.freelancer.com/projects/ai-chatbot-development/Claude-Support-Chatbot",
           "budget": "INR 250,000-500,000 fixed (~$2.8k-5.6k)",
-          "bids": "77 bids; active as of Nov 26",
+          "bids": "78 bids; active as of Nov 27",
           "client": "Payment verification unknown; $20 deposit gate applies",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Exact lane fit: Claude-powered first-line support agent over client docs/FAQs (RAG), lightweight admin panel, embeddable website widget, WhatsApp/email hooks as phase 2. Acceptance criteria stated (85% first-line resolution, on-brand tone). Clear scope, bot-executable, premium budget, only 40 bids."
@@ -439,7 +477,7 @@
           "title": "Async API Client & Monitor (Python/Go): async HTTP client + status polling worker",
           "url": "https://www.guru.com/work/detail/2121848",
           "budget": "Not stated (Fixed Price or Hourly)",
-          "bids": "87 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
+          "bids": "89 quotes (3 premium), Invited 1, Hired 0; send before Dec 16",
           "client": "yongsheng g, China; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Backend lane fit: clean async HTTP client (httpx/aiohttp or Go) with custom headers, payload serialization, token auth, connection pooling, timeouts, retries and proxy support; background worker polling API status with alerts; config file plus simple CLI/web status view; setup documentation. Clear scope, bot-executable, free bidding on Guru. Budget not stated - must be grounded before any quote. No proposal sent; no draft, quote or bid approved."
@@ -809,7 +847,7 @@
           "title": "Medical Literature AI Search tool (RAG over PubMed/Europe PMC/ClinicalTrials.gov)",
           "url": "https://www.guru.com/work/detail/2121779",
           "budget": "Client $500-1k fixed (1-3 months, potential ongoing)",
-          "bids": "123 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
+          "bids": "126 quotes (9 premium), Invited 0, Hired 0; send before Dec 11",
           "client": "Saudi Arabia; $950 spent, 100%; payment verification unknown",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Squarely in the agentic-AI lane: automated biomedical literature search with RAG, strict source anchoring (every claim mapped to a retrieved snippet, 'Not Reported' when absent), inline citations with PMID/DOI, audit log, and three structured outputs (therapy-area digest, critical appraisal, medical-inquiry response). Python FastAPI/Flask + LangChain/LlamaIndex + vector DB + light frontend. Clear scope, realistic budget, free bidding on Guru. Heavy competition (60 quotes). No proposal sent; no draft, quote or bid approved."
@@ -1376,7 +1414,7 @@
           "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
           "url": "https://www.guru.com/work/detail/2121664",
           "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-          "bids": "142 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+          "bids": "145 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
           "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
           "status": "spotted",
           "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
