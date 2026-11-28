@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-27 08:15 IST",
+  "updated": "2026-11-28 08:20 IST",
   "days": [
+    {
+      "date": "2026-11-28",
+      "notes": [
+        {
+          "type": "info",
+          "text": "No picks today - nothing across the boards cleared the bar. Freelancer API: 697 unique projects, 12 keyword candidates; a Telegram-FAQ-bot cluster dominates (INR 12.5k-37.5k at 80 bids, USD 250-750 reposts at 222/254/260), plus tiny $10-30 jobs and a WATI Meta permissions fix at 163 bids - all saturated or thin. Guru pg1: nothing in lane. PPH latest (sort=Latest verified): logo design, trading indicator, web redesigns - nothing in lane. Reddit r/forhire new: part-time collaborator, manga translator, HR VA - nothing in lane; r/slavelabour: voice-clone lines, painting, CarPlay filming. Truelancer remains suspended (since Nov 18; resumes only on external recovery signal). No proposals sent; no drafts, quotes or bids approved."
+        },
+        {
+          "type": "warn",
+          "text": "No tracked jobs died today. Counts: Freelancer 40834141 (Nov 25 Claude support-bot pick) still active, 78 bids; Guru 2121848@89 (3 premium)/Invited 1 (send before Dec 16), 2121779@126 (9 premium; send before Dec 11), 2121664@146 (11 premium)/Invited 15 (send before Dec 5)."
+        }
+      ],
+      "boards": [
+        "freelancer-api",
+        "guru",
+        "peopleperhour",
+        "reddit-forhire",
+        "reddit-slavelabour"
+      ],
+      "picks": [],
+      "rejects": [
+        {
+          "title": "AI Telegram FAQ Support Bot (#40839263, INR 12.5k-37.5k)",
+          "platform": "Freelancer",
+          "reason": "Telegram FAQ support bot - lane fit, but 80 bids and thin INR budget; $20 deposit gate applies."
+        },
+        {
+          "title": "AI Telegram FAQ Chatbot (#40838081, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Same Telegram FAQ shape, 260 bids - saturated; $20 deposit gate applies."
+        },
+        {
+          "title": "Build Internal CRE Leasing Management System (#40837980, $250-750)",
+          "platform": "Freelancer",
+          "reason": "Internal leasing management system with Claude - full app build beyond bot-executable scope, 262 bids; $20 deposit gate applies."
+        }
+      ]
+    },
     {
       "date": "2026-11-27",
       "notes": [
@@ -102,7 +140,7 @@
           "title": "Claude AI Support Chatbot (#40834141)",
           "url": "https://www.freelancer.com/projects/ai-chatbot-development/Claude-Support-Chatbot",
           "budget": "INR 250,000-500,000 fixed (~$2.8k-5.6k)",
-          "bids": "78 bids; active as of Nov 27",
+          "bids": "78 bids; active as of Nov 28",
           "client": "Payment verification unknown; $20 deposit gate applies",
           "status": "spotted",
           "status_note": "HELD in review - not surfaced. Exact lane fit: Claude-powered first-line support agent over client docs/FAQs (RAG), lightweight admin panel, embeddable website widget, WhatsApp/email hooks as phase 2. Acceptance criteria stated (85% first-line resolution, on-brand tone). Clear scope, bot-executable, premium budget, only 40 bids."
@@ -1414,7 +1452,7 @@
           "title": "Add an OpenAI chatbot to a WooCommerce website (self-hosted, order updates, human handoff)",
           "url": "https://www.guru.com/work/detail/2121664",
           "budget": "Client Under $250 fixed; thin for the full ask, none proposed",
-          "bids": "145 quotes (10 premium), Invited 15, Hired 0; send before Dec 5",
+          "bids": "146 quotes (11 premium), Invited 15, Hired 0; send before Dec 5",
           "client": "UK, 97.8% feedback, $2,232 spent, 35 jobs posted / 12 paid, 1 outstanding invoice; payment verification unknown",
           "status": "spotted",
           "status_note": "Free board. HELD in review - not surfaced. Clean lane fit: self-hosted chatbot (no subscription fee) on a separate VPS, linked to the client's OpenAI account, answers order-status questions, transfers to live chat when the AI cannot answer, and learns from uploaded product data/catalogues. Scope-to-price mismatch is the main risk. No proposal sent; no draft, quote or bid approved."
